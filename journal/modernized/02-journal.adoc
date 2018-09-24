@@ -1268,13 +1268,13 @@ so that the Lord delivered us by removing our unmerciful oppressor.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === An answer to a Proclamation which came forth soon after our commitment to prison in Norwich, whereby our then persecutors were the more lifted up against us.
 
 [.offset]
 The title of the said answer was:
 
-[.alt]
+[.blurb]
 === The Truth proclaimed, and the Innocent cleared from false informations. The preamble being since added thereto.
 
 Many false informations being then gathered up in several parts of the nation,
@@ -2147,7 +2147,7 @@ and how unchristian they were in practice.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === The case of those called Quakers, who were sufferers in Edmundsbury jail in Suffolk; one whereof was myself.
 
 Upon the 30th day of the fifth month, 1655, being the second-day of the week,
@@ -2337,7 +2337,7 @@ A poor pretense for detaining me fifteen months in prison!
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === The substance of a letter which I sent to Thomas Waldgrave, after he committed me to Bury jail.
 
 [.salutation]
@@ -2418,7 +2418,7 @@ I told him I followed his own subscription to his mittimus, whereby he committed
 having therein so subscribed himself, T. Waldgrave; but he concluded,
 it was not for me to do as he had done; whereby he proved no crime at all against me.
 
-[.alt]
+[.blurb]
 === Copy of the mittimus. To the constables of Bares, and to the keeper of the jail of Bury.
 
 "`I have sent you herewithal the body of George Whitehead, of Orton,
@@ -2462,7 +2462,7 @@ than he did by his injurious and illegal proceedings against us?
 And that it may further appear what kind of warrants these justices made against us,
 here follows also a copy of John Gurden's warrant of commitment against George Rose.
 
-[.alt]
+[.blurb]
 === Suffolk.--To the keeper of the Common jail, at Bury, St. Edmunds, and to his deputy, and deputies there.
 
 "`Forasmuch as upon examination of George Rose, late of Halsted, in the county of Essex,
@@ -2496,7 +2496,7 @@ How evident is it therefore, that their own invidious wills were their only laws
 [.small-break]
 '''
 
-[.alt]
+[.blurb]
 === The substance of a letter to William Blumfield, who sat for judge at the Quarter Sessions aforesaid.
 
 "`To you who are called a justice, am I moved of the Lord God to write;
@@ -2891,7 +2891,7 @@ look when the messenger comes, shut the door, and hold him fast at the door,`" e
 William Dewsbury in true love, came to visit us in Bury jail;
 and understanding something of the jailer's cruelty, wrote him a letter as follows:
 
-[.alt]
+[.blurb]
 === "`For Robert Newton, keeper of the jail in Bury.
 
 "`Your cruelty and oppressing the innocent, is come up in remembrance before the pure,
@@ -3053,7 +3053,7 @@ I humbly hope and trust in the Lord,
 I shall never forget his loving kindness and mercy shown unto me,
 in those cloudy days of distress and affliction.
 
-[.alt]
+[.blurb]
 === A Copy of our Release.
 
 [.signed-section-context-open]
@@ -3355,7 +3355,7 @@ That night I lodged at a public house, where I rested quietly in much peace.
 [.offset]
 A copy of the warrant and pass follows.
 
-[.alt]
+[.blurb]
 === To all constables, and all other officers whom it may concern, and to every of them.
 
 Be it remembered, that one George Whitehead, a young man about twenty years of age,
@@ -4447,7 +4447,7 @@ Edmund Darby, Thomas Brook, Richard Thurston, William Goodale.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === An abstract of an answer that was given to the said 'presentment, by some Friends concerned.
 
 "`Let all sober people observe,
@@ -5042,7 +5042,7 @@ and Henry Johnson had enough of disputing upon those which we did discourse.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === A brief account of our discourse on some of the foregoing questions follows.
 
 Being met in their parish church, as it is called, the 2nd day of the first month, 1659,
@@ -6193,7 +6193,7 @@ and of the manner thereof.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === A brief account of my commitment to Norwich castle, with other Friends, the 20th day of the Eleventh month, 1660.
 
 George Whitehead, John Lawrence, Joseph Lawrence, and William Barber,
@@ -6509,7 +6509,7 @@ her age and weakness, not being able to endure riding so far on horseback.
 The Lord showed mercy to that family, as he did to many others in those days,
 who since are gone to rest from their labors and sufferings.
 
-[.alt]
+[.blurb]
 === A copy of John Lawrence's letter to Justice Talbot, after we were committed prisoners to Norwich castle, which I thought fitting to insert in this place.
 
 [.salutation]
@@ -6571,7 +6571,7 @@ John Lawrence.
 [.signed-section-context-close]
 Norwich Castle, the 25th of the Eleventh month, called January, 1660.
 
-[.alt]
+[.blurb]
 === The substance of a letter to the Mayor of the city of Norwich, when he was busy in persecuting and imprisoning our friends there, A. D. 1660.
 
 Friend, Do you not own yourself to be a Christian magistrate?
@@ -6646,7 +6646,7 @@ George Whitehead.
 [.signed-section-context-close]
 1660, in the Eleventh month.
 
-[.alt]
+[.blurb]
 === The substance of a letter, in answer to the Mayor of Norwich, when our friends were prisoners there.
 
 [.salutation]
@@ -6731,7 +6731,7 @@ and many of the persons chosen to be members of that parliament,
 being known to be persecutors, they swayed and carried it by vote,
 so that the bill was committed, and at last passed into an Act, which is entitled,
 
-[.alt]
+[.blurb]
 === An Act for preventing mischiefs and dangers, that may arise by certain persons called Quakers, and others refusing to take lawful oaths.
 
 "`Whereas, of late times, certain persons under the name of Quakers,
@@ -7836,7 +7836,7 @@ the two following epistles are next inserted.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === A few seasonable words to all the tender hearted, whose spirits are saddened and cast down at the trials of the present time.
 
 [.salutation]
@@ -9332,7 +9332,7 @@ blessed be his name.
 [.asterism]
 '''
 
-[.alt]
+[.blurb]
 === The occasion of the barbarous persecutions against our said meeting in Southwark, was by the following order.
 
 At the court at Whitehall, the 29th of July, 1670;--present,
@@ -9756,7 +9756,7 @@ and in case of any difficulty, that he attend the lord Keeper,
 and receive his directions therein.
 Edward Walkek.
 
-[.alt]
+[.blurb]
 === Here follows a copy also of the king's warrant to the attorney general.
 
 Our will and pleasure is, that you prepare a bill fit for the royal signature,
