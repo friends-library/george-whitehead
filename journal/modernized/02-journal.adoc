@@ -1268,7 +1268,7 @@ so that the Lord delivered us by removing our unmerciful oppressor.
 [.asterism]
 '''
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 [.blurb]
@@ -4581,7 +4581,7 @@ which was signed by Robert Duncon, George Whitehead, and Robert Grassingham.
 [.offset]
 George Whitehead`''`s letter to the inhabitants of Ipswich, both teachers and people.
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 Oh! the pride,
