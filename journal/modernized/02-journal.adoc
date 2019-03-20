@@ -1265,8 +1265,8 @@ in all eight weeks or above, until the jailor died.
 And then we were freed out of prison,
 so that the Lord delivered us by removing our unmerciful oppressor.
 
-[.asterism]
-'''
+[.embedded-content-document.address]
+--
 
 [.blurb]
 === An answer to a Proclamation which came forth soon after our commitment to prison in Norwich, whereby our then persecutors were the more lifted up against us.
@@ -1536,6 +1536,8 @@ Prisoners of the Lord in Norwich.
 
 [.signed-section-context-close]
 "`From the castle and jail of Norwich, the 24th day of the Twelfth month, 1654.`"
+
+--
 
 Besides our hard usage, and the severity of our confinement,
 to add affliction to our bonds, one Sampson Townsend, by trade a weaver,
@@ -2334,8 +2336,8 @@ according to his own subscription to his warrant of commitment, as is hereafter 
 
 A poor pretense for detaining me fifteen months in prison!
 
-[.asterism]
-'''
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === The substance of a letter which I sent to Thomas Waldgrave, after he committed me to Bury jail.
@@ -2412,11 +2414,16 @@ George Whitehead.
 [.signed-section-context-close]
 Edmundsbury Jail, the 15th of the Sixth mo., 1655.
 
+--
+
 This letter Thomas Waldgrave produced in court at the aforesaid quarter sessions,
 and the only exception he made against it was, my giving him the title of T. Waldgrave.
 I told him I followed his own subscription to his mittimus, whereby he committed me,
 having therein so subscribed himself, T. Waldgrave; but he concluded,
 it was not for me to do as he had done; whereby he proved no crime at all against me.
+
+[.embedded-content-document.legal]
+--
 
 [.blurb]
 === Copy of the mittimus. To the constables of Bares, and to the keeper of the jail of Bury.
@@ -2431,8 +2438,7 @@ to be holden for this county at Bury,
 then and there to be proceeded withal according to law;
 and hereof I require you not to fail; this 1st day of August, 1655.`"
 
-[.small-break]
-'''
+--
 
 Observe, an idle wandering fellow; this is false in fact,
 as well as scurrilous and disdainful; for, 1. I am well known to be no such person;
@@ -2462,6 +2468,9 @@ than he did by his injurious and illegal proceedings against us?
 And that it may further appear what kind of warrants these justices made against us,
 here follows also a copy of John Gurden`'s warrant of commitment against George Rose.
 
+[.embedded-content-document.legal]
+--
+
 [.blurb]
 === Suffolk.--To the keeper of the Common jail, at Bury, St. Edmunds, and to his deputy, and deputies there.
 
@@ -2483,6 +2492,8 @@ shall not in the mean time find such able and
 sufficient sureties for his appearance as aforesaid.
 Dated at Affington, the third day of September, 1655.`"
 
+--
+
 Observe.
 1+++.+++ What legal precedent could they have for such a warrant of commitment,
 when they neither assign cause to require such sureties, nor any matter of fact,
@@ -2493,8 +2504,8 @@ we cannot think it was either a legal or valid reason, or cause of such severity
 as these persons were bent upon against us.
 How evident is it therefore, that their own invidious wills were their only laws therein?
 
-[.small-break]
-'''
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === The substance of a letter to William Blumfield, who sat for judge at the Quarter Sessions aforesaid.
@@ -2564,6 +2575,8 @@ Glory to the Lord God forever.
 
 [.signed-section-context-close]
 "`Edmundsbury common jail, the 20th day of the Eighth month, 1655.`"
+
+--
 
 Our persecutors having confined five of us in prison, by their warrants before recited,
 and by their quarter sessions, passed judgment of fines upon most of us,
@@ -2891,6 +2904,9 @@ look when the messenger comes, shut the door, and hold him fast at the door,`" e
 William Dewsbury in true love, came to visit us in Bury jail;
 and understanding something of the jailer`'s cruelty, wrote him a letter as follows:
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === "`For Robert Newton, keeper of the jail in Bury.
 
@@ -2915,6 +2931,8 @@ perish your blood will be upon your own head.
 
 [.signed-section-signature]
 "`William Dewsbury.`"
+
+--
 
 The jailer was greatly tormented and enraged at this letter.
 
@@ -3053,6 +3071,9 @@ I humbly hope and trust in the Lord,
 I shall never forget his loving kindness and mercy shown unto me,
 in those cloudy days of distress and affliction.
 
+[.embedded-content-document.legal]
+--
+
 [.blurb]
 === A Copy of our Release.
 
@@ -3071,6 +3092,8 @@ they be forthwith sent to their respective homes.
 
 [.signed-section-signature]
 W+++.+++ Jessop, Clerk of the Council.
+
+--
 
 Pursuant to this order, sir Francis Russell took special care to put it in execution.
 He sent his clerk to the prison to see us set at liberty, which was done accordingly;
@@ -3355,6 +3378,9 @@ That night I lodged at a public house, where I rested quietly in much peace.
 [.offset]
 A copy of the warrant and pass follows.
 
+[.embedded-content-document.legal]
+--
+
 [.blurb]
 === To all constables, and all other officers whom it may concern, and to every of them.
 
@@ -3370,6 +3396,8 @@ before the first day of June now next ensuing.
 
 [.signed-section-context-close]
 Dated at Affington, in this county of Suffolk, the 1st day of April, 1657.
+
+--
 
 Be it remembered, that this bloody warrant is grounded upon a notorious falsehood;
 for I was neither found vagrant nor wandering at Nayland,
@@ -4424,8 +4452,8 @@ In pursuance of those persecutors`' invidious designs against us,
 to prevent Friends having more meetings in Ipswich,
 the following presentment was devised and made against our friend Timothy Grimble.
 
-[.small-break]
-'''
+[.embedded-content-document.legal]
+--
 
 "`Ipswich, Suffolk.--The jury for his highness, Richard,
 lord Protector of the commonwealth of England, Scotland and Ireland,
@@ -4444,8 +4472,10 @@ Robert Stebbing, Thomas Grigg, Charles Wright, John Gray, John Jolley, Samuel Hu
 Edward Keen, Richard Humphrey, Joseph Haymor, Richard Clopton, Peter Cole, Robert Grows,
 Edmund Darby, Thomas Brook, Richard Thurston, William Goodale.
 
-[.asterism]
-'''
+--
+
+[.embedded-content-document.address]
+--
 
 [.blurb]
 === An abstract of an answer that was given to the said '`presentment, by some Friends concerned.
@@ -4530,11 +4560,16 @@ as are contained in the said presentment.
 So that we may even say with the prophet; '` They that were mad against us,
 were sworn against us.`'`"
 
+--
+
 Thus I have abstracted the substance and greatest part of our original answer,
 which was signed by Robert Duncon, George Whitehead, and Robert Grassingham.
 
 [.offset]
 George Whitehead`''`s letter to the inhabitants of Ipswich, both teachers and people.
+
+[.embedded-content-document.address]
+--
 
 Oh! the pride,
 high-mindedness and self-conceitedness which abound in this town of Ipswich!
@@ -4617,6 +4652,8 @@ Suffolk, the 1st day of the Ninth month, 1658.
 
 [.signed-section-signature]
 George Whitehead.
+
+--
 
 It was observable, that notwithstanding all the persecutions,
 reproaches and calumnies which we suffered under, and were multiplied against us,
@@ -6509,6 +6546,9 @@ her age and weakness, not being able to endure riding so far on horseback.
 The Lord showed mercy to that family, as he did to many others in those days,
 who since are gone to rest from their labors and sufferings.
 
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === A copy of John Lawrence`'s letter to Justice Talbot, after we were committed prisoners to Norwich castle, which I thought fitting to insert in this place.
 
@@ -6570,6 +6610,11 @@ John Lawrence.
 
 [.signed-section-context-close]
 Norwich Castle, the 25th of the Eleventh month, called January, 1660.
+
+--
+
+[.embedded-content-document.letter]
+--
 
 [.blurb]
 === The substance of a letter to the Mayor of the city of Norwich, when he was busy in persecuting and imprisoning our friends there, A. D. 1660.
@@ -6646,6 +6691,11 @@ George Whitehead.
 [.signed-section-context-close]
 1660, in the Eleventh month.
 
+--
+
+[.embedded-content-document.letter]
+--
+
 [.blurb]
 === The substance of a letter, in answer to the Mayor of Norwich, when our friends were prisoners there.
 
@@ -6694,6 +6744,8 @@ From a friend to your soul,
 
 [.signed-section-signature]
 George Whitehead.
+
+--
 
 During our imprisonment we not only faithfully warned
 our persecutors against their hard proceedings,
@@ -7401,6 +7453,9 @@ Friends have room to lodge apart from the felons.
 [.offset]
 A copy of the mittimus follows.
 
+[.embedded-content-document.legal]
+--
+
 [.signed-section-context-open]
 Surrey, ss.
 
@@ -7425,6 +7480,8 @@ Dated the 3rd day of July, 1664.
 
 [.signed-section-signature]
 John Bkomfield, John Lenthal, George Moor.
+
+--
 
 A few days after my commitment to White Lion prison, another trial befell me.
 I was had out of the prison, before John Lenthal, about the plot in the north of England,
@@ -7833,8 +7890,8 @@ which is in Christ Jesus our Lord: Rom. 8:35-39.
 Further to show my exercise and concern for our friends in that time,
 the two following epistles are next inserted.
 
-[.asterism]
-'''
+[.embedded-content-document.epistle]
+--
 
 [.blurb]
 === A few seasonable words to all the tender-hearted, whose spirits are saddened and cast down at the trials of the present time.
@@ -7968,6 +8025,8 @@ George Whitehead, Alexander Parker.
 [.signed-section-context-close]
 London, the 19th of the Sixth month, 1665.
 
+--
+
 In the year 1665, that very summer in which the plague and mortality were so great,
 the persecutors in London were busy to send away our
 friends whom they had sentenced for banishment,
@@ -8036,6 +8095,9 @@ whom he has yet preserved to bear their testimony, in and about the city of Lond
 To whom this is a testimony of the dear love and tender care which flows forth,
 and is extended toward them,
 and all tender hearts who are concerned in the like sufferings, temptations and trials.
+
+[.embedded-content-document.epistle]
+--
 
 [.signed-section-context-open]
 From their faithful friend and servant in the Lord, George Whitehead.
@@ -8429,6 +8491,8 @@ I am your dear and faithful friend and brother,
 [.signed-section-signature]
 George Whitehead.
 
+--
+
 Let this be read distinctly,
 in the life and authority of God--from which it came --
 among Friends in and about the city of London,
@@ -8537,8 +8601,8 @@ And to show that there remained a sincerity in the man,
 after his mind came to be settled, he wrote a letter to some Friends in London, wherein,
 after he remembers his love to G. W., J. C, and S. H., he has these words following:
 
-[.small-break]
-'''
+[.embedded-content-document.letter]
+--
 
 "`I dare not much stir up or down any ways, for people`'s looking at what was done,
 lest the Lord should be offended, further than my own outward business lies.
@@ -8551,6 +8615,8 @@ In the love of my Father, farewell.
 
 [.signed-section-signature]
 T+++.+++ I.`"
+
+--
 
 When the city was burnt down and laid in ashes, we had our meetings on the fourth-day,
 weekly, near Wheeler street; our usual place, the Bull and Mouth,
@@ -9331,6 +9397,9 @@ blessed be his name.
 [.asterism]
 '''
 
+[.embedded-content-document.legal]
+--
+
 [.blurb]
 === The occasion of the barbarous persecutions against our said meeting in Southwark, was by the following order.
 
@@ -9364,6 +9433,8 @@ to prevent and hinder such meetings at their peril.
 
 [.signed-section-signature]
 John Nicholas.
+
+--
 
 Which order was both affixed on the door of the meeting-house,
 and soon after put in execution; for they sent, and very much spoiled,
@@ -9755,6 +9826,9 @@ and in case of any difficulty, that he attend the lord Keeper,
 and receive his directions therein.
 Edward Walkek.
 
+[.embedded-content-document.legal]
+--
+
 [.blurb]
 === Here follows a copy also of the king`'s warrant to the attorney general.
 
@@ -9777,6 +9851,8 @@ for which this shall be your warrant.
 Given at our court at Whitehall, the -- day of June,
 in the twenty-fourth year of our reign.
 To our attorney general.
+
+--
 
 After we had taken out the foregoing order and warrant,
 our friend Thomas Moore and I carried and delivered the
@@ -9869,6 +9945,9 @@ to remit or abate the great fees.
 
 Whereupon the king gave order, according to our request, as follows;
 
+[.embedded-content-document.legal]
+--
+
 [.signed-section-context-open]
 Locus Sigilli.
 
@@ -9883,6 +9962,8 @@ Arlington.
 
 [.signed-section-context-close]
 At the court at Whitehall, the 13th of Sept, 1672.
+
+--
 
 But though we had this warrant from the king,
 yet we had trouble from some of the covetous clerks, who strove hard to exact upon us.
