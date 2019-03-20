@@ -1265,9 +1265,6 @@ in all eight weeks or above, until the jailor died.
 And then we were freed out of prison,
 so that the Lord delivered us by removing our unmerciful oppressor.
 
-[.asterism]
-'''
-
 [.embedded-content-document.address]
 --
 
@@ -2339,9 +2336,6 @@ according to his own subscription to his warrant of commitment, as is hereafter 
 
 A poor pretense for detaining me fifteen months in prison!
 
-[.asterism]
-'''
-
 [.embedded-content-document.letter]
 --
 
@@ -2446,9 +2440,6 @@ and hereof I require you not to fail; this 1st day of August, 1655.`"
 
 --
 
-[.small-break]
-'''
-
 Observe, an idle wandering fellow; this is false in fact,
 as well as scurrilous and disdainful; for, 1. I am well known to be no such person;
 for after my parents took me away from that noted school at Blencoe, in Cumberland,
@@ -2512,9 +2503,6 @@ seems to be made the reason of his commitment,
 we cannot think it was either a legal or valid reason, or cause of such severity,
 as these persons were bent upon against us.
 How evident is it therefore, that their own invidious wills were their only laws therein?
-
-[.small-break]
-'''
 
 [.embedded-content-document.letter]
 --
@@ -4485,9 +4473,8 @@ Edward Keen, Richard Humphrey, Joseph Haymor, Richard Clopton, Peter Cole, Rober
 Edmund Darby, Thomas Brook, Richard Thurston, William Goodale.
 
 --
-//not sure if this should be embedded or not.^^^
 
-[.embedded-content-document.letter]
+[.embedded-content-document.address]
 --
 
 [.blurb]
@@ -4573,10 +4560,10 @@ as are contained in the said presentment.
 So that we may even say with the prophet; '` They that were mad against us,
 were sworn against us.`'`"
 
+--
+
 Thus I have abstracted the substance and greatest part of our original answer,
 which was signed by Robert Duncon, George Whitehead, and Robert Grassingham.
-
---
 
 [.offset]
 George Whitehead`''`s letter to the inhabitants of Ipswich, both teachers and people.
@@ -9864,7 +9851,7 @@ for which this shall be your warrant.
 Given at our court at Whitehall, the -- day of June,
 in the twenty-fourth year of our reign.
 To our attorney general.
-//Does there need to be a closing above?
+
 --
 
 After we had taken out the foregoing order and warrant,
