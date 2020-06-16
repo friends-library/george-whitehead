@@ -474,6 +474,9 @@ and to receive those doctrines and principles which
 are essential to Christian life and salvation,
 especially and particularly these following:
 
+[.numbered-group]
+====
+
 [.numbered]
 1+++.+++ God`'s free love in His dear Son Jesus Christ,
 and His universal grace in Him offered to all mankind;
@@ -509,6 +512,8 @@ This indeed is a great satisfaction to the soul:
 to be retired in mind and spirit to that Holy Spirit and truth, even the living Word,
 wherein God can truly be worshipped, bowed unto, and waited upon in true humility;
 for herein He comforts and refreshes His people, and causes living praise to arise.
+
+====
 
 All of these things are agreeable to the testimony of holy Scripture,
 and are known and understood by every true believer in Christ,
