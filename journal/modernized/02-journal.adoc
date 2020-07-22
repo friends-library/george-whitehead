@@ -3475,7 +3475,10 @@ so I rode about five miles that evening, to a town called Steeple Bumsted, in Es
 where I got lodging in an inn.
 
 The inn keeper being drunk, and understanding I was called a Quaker, I heard him say,
-"`I`'ll kick him from stile to stile;`" yet the next morning being more sober,
+// lint-disable obsolete-spellings "stile"
+"`I`'ll kick him from stile to stile;`"^
+footnote:[A _stile_ is a step or set of steps for passing over a fence or wall.]
+yet the next morning being more sober,
 when I paid for what I had, he parted friendly with me.
 
 Then I rode to Halsted and Coggeshall, and after that to Colchester,
