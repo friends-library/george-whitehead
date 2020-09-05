@@ -502,6 +502,10 @@ by whose light and teaching I came livingly to believe, understand,
 and receive those doctrines and principles essential to a Christian life and salvation,
 especially and particularly these following, viz:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ God`'s free love in his dear Son Jesus Christ,
 and his universal grace in him to mankind;
 and that Christ died for all men that were dead in their sins;
@@ -512,6 +516,7 @@ So that the free grace and love of God to mankind, are testified and evident,
 both in Christ`'s dying for all men, and by his being the "`Light of the world,
 which enlightens every man coming into the world.`"
 
+[.numbered]
 2+++.+++ The necessity of men`'s repenting, and truly believing the gospel,
 and of being so converted to Christ, as to receive Christ,
 and to experience a living and steadfast faith in him, in his light, name and power,
@@ -533,6 +538,8 @@ and waited upon in true humility, for therein he comforts and refreshes his peop
 All which every true believer in Christ, our light and life, understands,
 and knows the necessity of, even of these things,
 which are agreeable to holy Scripture testimony.
+
+====
 
 I always had a love to the Bible, and to reading therein, from my childhood,
 yet did not truly understand, nor experience those doctrines essential to salvation,
@@ -1263,12 +1270,11 @@ in all eight weeks or above, until the jailor died.
 And then we were freed out of prison,
 so that the Lord delivered us by removing our unmerciful oppressor.
 
-An answer to a Proclamation which came forth soon
-after our commitment to prison in Norwich,
-whereby our then persecutors were the more lifted up against us.
-The title of the said answer was, viz: The Truth proclaimed,
-and the Innocent cleared from false informations.
-The preamble being since added thereto.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== An answer to a Proclamation which came forth soon after our commitment to prison in Norwich, whereby our then persecutors were the more lifted up against us. The title of the said answer was, viz: The Truth proclaimed, and the Innocent cleared from false informations. The preamble being since added thereto.
 
 Many false informations being then gathered up in several parts of the nation,
 against a harmless, innocent people, by scorners termed Quakers,
@@ -1298,6 +1304,7 @@ And therefore freedom and liberty to all persons in this commonwealth fearing Go
 is to be protected, answerable to the mercies received,
 being delivered and set free from the outward enemies of this commonwealth.
 
+[.offset]
 And the things proclaimed against, are, viz.
 
 Imposing upon the consciences of their brethren, offering violence to their persons,
@@ -1313,14 +1320,20 @@ and proclaimed against,
 which be contrary to the just liberty and freedom which
 the people of this commonwealth are to be protected in, etc.
 
-Answer 1. The power which from God immediately is received,
+[.numbered-group]
+====
+
+[.numbered]
+_Answer 1._ The power which from God immediately is received,
 brings into the true liberty and freedom as pertaining to conscience;
 and the pure law of God, which came from the same power,
 takes hold upon that which oppresseth the good seed and conscience also.
 
+[.numbered]
 2+++.+++ Laws made in the will of man, and man by his own power and will ruling,
 do keep in bondage.
 
+[.numbered]
 3+++.+++ And though liberty of conscience and liberty of godliness,
 have been long pretended and promised,
 yet the same is not yet performed nor fulfilled to
@@ -1332,6 +1345,7 @@ cruelty, and plotting mischief against us,
 than ever those accounted enemies of the commonwealth invented to take away our lives;
 though no man can lay any evil to our charge, done or acted, or law broken by us.
 
+[.numbered]
 4+++.+++ But for declaring the truth freely, as it is made manifest in us, from the Lord,
 against all deceit and unrighteousness of men,
 we are shut up and kept close in holes and prisons, among thieves and murderers.
@@ -1340,10 +1354,12 @@ for declaring to them in love to their souls,
 the eternal truth of God who hath called us,
 whom we cannot deny for the world`'s advantage.
 
+[.numbered]
 5+++.+++ For witnessing forth in life and power that, which protection is promised to,
 many now suffer in England, and have not their just liberty in the exercise of godliness,
 though not found guilty of any of those unchristian practices proclaimed against.
 
+[.numbered]
 6+++.+++ The people called Quakers do not impose upon the consciences of their brethren,
 or any others,
 any thing which may embondage their just liberty or freedom in the things of God,
@@ -1357,6 +1373,7 @@ and these things we suffer without resistance,
 waiting for that liberty from the Lord to be freed from their bonds,
 who impose upon us things contrary to the light of Christ in the conscience.
 
+[.numbered]
 7+++.+++ As to offering violence to any man`'s person, that is far from us,
 for Cain`'s nature in us is crucified, from which all murder,
 enmity and violence proceed, and from that we are clear before the Lord;
@@ -1365,6 +1382,7 @@ how free we are from doing any violence to any man`'s person;
 but by violence we suffer imprisonment, without the breach of any law proved against us;
 so that the liberty proclaimed, is denied us by our persecutors.
 
+[.numbered]
 8+++.+++ The royal law of love we sincerely own, and its bounds we do not pass;
 and we do love our enemies, who despitefully use us;
 and this against them shall bear witness,
@@ -1378,6 +1396,7 @@ desiring that their minds by it may be guided up unto God, out of all malice, en
 deceit, debate, malignity, whisperings, backbitings;
 and from all false informations and slanders, which wicked and ungodly men cast upon us.
 
+[.numbered]
 9+++.+++ They who are in the pure power of God, in whom the life of God is made manifest,
 though by the scorners of the world called Quakers, are no fighters nor strikers,
 nor revilers, nor scorners, nor truce breakers, nor incontinent,
@@ -1395,6 +1414,7 @@ from the pure light of Christ in the conscience,
 and are not come to witness the pure judgment set up in the earth,
 through which redemption is witnessed by the righteous seed and generation.
 
+[.numbered]
 10+++.+++ And as touching the many informations said to be given forth of such practices,
 by those under the names of Quakers and Ranters;
 i+++.+++ e. of rude and unchristian practices which are disliked:
@@ -1437,6 +1457,7 @@ when under thy power and government, we were not allowed to breathe the common a
 
 Now I proceed with the recital of our answer aforesaid.
 
+[.numbered]
 11+++.+++ How contrary to this liberty and protection universally promised and proclaimed,
 our (viz: six persons,) unjust imprisonment in the castle and city of Norwich is,
 may plainly appear to all persons of understanding,
@@ -1450,6 +1471,7 @@ that they might also be partakers with us of the powerful truth of God,
 that their souls might live in it and know the pure God,
 whom all the world in their first state are ignorant of and enemies to.
 
+[.numbered]
 12+++.+++ One of us, viz: Richard Hubberthorn, in the Lord`'s work and service,
 being moved of him to go to one place where a people were met together;
 and when their public exercise was ended,
@@ -1457,12 +1479,15 @@ did speak among them what the Lord had made manifest unto him.
 And the people being willing to hear the truth, some were convinced,
 and brought to know that which they had been ignorant of.
 
+[.numbered]
 13+++.+++ But one called a justice being there, whose envy appeared against the truth,
 sent our friend Richard Hubberthorn to prison,
 because he would not promise him not to come there any more;
 and so from that time hath he been kept in prison twenty weeks,
 that was until the date hereof, and detained prisoner a considerable time after,
 contrary to law, and to the liberty and protection promised and proclaimed.
+
+====
 
 Another, a Friend of ours, who came to the city of Norwich,
 and upon the first-day of the week,
@@ -1526,11 +1551,16 @@ being made partakers of his sufferings, who suffered the contradiction of sinner
 the same Christ as ever was, is now witnessed in suffering and in joy,
 of whom we are witnesses, who are now sufferers for the testimony of Jesus:
 
+[.signed-section-signature]
 Richard Hubberthorn, George Whitehead, James Lancaster, etc.
 
+[.signed-section-context-close]
 Prisoners of the Lord in Norwich.
 
+[.signed-section-context-close]
 From the castle and jail of Norwich, the 24th day of the Twelfth month, 1654.
+
+--
 
 Besides our hard usage, and the severity of our confinement,
 to add affliction to our bonds, one Sampson Townsend, by trade a weaver,
