@@ -1,5 +1,6 @@
 == Chapter II
 
+[.section-summary-preface]
 The case of those called Quakers, who were sufferers in Edmundsbury jail in Suffolk;
 one whereof was myself.
 
@@ -161,12 +162,18 @@ although his cloak was taken from him, at the jailer`'s command,
 for four shillings and four pence, demanded for jail fees; but no law showed for it,
 no more than for their robbing him of it for the same.
 
-The paper for which Richard Clayton was whipped at Bures, runs after this manner, viz:
+[.offset]
+_The paper for which Richard Clayton was whipped at Bures, runs after this manner, viz:_
 
-"`If you set up such ministers as seek for their gain from their quarters,
+[.embedded-content-document.paper]
+--
+
+If you set up such ministers as seek for their gain from their quarters,
 who are greedy and covetous, you set up such as the prophet Isaiah cried against, Isa.
 Ivi. 11. If you set up such priests as preach for hire, and divine for money,
-you set up such as the prophet Micah cried against, Micah 3:11, etc.`"
+you set up such as the prophet Micah cried against, Micah 3:11, etc.
+
+--
 
 With other Scriptures to show the evil fruits,
 covetousness and corruptions of false teachers, and leaders, etc.^
@@ -177,9 +184,14 @@ for my giving him the title of T. Waldgrave, in my letter to him,
 according to his own subscription to his warrant of commitment, as is hereafter shown.
 A poor pretence for detaining me fifteen months in prison!
 
-The substance of a letter which I sent to Thomas Waldgrave,
-after he committed me to Bury jail.
+[.offset]
+_The substance of a letter which I sent to Thomas Waldgrave,
+after he committed me to Bury jail._
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 T+++.+++ Waldgrave,
 
 To thee who art called a justice of peace,
@@ -241,11 +253,16 @@ An answer to these things,
 and of the cause of our detainment in these unjust and cruel bonds,
 I do demand of thee speedily, thou having caused them to be laid upon us.
 
+[.signed-section-closing]
 From an innocent sufferer for the Truth,
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 Edmundsbury Jail, the 15th of the Sixth mo., 1655.
+
+--
 
 This letter Thomas Waldgrave produced in court at the aforesaid quarter sessions,
 and the only exception he made against it was, my giving him the title of T. Waldgrave.
@@ -253,8 +270,13 @@ I told him I followed his own subscription to his mittimus, whereby he committed
 having therein so subscribed himself, T. Waldgrave; but he concluded,
 it was not for me to do as he had done; whereby he proved no crime at all against me.
 
-Copy of the mittimus.
+[.offset]
+_Copy of the mittimus._
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To the constables of Bares, and to the keeper of the jail of Bury.
 
 I have sent you herewithal the body of George Whitehead, of Orton,
@@ -267,37 +289,53 @@ to be holden for this county at Bury,
 then and there to be proceeded withal according to law;
 and hereof I require you not to fail; this 1st day of August, 1655.
 
+--
+
 Observe, an idle wandering fellow; this is false in fact,
 as well as scurrilous and disdainful; for,
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ I am well known to be no such person;
 for after my parents took me away from that noted school at Blencoe, in Cumberland,
 at the request of some Friends, I taught first a private, then a public school.
 
+[.numbered]
 2+++.+++ After that I was at my father`'s house part of a summer, and then was not idle,
 but industrious in what was proper for me, not being educated either in idleness,
 nor willing to eat the bread of idleness,
 that I might prevent all reflection and reproach against me on that account.
 
+[.numbered]
 3+++.+++ And when it pleased God to call me by his Word from my father`'s house,
 and out of my native country, to preach the everlasting gospel,
 therein I laboured faithfully, and travelled in the service thereof,
 according to the grace and ability given me of God, in his dear Son Christ Jesus.
 
+[.numbered]
 4+++.+++ A common disturber of the public peace of this nation,
 is also unjustly charged against me; for I was, and am of a peaceable conversation,
 being also a minister of the gospel of peace.
 
-5, How came I to be termed an idle wandering fellow, in the warrant of commitment,
+[.numbered]
+5+++.+++ How came I to be termed an idle wandering fellow, in the warrant of commitment,
 seeing in the indictment at quarter sessions I was called labourer?
 Thus self-contradictory was this our prosecutor; where envy is, there is confusion.
 Could he reasonably think himself more dishonoured
 by my giving him his own title of T. Waldgrave,
 than he did by his injurious and illegal proceedings against us?
 
+====
+
 And that it may further appear what kind of warrants these justices made against us,
 here follows also a copy of John Gurden`'s warrant of commitment against George Rose.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 Suffolk.--To the keeper of the Common jail, at Bury, St. Edmunds, and to his deputy,
 and deputies there.
 
@@ -319,19 +357,32 @@ shall not in the mean time find such able and sufficient
 sureties for his appearance as aforesaid.
 Dated at Affington, the third day of September, 1655.
 
-Observe.
-1+++.+++ What legal precedent could they have for such a warrant of commitment,
+--
+
+[.numbered-group]
+====
+
+[.numbered]
+_Observe.
+1+++.+++_ What legal precedent could they have for such a warrant of commitment,
 when they neither assign cause to require such sureties, nor any matter of fact,
 as a breach of law deserving imprisonment?
 
-2+++.+++ Though his confessing himself one called a Quaker,
+[.numbered]
+_2+++.+++_ Though his confessing himself one called a Quaker,
 seems to be made the reason of his commitment,
 we cannot think it was either a legal or valid reason, or cause of such severity,
 as these persons were bent upon against us.
 How evident is it therefore, that their own invidious wills were their only laws therein?
 
-The substance of a letter to William Blumfield,
-who sat for judge at the Quarter Sessions aforesaid.
+====
+
+[.offset]
+_The substance of a letter to William Blumfield,
+who sat for judge at the Quarter Sessions aforesaid._
+
+[.embedded-content-document.letter]
+--
 
 To thee who art called a justice, am I moved of the Lord God to write;
 therefore in moderation read and consider,
@@ -394,9 +445,13 @@ having peace and consolation by Christ Jesus in my sufferings for righteousness`
 not being convinced of the breach of any known law.
 Glory to the Lord God forever.
 
+[.signed-section-signature]
 George Whitehead.
 
-"`Edmundsbury common jail, the 20th day of the Eighth month, 1655.
+[.signed-section-context-close]
+Edmundsbury common jail, the 20th day of the Eighth month, 1655.
+
+--
 
 Our persecutors having confined five of us in prison, by their warrants before recited,
 and by their quarter sessions, passed judgment of fines upon most of us,
@@ -721,6 +776,10 @@ William Dewsbury in true love, came to visit us in Bury jail;
 and understanding something of the jailer`'s cruelty, wrote him a letter as followeth,
 viz:
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 For Robert Newton, keeper of the jail in Bury.
 
 Thy cruelty and oppressing the innocent, is come up in remembrance before the pure,
@@ -742,7 +801,10 @@ and thou shalt know this is the word of the Lord God.
 remember thou art warned in thy life time--if thou
 perish thy blood will be upon thy own head.
 
+[.signed-section-signature]
 William Dewsbury.
+
+--
 
 The jailer was greatly tormented and enraged at this letter.
 
@@ -878,8 +940,13 @@ I humbly hope and trust in the Lord,
 I shall never forget his lovingkindness and mercy shown unto me,
 in those cloudy days of distress and affliction.
 
-A Copy of Our Release.
+[.offset]
+_A Copy of Our Release._
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Thursday, the 16th of October, at the Council at Whitehall.
 
 Ordered by his highness the Lord Protector, and the Council,
@@ -892,7 +959,10 @@ may with most conveniency be taken off and discharged:
 and likewise to take order that upon their being set at liberty, as aforesaid,
 they be forthwith sent to their respective homes.
 
+[.signed-section-signature]
 W+++.+++ Jessop, Clerk of the Council.
+
+--
 
 Pursuant to this order, sir Francis Russell took special care to put it in execution.
 He sent his clerk to the prison to see us set at liberty, which was done accordingly;
