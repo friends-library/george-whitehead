@@ -576,6 +576,10 @@ In pursuance of those persecutors`' invidious designs against us,
 to prevent Friends having more meetings in Ipswich,
 the following presentment was devised and made against our friend Timothy Grimble.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Ipswich, Suffolk.
 
 The jury for his highness, Richard, lord Protector of the commonwealth of England,
@@ -590,18 +594,28 @@ doth also keep disorder, evil rule and government in his house,
 to the great nuisance of his neighbours and other people of this commonwealth,
 and against the peace.
 
+[.signed-section-signature]
 The names of the said jury:--John Mall, John Hamont, Thomas Wright, Jr., John Donty,
 Robert Stebbing, Thomas Grigg, Charles Wright, John Gray, John Jolley, Samuel Humphrey,
 Edward Keen, Richard Humphrey, Joseph Haymor, Richard Clopton, Peter Cole, Robert Grows,
 Edmund Darby, Thomas Brook, Richard Thurston, William Goodale.
 
+--
+
 An abstract of an answer that was given to the said presentment,
 by some Friends concerned.
+
+[.embedded-content-document]
+--
 
 Let all sober people observe,
 how envious these jurymen and inquisitors have appeared
 against Timothy Grimble and his innocent friends.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Their presentment being grounded and made up of false accusations,
 gross lies and slanders.
 The meeting that we had at Timothy`'s house,
@@ -615,6 +629,7 @@ thus to defame an honest man for suffering a peaceable meeting, and entertaining
 innocent people at his house, who ought by law to be protected,
 and not punished for the exercise of their religion, or conscience toward God.
 
+[.numbered]
 2+++.+++ As for those called Quakers, whom Timothy Grimble received and harboured in his house,
 who they say are unknown to the jurors, some of their names are, Robert Duncon,
 Robert Grassingham, Joseph Scott, and George Whitehead;
@@ -630,6 +645,7 @@ and upon oath present them so highly criminal, as being no other than dissolute,
 loose, lewd, and suspected persons,
 while unknown to these their accusers and swearers against them.
 
+[.numbered]
 3+++.+++ We ask you jurors, wherein and when did we, called Quakers,
 whom you have sworn against, disturb the public peace?
 And what evil conversation can you charge or prove against us?
@@ -654,6 +670,7 @@ Would you take it well to be presented or indicted for entertaining your friends
 as you have presented and grossly misrepresented
 Timothy Grimble for harbouring his friends?
 
+[.numbered]
 4+++.+++ Many can witness, that the meetings we had at Timothy Grimble`'s house in Ipswich,
 were peaceable and lawful.
 And those priests and professors who were offended at them,
@@ -666,6 +683,7 @@ But the deceit of those who have thus acted in the dark against the innocent,
 is made manifest to their shame; and the more by grossly abusing innocent people,
 as the said jurors and their abettors have done.
 
+[.numbered]
 5+++.+++ To swear at all, is a transgression against Christ`'s doctrine.
 But to present lies and slanders upon oath, to cause the innocent to suffer,
 is a much greater offence,
@@ -677,10 +695,18 @@ as are contained in the said presentment.
 So that we may even say with the prophet; '`They that were mad against us,
 were sworn against us.
 
+====
+
+--
+
 Thus I have abstracted the substance and greatest part of our original answer,
 which was signed by Robert Duncon, George Whitehead, and Robert Grassingham.
 
-George Whitehead`'s letter to the inhabitants of Ipswich, both teachers and people.
+[.blurb]
+=== George Whitehead`'s letter to the inhabitants of Ipswich, both teachers and people.
+
+[.embedded-content-document.letter]
+--
 
 Oh! the pride,
 high-mindedness and self-conceitedness which abound in this town of Ipswich!
@@ -756,6 +782,10 @@ Therefore as ye love your souls take warning.
 From a friend to all that desire to know the Lord, and one who for the gospel`'s sake,
 hath lately suffered fifteen weeks, or above, in Ipswich prison.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 Suffolk, the 1st day of the Ninth month, 1658.
+
+--
