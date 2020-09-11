@@ -251,8 +251,13 @@ The warrant being signed and sealed by the father and the son,
 I was returned back to Nayland, in order to endure the execution thereof the next day.
 That night I lodged at a public house, where I rested quietly in much peace.
 
+[.offset]
 A copy of the warrant and pass follows.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 To all constables, and all other officers whom it may concern, and to every of them.
 
 Be it remembered, that one George Whitehead, a young man about twenty years of age,
@@ -265,7 +270,10 @@ as the law in such case enjoineth; and he is to pass thence from parish to paris
 by the officers thereof, the next way to Orton aforesaid,
 before the first day of June now next ensuing.
 
+[.signed-section-context-close]
 Dated at Affington, in this county of Suffolk, the 1st day of April, 1657.
+
+--
 
 Be it remembered, that this bloody warrant is grounded upon a notorious falsehood;
 for I was neither found vagrant nor wandering at Nayland,
@@ -585,18 +593,25 @@ which is very inconsistent.
 To which I did not understand any reply could be given by the Colonel or priests; who,
 after full discourse quietly withdrew from the meeting.
 
+[.offset]
 But further, as to the point then in question, about calling God our father, etc.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ He is so; and may be so called, as he is our Creator,
 having created man in his own image: "`Have we not all one Father?
 hath not one God created us.`"
 
+[.numbered]
 2+++.+++ God is owned to be our father when we are begotten by his living Word,
 into a measure of true and living faith in Christ, in order to be sanctified,
 being adopted or chosen to be his sons and heirs of eternal life;
 and being such children or sons by adoption, we have received the spirit of adoption,
 whereby, as young and weak children, we cry to him, Abba Father.
 
+[.numbered]
 3+++.+++ When we did experience but a small entrance
 into the work of regeneration or sanctification,
 and our hearts were turned toward God with tender breathings and desires to him,
@@ -604,6 +619,7 @@ that the work might go forward and prosper, toward the completing of the new bir
 then we could truly call God, "`Our father,
 having begotten us again unto a lively hope.`"
 
+[.numbered]
 4+++.+++ And though little children, whose sins are forgiven,
 through repentance and faith in the name of the Lord Jesus Christ, are but weak,
 and may stumble and possibly fall, so as to get some bruises or hurts,
@@ -618,6 +634,7 @@ and he is the propitiation for our sins, and not for ours only,
 but also for the sins of the whole world.`"
 Such kindness and help has our Mediator afforded, if we do not sin willfully.
 
+[.numbered]
 5+++.+++ And furthermore, even such little children as are but weak and feeble,
 who experience a measure of true faith and repentance in the name of Christ,
 God is not willing to cast off, but to own them for his children and people;
@@ -627,6 +644,7 @@ follow the Lord Jesus Christ in and through the work of regeneration,
 they will become his free born children; he will be an everlasting Father unto them,
 and they shall be his sons and daughters, and heirs of his heavenly kingdom forever.
 
+[.numbered]
 6+++.+++ God was pleased to esteem Ephraim his dear son and pleasant child,
 when he was humbled under his chastisement, and prayed to be turned, and repented;
 see Jer. 31:18-20,
@@ -635,6 +653,7 @@ Oh! the bowels of the tender mercies of God,
 which move and are opened abundantly in his dear Son Jesus Christ,
 to the truly penitent and humbled, through his fatherly chastisements.
 
+[.numbered]
 7+++.+++ Now to consider the new birth completed or perfectly formed in Christ Jesus;
 such who are perfectly born from above, by the Holy Ghost,
 born of water and of the Spirit, so as to be thoroughly washed, sanctified,
@@ -650,6 +669,8 @@ he hath many such children, who will never forsake him who is the God of their s
 and who will rather die than deny the truth.
 And, "`Who shall separate them from the love of Christ?`"
 And, "`We can do nothing against the truth, but for the truth.`"
+
+====
 
 Contrary to which apostolical doctrine,
 the said John Dedicote hath also argued in a letter to me,
@@ -679,7 +700,8 @@ and that faith is imperfect;
 that the faith of the best is sometimes weak and full of doubtings;
 and that faith and knowledge are both imperfect.
 
-Observe.
+[.discourse-part]
+_Observe._
 A heavy charge against the righteous, and even the best of men,
 together with their graces, faith and knowledge, without exception:
 but he has not affirmed this either from his own experience, or from holy Scripture;
