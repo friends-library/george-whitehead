@@ -38,6 +38,9 @@ until suppressed and apprehended.
 From which insurrection occasion was taken by the king, to issue out a proclamation;
 some of the heads whereof follow, viz:
 
+[.embedded-content-document.legal]
+--
+
 Prohibiting all unlawful and seditious meetings and conventicles,
 under pretence of religious worship, etc.; giving for a reason thereof.
 That some evil effects have already ensued, to the disturbance of the public peace,
@@ -60,6 +63,8 @@ as riotously and unlawfully assembled.
 And we do will and command our justices,
 that they cause the oath of allegiance to be tendered
 to every person so brought before them, etc.
+
+--
 
 Hereupon the most irreligious and profane sort of people were animated,
 and took occasion against our religious and peaceable meetings,
@@ -123,8 +128,8 @@ his faithful people in their times of need,
 I proceed to give some account of my own share of suffering and exercise in those days,
 and of the manner thereof.
 
-A brief account of my commitment to Norwich castle, with other Friends,
-the 20th day of the Eleventh month, 1660.
+[.blurb]
+=== A brief account of my commitment to Norwich castle, with other Friends, the 20th day of the Eleventh month, 1660.
 
 George Whitehead, John Lawrence, Joseph Lawrence, and William Barber,
 with many more of our friends,
@@ -437,6 +442,10 @@ A copy of John Lawrence`'s letter to Justice Talbot,
 after we were committed prisoners to Norwich castle,
 which I thought meet to insert in this place.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 I could not have believed that any magistrate would
@@ -490,9 +499,13 @@ then woe and misery will assuredly be thy portion.
 Written in love to thee, by a sufferer for the testimony of a good conscience,
 who am a friend to thy soul.
 
+[.signed-section-signature]
 John Lawrence.
 
+[.signed-section-context-close]
 Norwich Castle, the 25th of the Eleventh month, called January, 1660.
+
+--
 
 [.asterism]
 '''
@@ -500,6 +513,10 @@ Norwich Castle, the 25th of the Eleventh month, called January, 1660.
 The substance of a letter to the Mayor of the city of Norwich,
 when he was busy in persecuting and imprisoning our friends there, A. D. 1660.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 Dost thou not own thyself to be a Christian magistrate?
@@ -566,9 +583,13 @@ and not from any contempt or prejudice against thy person.
 
 From a friend to thy soul, who am a sufferer for obeying Christ.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 1660, in the Eleventh month.
+
+--
 
 [.asterism]
 '''
@@ -576,6 +597,10 @@ George Whitehead.
 The substance of a letter, in answer to the Mayor of Norwich,
 when our friends were prisoners there.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friend,
 
 Whereas in answer to my letter, thou hast sent the late proclamation of the king,
@@ -614,9 +639,13 @@ Take heed how thou goest on persecuting the innocent;
 for there is that witness of God in thee, which will trouble and judge thee for it.
 Consider it while thou hast time.
 
+[.signed-section-closing]
 From a friend to thy soul,
 
+[.signed-section-signature]
 George Whitehead.
+
+--
 
 During our imprisonment we not only faithfully warned
 our persecutors against their hard proceedings,
@@ -655,9 +684,11 @@ and many of the persons chosen to be members of that parliament,
 being known to be persecutors, they swayed and carried it by vote,
 so that the bill was committed, and at last passed into an Act, which is entitled:
 
-An Act for preventing mischiefs and dangers,
-that may arise by certain persons called Quakers,
-and others refusing to take lawful oaths.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== An Act for preventing mischiefs and dangers, that may arise by certain persons called Quakers, and others refusing to take lawful oaths.
 
 Whereas, of late times, certain persons under the name of Quakers,
 and other names of separation,
@@ -688,6 +719,8 @@ three months; for the second, six months; to be kept at hard labour.
 And if after two convictions, they offend the third time, and are convicted,
 they shall abjure the realm, or the king may order them to be transported in any ship,
 to any of his plantations.
+
+--
 
 This Act was levelled against the people called Quakers,
 when nothing was justly chargeable against them, nor could any matter of fact be proved,
@@ -874,9 +907,11 @@ which was chiefly designed against our religious meetings, George Whitehead bega
 viz: "`I have a few words to offer to you, relating to what hath been said,
 and I desire I may be heard, for I shall use as much brevity as I can.`"
 
-Speaker: Then offer them, and do not reiterate.
+[.discourse-part]
+_Speaker:_ Then offer them, and do not reiterate.
 
-George Whitehead: We desire you in the fear of the Lord, to consider us,
+[.discourse-part]
+_George Whitehead:_ We desire you in the fear of the Lord, to consider us,
 as we are an innocent and suffering people,
 and have been so under the several governments since we were a people,
 as our patience and innocency towards our persecutors in all our sufferings,
@@ -917,6 +952,9 @@ and seek not further to add affliction to us, lest you oppress the innocent.
 However, if we suffer for our conscience, in obeying Christ,
 we shall commit our cause to the Lord our God, who will, no doubt,
 plead it against our oppressors.
+
+[.small-break]
+'''
 
 After Edward Burrough,
 Richard Hubberthorn and George Whitehead had declared to the House of Commons as related,
