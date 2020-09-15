@@ -128,8 +128,8 @@ his faithful people in their times of need,
 I proceed to give some account of my own share of suffering and exercise in those days,
 and of the manner thereof.
 
-[.inline]
-==== A brief account of my commitment to Norwich castle, with other Friends, the 20th day of the Eleventh month, 1660.
+[.blurb]
+=== A brief account of my commitment to Norwich castle, with other Friends, the 20th day of the Eleventh month, 1660.
 
 George Whitehead, John Lawrence, Joseph Lawrence, and William Barber,
 with many more of our friends,
@@ -952,6 +952,9 @@ and seek not further to add affliction to us, lest you oppress the innocent.
 However, if we suffer for our conscience, in obeying Christ,
 we shall commit our cause to the Lord our God, who will, no doubt,
 plead it against our oppressors.
+
+[.small-break]
+'''
 
 After Edward Burrough,
 Richard Hubberthorn and George Whitehead had declared to the House of Commons as related,
