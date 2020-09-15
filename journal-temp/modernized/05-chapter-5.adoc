@@ -185,18 +185,22 @@ I think convenient first to insert all his questions with particular answers,
 and then to give some account of the chief parts of our discourse.
 The questions and answers follow.
 
+[.discourse-part]
 1+++.+++ Whether Jesus Christ has a body glorified in the heavens,
 distant and distinct from the bodies of his saints here below?
 
-Answer.
+[.discourse-part]
+_Answer._
 Yes, as a glorified body is distinct from natural or earthly bodies,
 and heaven from the earth.
 
+[.discourse-part]
 2+++.+++ Whether the blood that Jesus Christ shed at Jerusalem,
 is the blood that believers are justified by?
 or whether he dies in men for their justification '`?
 
-Answer.
+[.discourse-part]
+_Answer._
 Both sanctification, forgiveness of sins, cleansing from sin and justification,
 are sometimes ascribed to the blood of Christ,
 and to the spirit of our God and our Lord Jesus Christ, which effects,
@@ -253,9 +257,11 @@ in its own being, never dies.
 The immortal Seed, the immortal Word, is of an immortal Being,
 though many be dead thereunto, in their trespasses and sins.
 
+[.discourse-part]
 3+++.+++ Whether this individual body of ours shall be raised at the last day?
 
-Answer.
+[.discourse-part]
+_Answer._
 This appears an unscriptural, as well as an unlearned and dubious question,
 if not anti-scriptural.
 If he means this our natural, numerical body of flesh, blood and bones,
@@ -271,23 +277,29 @@ or in the earth, or in the sea, or in the fire into smoke or air.
 Nevertheless God gives a body as it pleases him, and to every seed his own body; yes,
 to every soul its own proper body.
 
+[.discourse-part]
 4+++.+++ Whether any saints before death are sinless?
 
-Answer.
+[.discourse-part]
+_Answer._
 Yes, those saints whom Christ sanctifies and cleanses from all sin,
 as he does all true and constant saints.
 
+[.discourse-part]
 5+++.+++ Whether the Father, Son and Holy Spirit be three distinct persons or substances`'?
 
-Answer.
+[.discourse-part]
+_Answer._
 We do not find them so termed, i. e. three distinct persons, in holy Scripture,
 but rather three witnesses, or three that bear witness in heaven, the Father, the Word,
 and Holy Spirit, and these three are one.
 1 John v.
 
+[.discourse-part]
 6+++.+++ Whether water baptism be a gospel ordinance?
 
-Answer.
+[.discourse-part]
+_Answer._
 No, it was typical, and rather legal, as it was John Baptist`'s ministration,
 than a gospel ordinance, though sometimes condescended unto in the church`'s infancy.
 
@@ -295,9 +307,11 @@ But if by water baptism be meant sprinkling infants, that is no real baptism,
 nor gospel ordinance, but rather rantism, and a tradition of the Romish church,
 than any gospel ordinance.
 
+[.discourse-part]
 7+++.+++ Whether the Scriptures be the rule of your faith and life, or the Spirit?
 
-Answer.
+[.discourse-part]
+_Answer._
 We do not find that the Scriptures call themselves the rule of faith and life,
 but refer us to the Holy Spirit to be our guide into all truth;
 and they testifying of Christ, as he is the way to the Father, even the Way, the Truth,
@@ -307,23 +321,28 @@ directing us to Him who is the principal or chief guide, way, or rule of faith a
 and we do sincerely own that the holy Scriptures contain many divine rules,
 precepts and doctrines, relating to our most holy faith and life.
 
+[.discourse-part]
 8+++.+++ Whether children of darkness have the light of Christ within them?
 
-Answer.
+[.discourse-part]
+_Answer._
 They have some degree of light from Christ in them, though it shines in darkness,
 as a light shining in a dark place, otherwise they could not come,
 nor be translated out of darkness; they must believe in the light,
 in order to become children of the light; and therefore Christ exhorted,
 "`Believe in the light, that you may be children of the light.`"
 
+[.discourse-part]
 9+++.+++ Whether that act be sin in a saint, which is a sin in a wicked man?
 
-Answer.
+[.discourse-part]
+_Answer._
 The act of sin and every transgression of the law of Christ, is sin in fact,
 in whomsoever it is; but the saints, or sanctified in Christ, who dwell in him,
 do not allow or permit sin to dwell in them, nor themselves to commit it;
 "`he that abides in Christ sins not.`"
 
+[.discourse-part]
 10+++.+++ Whether there be any moral difference in days under the gospel?
 Answer.
 No, not as was under the law in the observation of sabbaths,
@@ -342,10 +361,12 @@ be fully persuaded in his own mind;`" yet condemns
 the Jewish and superstitious observation of days,
 meats and drinks, etc.
 
+[.discourse-part]
 11+++.+++ Whether it be a duty for Christians to celebrate
 the Lord`'s supper with bread and wine?
 
-Answer.
+[.discourse-part]
+_Answer._
 In this question,
 the man begs the question--imposing and taking for granted their bread and wine,
 as ministered by the priest,
@@ -360,10 +381,12 @@ unto his true spiritual believers and followers,
 who are spiritually partakers of Christ the substance,
 being come to receive him to sup with them, and they with him; Rev. 3.
 
+[.discourse-part]
 12+++.+++ Whether an outward mission, by imposition of hands, with fasting and prayer,
 by men so ordained themselves to the work of the ministry, be according to gospel order?
 
-Answer.
+[.discourse-part]
+_Answer._
 An outward mission by these, without an inward divine call,
 is not sufficient to authorize anyone to be Christ`'s minister or ambassador;
 neither have they any divine authority to commissionate
@@ -373,9 +396,11 @@ who themselves have no divine call nor authority given them by Christ thereunto;
 but who rather conclude that his immediate call,
 ministry and prophecy are long since ceased.
 
+[.discourse-part]
 13+++.+++ Whether the Scriptures be the ordinary means to beget faith in men`'s hearts?
 
-Answer.
+[.discourse-part]
+_Answer._
 No; 1. Not without the help of the holy Spirit and light thereof,
 to give the true understanding of them.
 2+++.+++ Not the ordinary means to beget faith in men`'s
@@ -390,9 +415,11 @@ the author and finisher of our faith.
 5+++.+++ Nevertheless the holy Scriptures being opened and applied by the Spirit,
 are often made instrumental to beget faith in many men`'s hearts.
 
+[.discourse-part]
 14+++.+++ Whether the Scriptures need any interpretation and reconciliation?
 
-Answer.
+[.discourse-part]
+_Answer._
 Yes, to the first part; many Scriptures are mysterious, allegorical,
 parabolical and prophetical,
 and need to be interpreted and opened by the Spirit from which they came,
@@ -402,23 +429,29 @@ they being spiritually discerned.
 Neither need the holy Scriptures reconciliation in themselves; for they are harmonious,
 and do agree, and the Scripture cannot be broken.
 
+[.discourse-part]
 15+++.+++ Whether the divine nature of Jesus Christ be united to the bodies of believers,
 as it was to his own personal body in Judea?
 
-Answer.
+[.discourse-part]
+_Answer._
 No; although true believers who are Christ`'s members, are spiritually united unto him,
 and members of his body, and made partakers of his divine nature;
 yet not in the same fulness as it is in Him who is the Head,
 in whom it has pleased the Father that all fulness should dwell.
 
+[.discourse-part]
 16+++.+++ Whether the pope of Rome be antichrist, and papacy anti-christian?
 
-Answer.
+[.discourse-part]
+_Answer._
 Yes, to both.
 
+[.discourse-part]
 17+++.+++ Whether George Whitehead will take the oath of abjuration, and renounce the pope?
 
-Answer.
+[.discourse-part]
+_Answer._
 George Whitehead has not a renunciation or denial of the pope or popery now to make,
 having never owned either, but always utterly denied and disowned both:
 although George Whitehead may not swear to such renunciation,
@@ -432,6 +465,7 @@ and more particularly than we could have time then to dispute,
 for we could go through but a few of them;
 and Henry Johnson had enough of disputing upon those which we did discourse.
 
+[.offset]
 A brief account of our discourse on some of the foregoing questions follows.
 
 Being met in their parish church, as it is called, the 2nd day of the first month, 1659,
@@ -469,7 +503,8 @@ And when that course would not do, then he fell to his logic with his syllogisms
 Using such expressions as these:
 Christ is in heaven in our human nature he took upon him, of our flesh and blood, etc.
 
-Question.
+[.discourse-part]
+_Question._
 But is he in heaven now in the self same manner as
 he was on earth in the days of his flesh,
 when he took upon him the form of a servant, and was made like unto us in ail things,
@@ -524,6 +559,7 @@ Upon his fourth question he showed his opinion and doctrine, which was.
 That none of the saints are freed from sin while upon earth;
 yet that they were freed from the guilt of sin.
 
+[.discourse-part]
 Answer.
 This doctrine is expressly contrary to the apostle`'s doctrine;
 "`But now being made free from sin, and become servants to God,
@@ -757,13 +793,16 @@ and see what he would make of it; and thus he attempted it:
 He that is a Papist is a heretic: But you are Papists, i. e. the Quakers.
 Ergo, you are heretics.
 
-G+++.+++ Whitehead: I deny the minor, or second part of the argument; that is,
+[.discourse-part]
+_G+++.+++ Whitehead:_ I deny the minor, or second part of the argument; that is,
 I deny that we are Papists.
 
-Priest: He that refuses to take the oath of abjuration is a Papist:
+[.discourse-part]
+_Priest:_ He that refuses to take the oath of abjuration is a Papist:
 but you refuse to lake the oath of abjuration, ergo, you are Papists.
 
-G+++.+++ Whitehead: I except against the major, or first part of the argument,
+[.discourse-part]
+_G+++.+++ Whitehead:_ I except against the major, or first part of the argument,
 and the consequence deduced therefrom, for the following reasons:
 Christ has commanded us, Not to swear at all, etc. Matt. 5:34.
 And his apostle James likewise forbids all swearing; saying,
@@ -1064,7 +1103,8 @@ or in what sense they owned it?
 They confessed it to be a body of flesh and bones, from his saying,
 "`A spirit has not flesh and bones, as you see I have.`"
 
-Query.
+[.discourse-part]
+_Query._
 But had he no blood in it?
 Thomas Moor affirmed openly that Christ`'s body in heaven
 is a body of flesh and bones without blood in it,
@@ -1153,18 +1193,24 @@ but can make their own passage through any such obstacles
 more easily than mortal bodies through the air.
 And why should it be thought a thing incredible?`" etc.
 
-Observe 1. That Christ`'s body is glorious, is according to plain Scripture undeniable;
+[.numbered-group]
+====
+
+[.numbered]
+_Observe 1._ That Christ`'s body is glorious, is according to plain Scripture undeniable;
 and that the bodies of the saints in the resurrection
 shall be like unto his glorious body,
 is unquestionable with us; as also that they shall be spiritual, incorruptible,
 equal to the angels;
 which equality is ascribed to the sons of God and of the resurrection.
 
+[.numbered]
 2+++.+++ But how agrees the description and comparison these men
 have given of those spiritual bodies in the resurrection,
 with their being bodies of flesh and bones?
 How inconsistent have our adversaries appeared in this matter!
 
+[.numbered]
 3+++.+++ And it appears very improbable that bodies of flesh and bones
 should penetrate or make their own passage through any such obstacles,
 as doors, walls, or the like, more easily than mortal bodies through the air;
@@ -1172,6 +1218,7 @@ nor have they produced Scripture for this notion.
 They must be very sublime, subtle, airy and etherial bodies,
 and not these gross bodies of flesh and blood, that can make such penetrations.
 
+[.numbered]
 4+++.+++ Yet we question not the angelical powers to penetrate
 and pass through obstacles after a wonderful manner;
 howbeit,
@@ -1189,6 +1236,8 @@ when they questioned, "`How are the dead raised up, and with what body do they c
 Whom he answered in these words: "`You fool,
 that which you sow is not quickened except it die; and that which you sow,
 you sow not that body that shall be,`" etc.
+
+====
 
 Now as to the resurrection according to holy Scripture, we do not doubt or question,
 but sincerely believe it; and that if in this life we have a part in Christ,
@@ -1436,11 +1485,19 @@ as of themselves, and to own themselves sinners;
 and that they use to confess sin in themselves,
 and none of them to glory in their perfection and sinlessness.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That they use always so to confess of themselves, I did, and still do deny;
 they did not only confess, but forsook sin and evil, and exhorted others so to do.
+
+[.numbered]
 2+++.+++ They gloried in the God of their salvation;
 and rejoiced in his salvation and deliverance from sin and Satan,
 which deliverance God wrought in thorn, and for them, by Jesus Christ.
+
+====
 
 How odious,
 and how much accursed soever John Horn has rendered the people called Quakers,
@@ -1532,7 +1589,8 @@ and you are hardened in your evil way;
 your writings we know are full of equivocation and falsehood,`" etc.
 Thus far John Horn.
 
-Remark.
+[.discourse-part]
+_Remark._
 As to the judgment and rejection here denounced against me and the people called Quakers,
 as deceivers, accursed, heretics, etc., I am well satisfied in my conscience,
 that it is a mere piece of foul rubbish and presumptuous raillery,
@@ -1591,16 +1649,20 @@ To prepare us for a public discourse or dispute,
 William Falconer proposed the following nine questions to discourse upon;
 to which brief answers are likewise here given.
 
-Question 1. Whether there be three persons in the Godhead?
+[.discourse-part]
+_Question 1._ Whether there be three persons in the Godhead?
 
-Answer.
+[.discourse-part]
+_Answer._
 Three persons in the deity we read not of in holy Scripture;
 but of three bearing witness in heaven,--the Father, the Word, and the Holy Spirit,
 and that these three are one.
 
-Question 2. Whether the Scriptures be the rule to try doctrines and spirits?
+[.discourse-part]
+_Question 2._ Whether the Scriptures be the rule to try doctrines and spirits?
 
-Answer.
+[.discourse-part]
+_Answer._
 The holy Scriptures are truly owned and esteemed a rule subordinate to the Holy Spirit,
 from which they were given forth; and by the help of the same Spirit,
 doctrines and spirits may be tried; but the Spirit is the supreme,
@@ -1608,9 +1670,14 @@ universal guide and rule, which affords light and understanding,
 to discern and try both spirits and doctrines, to the truly spiritually minded;
 for discerning of spirits is a spiritual gift of the Holy Spirit; 1 Cor. 12:10.
 
-Question 3. Whether the Scriptures are the Word of God and the means of salvation?
+[.discourse-part]
+_Question 3._ Whether the Scriptures are the Word of God and the means of salvation?
 
-Answer 1. The Scriptures, i. e. the writings are not properly the Word,
+[.numbered-group]
+====
+
+[.numbered]
+_Answer 1._ The Scriptures, i. e. the writings are not properly the Word,
 but Christ is the Word: In the beginning was the Word; John 1:1,3; Rev. 19:13;
 which the Scriptures were not; though the holy Scriptures contain the words,
 holy commands and doctrine of God and Christ; and they, i. e. the Scriptures,
@@ -1618,6 +1685,7 @@ cannot be termed the Word of God, in a proper and strict sense, but rather figur
 the effect being put for the cause; The worlds were framed by the Word of God;
 Heb. 11:3; not by the Scriptures.
 
+[.numbered]
 2+++.+++ The Scriptures are not the means of conversion and salvation universally;
 for many we hope may be and are converted and saved, who have them not,
 and many who cannot read them.
@@ -1626,17 +1694,20 @@ and God`'s salvation unto the ends of the earth.
 He is the way to the Father,
 and his light the universal and effectual means of conversion and salvation.
 
+[.numbered]
 3+++.+++ Sometimes true preaching is a means of conversion and salvation by the power of Christ;
 and the holy Scriptures being given by divine inspiration,
 are by his spirit made profitable to the man of God, for doctrine,
 reproof and instruction in righteousness, that the man of God may be perfect.
 And they are able to make wise unto salvation;
 but it is through faith which is in Christ Jesus.
-
 Therefore Christ is the efficient cause of salvation,
 he being our blessed and only Saviour.
 
-Question 4. Whether there be in every man a sufficient
+====
+
+[.discourse-part]
+_Question 4._ Whether there be in every man a sufficient
 light to bring him to believe in Christ?
 Answer.
 Yes, Christ being the light of the world;
@@ -1646,15 +1717,21 @@ Christ exhorted to believe in the light, that you may be children of the light;
 therefore his light is sufficient to bring men to the faith of Christ, to believe in him,
 even in his name and power.
 
-Question 5. Whether believers are justified by the
+[.discourse-part]
+_Question 5._ Whether believers are justified by the
 imputation of the righteousness of Christ,
 applied to them by faith, which he fulfilled without them in his flesh?
 
-Answer.
+[.discourse-part]
+_Answer._
 This question is not a fair or clear question, but obscure and ambiguous;
 the terms not being explained, it may be equivocally turned into various meanings:
 howbeit, in truth`'s simplicity and plainness I answer:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The application or imputation of Christ`'s righteousness, when made by himself,
 i+++.+++ e. by his own spirit, unto believers,
 who truly apply their hearts to obey and follow him,
@@ -1665,11 +1742,13 @@ or his obedience considered only without them,
 while sin and disobedience are continued within them; "`If I wash you not, said Christ,
 you have no part with me.`"
 
+[.numbered]
 2+++.+++ Christ`'s obedience, even unto the death of the cross, though it was for us,
 to make peace, and obtain great good for us, as mercy and eternal redemption,
 yet that will not justify or save us,
 unless we yield sincere obedience unto him in us also.
 
+[.numbered]
 3+++.+++ Too many there are that please themselves in their polluted sinful state,
 with a false faith, imputing or reckoning to themselves that, which in reality,
 they have no share in: as that of Christ`'s righteousness only without them,
@@ -1677,25 +1756,36 @@ while they themselves are filthy and unrighteous still;
 not agreeable to the justified state of true believers, who are washed, sanctified,
 and justified, in the name of our Lord Jesus, and by the spirit of our God; 1 Cor. 6:11.
 
-Question 6. Whether all, or any believers attain to such a perfection in this life,
+====
+
+[.discourse-part]
+_Question 6._ Whether all, or any believers attain to such a perfection in this life,
 as to be without sin?
 
+[.discourse-part]
 Answer.
 Yes; those true believers who are born of God, and abide in Christ;
 whose work is to destroy the devil`'s works, and to put an end to sin,
 and finish transgression, and bring in everlasting righteousness.
 These believers attain to such a sinless perfection in this life.
 
+[.discourse-part]
 Question 7. Whether the Lord`'s supper--administered
 in bread and wine--and baptism with water,
 be not the standing ordinances of Jesus Christ till the end of the world?
-Answer 1. In the first part he begs the question, and imposes without proving,
+
+[.numbered-group]
+====
+
+[.numbered]
+_Answer 1._ In the first part he begs the question, and imposes without proving,
 the priest`'s ministering bread and wine to be the Lord`'s supper;
 for the supper of the Lord, Christ, with his own disciples,
 consisted not only in bread and wine--or the cup--but chiefly the passover,
 which was typical and legal, and therefore not any standing ordinance of Jesus Christ;
 Luke xxii; Matt. 26:18.
 
+[.numbered]
 2+++.+++ Baptism with, or in water, was John`'s baptism, and not Christ`'s baptism,
 nor a standing ordinance, but a decreasing, shadowy, or typical ministration; and John,
 as he preferred Christ before himself,
@@ -1704,14 +1794,19 @@ The dispensation of Christ and the new covenant, is a dispensation of substance,
 not of shadows; and the higher the sun rises, and the brighter the same shines,
 the more the shadows decrease and flee away.
 
-3, But I take it for granted, this querist, the Presbyterian minister,
+[.numbered]
+3+++.+++ But I take it for granted, this querist, the Presbyterian minister,
 by baptism with water, did not mean what was properly water baptism, as John`'s was;
 but sprinkling infants on their faces; which is no real or proper baptism,
 but rather rantism, for which they produce no foundation in sacred Writ.
 
-Question 8. Whether the present ministry of England, whom the Quakers revile,
+====
+
+[.discourse-part]
+_Question 8._ Whether the present ministry of England, whom the Quakers revile,
 be not the true ministry of Christ?
 
+[.discourse-part]
 Answer.
 That we revile them, is not true;
 yet we do not believe them to be the true ministry of Christ,
@@ -1719,8 +1814,10 @@ or called by Christ to be his ministers; for if we did, we should not dissent fr
 And the same cause of dissent which we had in those days, i. e. of the Commonwealth,
 so called, we have still, namely: the great corruption, avarice, and pride of priests.
 
+[.discourse-part]
 Question 9. Whether the same body which dies, shall rise again?
 
+[.discourse-part]
 Answer.
 For answer, I refer to the apostle`'s answer to the like question, which was,
 "`How are the dead raised up?
@@ -1887,6 +1984,11 @@ William Falconer had some time before promised to prove
 the ministry of England to be the true ministry of Christ,
 in answer to his 8th question, which he then affirmed, but I could not grant,
 and put him upon proof in several respects.
+
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Because they could not be the ministry, ministers, or messengers of Christ,
 unless they were called, gifted, qualified and sent by him,
 as his ministers and messengers ought to be;
@@ -1921,15 +2023,19 @@ but no sincere honest man or minister of Christ Jesus will say, or argue,
 that because Peter and Paul, etc., were Christ`'s ministers and ambassadors,
 therefore I am a minister of Christ.
 
+[.numbered]
 2+++.+++ Their education at their academies, schools, and colleges,
 to learn and study natural arts and sciences, philosophy, and divinity, etc.,
 and esteeming such learning and acquirements essential to their ministry,
 or to qualify them for divines or gospel ministers, or to this effect,
 was objected against their being Christ`'s ministers.
 
+[.numbered]
 3+++.+++ Besides, their colleges erected by Papists in the dark times of Popery,
 and many of them called by saints`' names; this was also objected against their ministry,
 as not being called by Christ, but set up by man, and in the will of man.
+
+====
 
 The priest`'s chief plea or allegation for their colleges, was,
 that there was a college in Jerusalem; 2 Kings 22:14; 2 Chron. 34:22.
@@ -2017,6 +2123,10 @@ yet his practice and theirs differ, in their baptizing believers, as they esteem
 and his sprinkling infants.
 But in reply to those Scriptures pleaded,
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ There is no water mentioned in the first; "`Go therefore and teach all nations,
 baptizing them in, or rather into, the name of the Father, and of the Son,
 and of the Holy Spirit.`"
@@ -2026,6 +2136,7 @@ and of his Son Christ Jesus, and his Holy Spirit; for as said the apostle,
 "`Our gospel came not unto you in word only, but also in power, and in the Holy Spirit,
 and in much assurance.`"
 
+[.numbered]
 2+++.+++ Neither will Peter`'s questions or command to those Gentiles,
 mentioned in Acts 10:47-48,
 prove water baptism a standing ordinance of Christ to the end of the world;
@@ -2033,6 +2144,8 @@ water baptism being John`'s baptism, decreasing and giving place to Christ`'s ba
 and being condescended to in the church`'s infancy,
 to show a respect to those believing Gentiles, as well as to the Jews;
 all this proves it not an ordinance of Christ, nor its standing to the end of the world.
+
+====
 
 Neither was water baptism included in Paul`'s commission, as William Falconer affirmed,
 for Paul declares the contrary; "`For Christ sent me not to baptize,
@@ -2445,11 +2558,16 @@ for they are children of the light, they all love the light, they walk in the li
 and bring their deeds to the light, who are true believers, and children of the light,
 and of the day.
 
-The second question: Whether he be a true minister that takes money, gifts or tithes,
+[.discourse-part]
+_The second question:_ Whether he be a true minister that takes money, gifts or tithes,
 for preaching?
 
+[.discourse-part]
 Answer.
 I deny that he is.
+
+[.small-break]
+'''
 
 To which question Thomas Benton replied,
 that ministers may take money or tithes for maintenance,
@@ -2585,6 +2703,10 @@ I wrote a brief answer to those points in controversy at our public dispute,
 to remind him of his deficiencies and inconsistency in several points;
 and in the conclusion of my answer, I wrote him the following lines:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Thomas Benton,
 
 Where is your equity or righteousness?
@@ -2602,9 +2724,13 @@ Remember from where you are fallen, and consider your sad apostacy,
 if happily you may find repentance.
 From a friend to your soul,
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 The 8th of the Eighth month, 1659.
+
+--
 
 One James Bedford, priest of Bluntisham and Erith in Huntingtonshire,
 having made a great boasting and clamour against the people called Quakers,
