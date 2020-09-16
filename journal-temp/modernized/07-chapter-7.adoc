@@ -340,6 +340,7 @@ Of which gross abuses, complaint being made to some of the justices that committ
 the next night the jailer was made to let Friends
 have room to lodge apart from the felons.
 
+[.offset]
 A copy of the court order follows.
 
 [.embedded-content-document.legal]
@@ -348,8 +349,8 @@ A copy of the court order follows.
 [.signed-section-context-open]
 Surrey, ss.
 
-[.letter-heading]
-To the keeper of his majesty`'s jail for the county aforesaid.
+[.salutation]
+To the keeper of his majesty`'s jail for the county aforesaid;
 
 Forasmuch as George Whitehead, George Patteson, Joseph Dunsdale, Gilbert Hutton,
 George Rawlins, Edward Pattison, Timothy England,
@@ -977,7 +978,7 @@ to his own praise and glory alone.
 --
 
 [.blurb]
-=== The second epistle, printed in the year 1665, after the heat of the contagion was over,entitled, _An epistle for the remnant of Friends and chosen of God, whom he has yet preserved to bear their testimony, in and about the city of London._ To whom this is a testimony of the dear love and tender care which flows forth, and is extended toward them, and all tender hearts who are concerned in the like sufferings, temptations and trials.
+=== The second epistle, printed in the year 1665, after the heat of the contagion was over, entitled, _An epistle for the remnant of Friends and chosen of God, whom he has yet preserved to bear their testimony, in and about the city of London._ To whom this is a testimony of the dear love and tender care which flows forth, and is extended toward them, and all tender hearts who are concerned in the like sufferings, temptations and trials.
 
 [.signed-section-closing]
 From their faithful friend and servant in the Lord,
