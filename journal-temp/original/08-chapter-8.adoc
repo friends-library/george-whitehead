@@ -100,6 +100,9 @@ after his mind came to be settled, he wrote a letter to some Friends in London, 
 after he remembers his love to G. W., J. C., and S. H., he hath these words following,
 viz:
 
+[.embedded-content-document.letter]
+--
+
 I dare not much stir up or down any ways, for people`'s looking at what was done,
 lest the Lord should be offended, further than my own outward business lies.
 I have been much tempted and exercised;
@@ -109,7 +112,10 @@ I would have none take notice of, for I was under great exercises,
 and often ran too fast, which the Lord in his due time, gave me a sight of.
 In the love of my Father, farewell.
 
+[.signed-section-signature]
 T+++.+++ I.
+
+--
 
 When the city was burnt down and laid in ashes, we had our meetings on the fourth-day,
 weekly, near Wheeler street; our usual place, the Bull and Mouth,
@@ -243,7 +249,7 @@ I cannot forget the tender care which this my dear companion had over me,
 and for my liberty,
 when I was divers times confined in prisons for my testimony on the Lord`'s account,
 whose mercies in all respects I greatly prize, and hope shall never forget.
-In a printed treatise, entitled, Piety Promoted, the life, service,
+In a printed treatise, entitled, [.book-title]#Piety Promoted,# the life, service,
 and death of my said wife are largely related,
 and testimonies given thereof by many faithful Friends.
 
@@ -293,10 +299,15 @@ by mercenary as well as merciless informers.
 
 The title of the third act is, viz:
 
-An Act to prevent and suppress seditious conventicles, 22 Car.
-2, 1670.
+[.embedded-content-document.legal]
+--
 
+[.blurb]
+=== An Act to prevent and suppress seditious conventicles, 22 Car. 2, 1670.
+
+[.offset]
 The preamble, viz.,
+
 For providing further and more speedy remedies against the
 growing and dangerous practices of seditious sectaries,
 and other disloyal persons, who, under pretence of tender consciences, have,
@@ -370,6 +381,8 @@ be construed most largely and beneficially, for the suppressing of conventicles,
 and for the justification and encouragement of all
 persons to be employed in the execution thereof.
 
+--
+
 Thus I have recited so much of the contents of the said Act,
 as may show the nature and tendency of it, and which in the execution thereof,
 did severely affect us as a people,
@@ -378,17 +391,24 @@ according to our religious persuasions and consciences,
 for which end our meetings were held, both peaceably and innocently, on our parts.
 And it was observable that the design of this Act was:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ To force a general conformity to the liturgy and practice of the church of England.
 
+[.numbered]
 2+++.+++ The agents employed for that work, were generally a company of idle, loose,
 profligate, and mercenary informers, by that law let loose to seek honest people`'s ruin,
 by making great havoc and spoil of their goods.
 
+[.numbered]
 3+++.+++ Those informers were the more bold and confident in their course of persecution,
 eagerly pursuing peaceable subjects, and the ruin of their families,
 where they had some proud persecuting justices to encourage them,
 ready to grant them warrants, and to force officers to assist them.
 
+[.numbered]
 4+++.+++ That which animated and emboldened those informers in their prosecutions,
 was the clandestine course of conviction,
 upon the oath of two of them made before a justice or two,
@@ -398,6 +418,7 @@ against free-born subjects of England, were expressly contrary to their just lib
 the great charter, and to the common law and justice of England;
 being also destructive of their property and birthrights.
 
+[.numbered]
 5+++.+++ Many of those mercenary informers not only very ignorantly gave information upon oath,
 but also many times swore falsely in fact; and divers of them upon trial afterward,
 were proved guilty, and legally convicted of perjury,
@@ -408,6 +429,8 @@ wherein they swore notoriously false in fact; yet this prosecution and proof was
 and took effect against them to weaken and discourage their
 proceedings after the heat of persecution was much over;
 of which I intend a further relation hereafter.
+
+====
 
 It was observable, that many of these informers came to beggary,
 and some of them to miserable ends,
@@ -436,13 +459,14 @@ George Whitehead warned them to take heed what they swore;
 and he also warned Joseph Sheldon, and the rest with him,
 to do nothing but what they would answer before the great God,
 who would judge righteously.
-For, said he, we apprehend that we are taken contrary to law, even to this present Act,
-by soldiers, where there was no resistance made by any of us: we desire to be heard.
+'`For,`' said he, '`we apprehend that we are taken contrary to law, even to this present Act,
+by soldiers, where there was no resistance made by any of us: we desire to be heard.`'
 
 Joseph Sheldon said, "`If you be illegally convicted,
 you may make your appeal;`" endeavouring to stop George Whitehead from pleading.
 
-George Whitehead:--I desire to be heard.
+[.discourse-part]
+_George Whitehead:_--I desire to be heard.
 
 But being interrupted several times, he said,
 "`I require you in point of justice to hear me,
@@ -452,22 +476,26 @@ in the mean time to prejudice your own consciences, by an illegal conviction;
 nor to do anything but as you will answer the great God;
 for we have a tenderness to your consciences.`"
 
-Joseph Sheldon.--Well, we must answer for what we do: take you no care for that.
+[.discourse-part]
+_Joseph Sheldon._--Well, we must answer for what we do: take you no care for that.
 
 The witnesses being upon their oaths, one affirmed, that George Whitehead was preaching,
 or teaching, when they took him.
 
 Joseph Sheldon commanded the witnesses to be gone, or depart.
 
-George Whitehead:--I desire the witnesses may stay till I have answered:
+[.discourse-part]
+_George Whitehead:_--I desire the witnesses may stay till I have answered:
 but Joseph Sheldon urged them still to depart.
 
-George Whitehead:--They have absolutely forsworn themselves; for I was not preaching,
+[.discourse-part]
+_George Whitehead:_--They have absolutely forsworn themselves; for I was not preaching,
 nor teaching, when they took me.
 
 Another that stood by the justice, said, "`You were praying when they took you.`"
 
-George Whitehead:--Take notice, this man has spoken truth.
+[.discourse-part]
+_George Whitehead:_--Take notice, this man has spoken truth.
 But the witness has forsworn himself, in saying that I was preaching.
 
 Nevertheless, the clerk wrote down, George Whitehead an offender;
@@ -565,7 +593,8 @@ and not for any sedition or injury.
 The mayor said, "`Well, I must fine you forty pounds, this being the second offence;
 you were convicted before Sir Joseph Sheldon once before.`"
 
-George Whitehead:--Must I suffer for preaching the gospel of peace,
+[.discourse-part]
+_George Whitehead:_--Must I suffer for preaching the gospel of peace,
 as if I had been preaching sedition?
 This is strange.
 Doth the law make no difference?
@@ -575,14 +604,18 @@ as some there that stood by testified; for he swore that he took me preaching,
 when many could testify, as some there did affirm, that I was praying,
 and not at that time preaching.
 
-Mayor: But were you on your knees with your hat off when they took you?
+[.discourse-part]
+_Mayor:_ But were you on your knees with your hat off when they took you?
 
-George Whitehead: Yea, I was, and the meeting was in a reverend posture of prayer;
+[.discourse-part]
+_George Whitehead:_ Yea, I was, and the meeting was in a reverend posture of prayer;
 the men with their hats off, and the soldiers pulled me down when I was praying.
 
-Mayor: However, you were in a religious exercise.
+[.discourse-part]
+_Mayor:_ However, you were in a religious exercise.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 If praying to God must be accounted a religious exercise not allowed by the liturgy;
 yet I do not understand that praying is included
 in that clause that mentions preaching or teaching, etc.
@@ -593,14 +626,18 @@ shall for every such first offence the sum of twenty pounds forfeit.`"
 Now here is no praying mentioned, therefore I desire thy judgment,
 whether by preaching or teaching can be meant praying.
 
-Mayor: No, praying is not mentioned; however, your conviction is recorded;
+[.discourse-part]
+_Mayor:_ No, praying is not mentioned; however, your conviction is recorded;
 you may make your appeal.
 
-George Whitehead: To whom shall I make my appeal, but to those that wrong me?
+[.discourse-part]
+_George Whitehead:_ To whom shall I make my appeal, but to those that wrong me?
 
-Mayor: I must do according to law; I must fine you forty pounds.
+[.discourse-part]
+_Mayor:_ I must do according to law; I must fine you forty pounds.
 
-George Whitehead: Then I must be fined for preaching the gospel of peace,
+[.discourse-part]
+_George Whitehead:_ Then I must be fined for preaching the gospel of peace,
 as if I had been preaching sedition.
 By this it is all one case to preach sedition or the gospel of peace.
 But such a law makes no difference between preaching sedition,
@@ -677,7 +714,7 @@ where two justices were, viz: justice Foster and justice Boules,
 with a great company of the king`'s horsemen or guard before the door.
 
 As George Whitehead and his friends were brought to the door, he called out for justice,
-saying, I am glad we are come before the civil magistrates;
+saying, '`I am glad we are come before the civil magistrates;
 we desire justice of you against the soldiers,
 who have kept us out of our meeting in the street, and taken us contrary to law,
 even contrary to the present act of Parliament,
@@ -687,7 +724,7 @@ Besides, some of these soldiers behaved themselves rudely, abused several of our
 and punched some of the women with their muskets, and hurt them.
 In the next place, we wholly except against these soldiers being witnesses,
 looking upon them as not fit, nor ought they to be accepted for witnesses against us,
-having broken the law themselves.
+having broken the law themselves.`'
 
 George Whitehead several times called for justice,
 as they would answer the great God of heaven and earth,
@@ -710,50 +747,60 @@ What they informed against George Whitehead upon oath was,
 that there were about three hundred met in the street; that they took him preaching,
 standing on a bulk or stall.
 
-George Whitehead answered, That is not true, I was praying, standing on the ground,
-but leaning on a stall.
+George Whitehead answered, '`That is not true, I was praying, standing on the ground,
+but leaning on a stall.`'
 
-Soldiers.
+[.discourse-part]
+_Soldiers._
 We took him praying, but leaning on a bulk.
 
-George Whitehead: See how confused and contradictory they are in their evidence,
+[.discourse-part]
+_George Whitehead:_ See how confused and contradictory they are in their evidence,
 for preaching and praying are two things;
 neither is praying mentioned in that clause of the act that
 is made against such as take upon them to preach or teach.
 
-Justice Foster.
+[.discourse-part]
+_Justice Foster._
 You conjured them together to the meeting.
 
-George Whitehead: That is not true,
+[.discourse-part]
+_George Whitehead:_ That is not true,
 for they were gathered together before I came to the meeting.
 
-Major.
+[.discourse-part]
+_Major._
 He does as much as tell the justice he lies.
 
-George Whitehead: I do not tell him he lies; but I say again,
+[.discourse-part]
+_George Whitehead:_ I do not tell him he lies; but I say again,
 it is false that I conjured the people together.
 The major reproved the soldiers for going beyond his order,
 in going out into the street to take our friends, saying,
 I gave you order only to keep them out in the street, and you to keep sentry at the door.
 
-Justice Boules.
+[.discourse-part]
+_Justice Boules._
 Sir, but after you were gone, I ordered them to take those that preached,
 and I thank them.
 
-Justice Foster.
+[.discourse-part]
+_Justice Foster._
 What a devil did you come there to pray for?
 
-George Whitehead: Do these words become a magistrate?
+[.discourse-part]
+_George Whitehead:_ Do these words become a magistrate?
 We did not meet to hear or sing ballads in the street, nor do we meet at play houses,
 nor at bawdy houses, nor at drinking houses, to be drunk, where the devil is served;
 but singly to serve and worship the living God, for which we suffer.
 
 The major and some more with him, seemed highly concerned at those words--calling out,
-Who do you accuse?
-Who do you accuse for going to bawdy houses?
+'`Who do you accuse?
+Who do you accuse for going to bawdy houses?`'
 Whereupon some of the company present smiled one upon another.
 
-George Whitehead: I accuse none, but tell you what meetings we do not come at, nor own;
+[.discourse-part]
+_George Whitehead:_ I accuse none, but tell you what meetings we do not come at, nor own;
 and for what end we do meet.
 
 The information the soldiers gave against John Scott, was, that they took him preaching,
@@ -787,13 +834,14 @@ and particularly the statute of Oxford, the oath, etc.
 The clerk having the oath of allegiance in his hand,
 written with blanks left for the names, and a law book before them.
 
-George Whitehead answered, I desire you would not go about to ensnare us,
+George Whitehead answered, '`I desire you would not go about to ensnare us,
 for the law was not made to make men transgressors, but to punish them,
 where it finds such.
 We were apprehended and accused as breakers of the late act against conventicles,
-let us first be tried upon that act, and cleared, and not have a new snare laid for us.
+let us first be tried upon that act, and cleared, and not have a new snare laid for us.`'
 
-Justice Foster.
+[.discourse-part]
+_Justice Foster._
 We will not lay snares for you;
 if you will pay your twenty pounds you shall be discharged.
 
@@ -808,19 +856,22 @@ and asked George Whitehead if he would pay his twenty pounds,
 and if he would promise to come no more at the meeting at Peel?
 
 George Whitehead answered,
-I cannot pay any fine or money for praying to God or worshipping him;
+'`I cannot pay any fine or money for praying to God or worshipping him;
 and as for promising to come no more there, I am not my own; I stand in the will of God,
-neither can I promise any such thing as to forbear coming to worship or pray to God.
+neither can I promise any such thing as to forbear coming to worship or pray to God.`'
 
 One of them asked Samuel Richardson, "`Will you promise to come no more at meeting?`"
 
-Samuel Richardson.
+[.discourse-part]
+_Samuel Richardson._
 I can promise no such thing.
 
-Justice.
+[.discourse-part]
+_Justice._
 Will you pay your five shillings?
 
-Samuel Richardson.
+[.discourse-part]
+_Samuel Richardson._
 I do not know that I owe thee five shillings.
 
 So, having fined George Whitehead twenty pounds, as they said, but it was not levied,
