@@ -342,7 +342,13 @@ have room to lodge apart from the felons.
 
 A copy of the court order follows.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Surrey, ss.
+
+[.letter-heading]
 To the keeper of his majesty`'s jail for the county aforesaid.
 
 Forasmuch as George Whitehead, George Patteson, Joseph Dunsdale, Gilbert Hutton,
@@ -358,9 +364,13 @@ for the space of three months from this present day.
 And hereof see that you in no way fail,
 under the pains and penalties in the said act mentioned.
 
+[.signed-section-context-close]
 Dated the 3rd day of July, 1664.
 
+[.signed-section-signature]
 John Bromfield, John Lenthal, George Moor.
+
+--
 
 A few days after my commitment to White Lion prison, another trial befel me.
 I was had out of the prison, before John Lenthal, about the plot in the north of England,
@@ -754,19 +764,30 @@ were often remembered; Who shall separate us from the love of Christ?
 Shall tribulation, or distress, or persecution, or famine, or nakedness, or peril,
 or sword?
 As it is written.
+
+[quote.scripture, , Rom. 8:35-39]
+____
+
 For your sake we are killed all the day long; we are accounted as sheep for the slaughter.
 No, in all these things we are more than conquerors, through him that loved us.
 For I am persuaded, that neither death, nor life, nor angels, nor principalities,
 nor powers, nor things present, nor things to come, nor height, nor depth,
 nor any other creature, shall be able to separate us from the love of God,
-which is in Christ Jesus our Lord: Rom. 8:35-39.
+which is in Christ Jesus our Lord.
+
+____
 
 Further to show my exercise and concern for our friends in that time,
 the two following epistles are next inserted.
 
+[.embedded-content-document.epistle]
+--
+
+[.letter-heading]
 A few seasonable words to all the tender-hearted,
 whose spirits are saddened and cast down at the trials of the present time.
 
+[.salutation]
 O dear friends,
 
 You that have received the testimony of God`'s love and salvation,
@@ -886,9 +907,13 @@ you may be preserved in the faith and patience of his own seed,
 as constant followers of the Lamb, to whom the victory and everlasting dominion belong,
 is the travail and desire of our souls, who are your dear friends,
 
+[.signed-section-signature]
 George Whitehead, Alexander Parker.
 
+[.signed-section-context-close]
 London, the 19th of the Sixth month, 1665.
+
+--
 
 In the year 1665, that very summer in which the plague and mortality were so great,
 the persecutors in London were busy to send away
@@ -948,18 +973,17 @@ and the Lord my God preserved me both from the distemper and from banishment,
 wherein I do humbly confess his power and special providence,
 to his own praise and glory alone.
 
-The second epistle, printed in the year 1665, after the heat of the contagion was over,
-entitled, An epistle for the remnant of Friends and chosen of God,
-whom he has yet preserved to bear their testimony, in and about the city of London.
-To whom this is a testimony of the dear love and tender care which flows forth,
-and is extended toward them,
-and all tender hearts who are concerned in the like sufferings, temptations and trials.
+[.embedded-content-document.epistle]
+--
 
+[.blurb]
+=== The second epistle, printed in the year 1665, after the heat of the contagion was over,entitled, _An epistle for the remnant of Friends and chosen of God, whom he has yet preserved to bear their testimony, in and about the city of London._ To whom this is a testimony of the dear love and tender care which flows forth, and is extended toward them, and all tender hearts who are concerned in the like sufferings, temptations and trials.
+
+[.signed-section-closing]
 From their faithful friend and servant in the Lord,
 
+[.signed-section-signature]
 George Whitehead.
-
-* * *
 
 My dearly beloved friends, brethren and sisters, among whom my soul has travailed,
 and suffered for the afflicted`'s sake,
@@ -1337,9 +1361,17 @@ and all the faithful everywhere, I commit you to Him,
 in whom our help and deliverance are; and in the kingdom of Christ`'s patience,
 I am your dear and faithful friend and brother,
 
+[.signed-section-signature]
 George Whitehead.
+
+[.postscript]
+====
 
 Let this be read distinctly,
 in the life and authority of God--from which it came--among
 Friends in and about the city of London,
 and elsewhere, as any Friends are moved in the life.
+
+====
+
+--
