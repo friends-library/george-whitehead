@@ -340,6 +340,7 @@ Of which gross abuses, complaint being made to some of the justices that committ
 the next night the jailer was made to let Friends
 have room to lodge apart from the felons.
 
+[.offset]
 A copy of the mittimus follows.
 
 [.embedded-content-document.legal]
@@ -348,8 +349,8 @@ A copy of the mittimus follows.
 [.signed-section-context-open]
 Surrey, ss.
 
-[.letter-heading]
-To the keeper of his majesty`'s jail for the county aforesaid.
+[.salutation]
+To the keeper of his majesty`'s jail for the county aforesaid;
 
 Forasmuch as George Whitehead, George Patteson, Joseph Dunsdale, Gilbert Hutton,
 George Rawlins, Edward Pattison, Timothy England,
@@ -966,7 +967,7 @@ which lay some time at Buggby`'s Hole, where they were so crowded,
 and the sickness being in Newgate, whence they were carried out to the ship,
 wherein also the distemper broke out among them, that the most of them were infected;
 insomuch that about twenty-seven of them soon died on ship-board, some at Buggby`'s Hole,
-and the rest beyond Gravesend-.
+and the rest beyond Gravesend.
 
 I visited these Friends, and had a meeting with them when on ship-board;
 and the Lord my God preserved me both from the distemper and from banishment,
