@@ -35,11 +35,11 @@ blessed be his name.
 The occasion of the barbarous persecutions against our said meeting in Southwark,
 was by the following order.
 
-At the court at Whitehall, the 29th of July, 1670;--present,
-the king`'s most excellent majesty, his Highness, Prince Rupert,
-Lord Archbishop of Canterbury, Lord Keeper, Duke of Monmouth, Duke of Ormond,
-Earl of Ossory, Earl of Oxford, Earl of Anglesey, Earl of Bath, Earl of Craven,
-Lord Ashley, Mr. Treasurer, Mr. Vice-chamberlain, Mr. Secretary Trevor.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== At the court at Whitehall, the 29th of July, 1670;--present, the king`'s most excellent majesty, his Highness, Prince Rupert, Lord Archbishop of Canterbury, Lord Keeper, Duke of Monmouth, Duke of Ormond, Earl of Ossory, Earl of Oxford, Earl of Anglesey, Earl of Bath, Earl of Craven, Lord Ashley, Mr. Treasurer, Mr. Vice-chamberlain, Mr. Secretary Trevor.
 
 His majesty being informed that there have been of late,
 frequent conventicles and seditious meetings, under pretence of religious worship,
@@ -61,7 +61,10 @@ that this signification of this his royal pleasure be affixed on the said buildi
 to the end that the owners and occupiers of the same, may take notice thereof,
 to prevent and hinder such meetings at their peril.
 
+[.signed-section-signature]
 John Nicholas.
+
+--
 
 Which order was both affixed on the door of the meetinghouse,
 and soon after put in execution; for they sent, and very much spoiled,
@@ -199,8 +202,11 @@ not knowing what consequence the Dutch war against him might come to;
 insomuch that he published a declaration of indulgence to dissenters,
 to suspend the execution of penal laws in matters ecclesiastical, entitled:
 
-His Majesty`'s Declaration to all his loving subjects, dated March 15th, 1671-2,
-published by the advice of his privy council: the principal heads whereof are as follows:
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== His Majesty`'s Declaration to all his loving subjects, dated March 15th, 1671-2, published by the advice of his privy council: the principal heads whereof are as follows:
 
 Our care and endeavours for the preservation of the rights and interest of the church,
 have been sufficiently manifested to the world,
@@ -262,13 +268,20 @@ any of our subjects shall presume to abuse this liberty and preach seditiously, 
 we will let them see we can be as severe to punish such offenders,
 as we are indulgent to truly tender consciences.
 
+--
+
 Thus far the heads of the aforesaid declaration;
 from the first part whereof two or three things are observable.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ His care and endeavours in using those many and frequent ways of coercion,
 which were severe and frequent persecutions,
 designed and used for the preservation of the church, i. e., the church of England.
 
+[.numbered]
 2+++.+++ Yet for all this his great care for the church,
 it was made evident by the sad experience of twelve years,
 that very little fruit came of all those forcible courses, those many ways of coercion,
@@ -283,6 +296,7 @@ and forcible courses;
 all which proved fruitless and ineffectual to answer the design thereof, i. e.,
 universal conformity to the said church.
 
+[.numbered]
 3+++.+++ However, it was well the king at length made such an ingenuous confession,
 how fruitless coercion or forcible courses were about matters of conscience and religion,
 though it was from the sad experience of twelve years trial;
@@ -290,20 +304,30 @@ the sad effects whereof had been prevented, if such courses had never been tried
 and his repeated solemn promises of liberty to tender consciences,
 had been kept and performed.
 
+[.numbered]
 4+++.+++ After the said declaration of indulgence was published in print, and took effect,
 in a short time our persecutors were stopped and restrained,
 and our religious meetings generally quiet throughout England, Wales, etc.,
 for several years.
 
+====
+
 Several good effects followed the before-mentioned declaration, before it was cancelled,
 and made void, as:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The stop put to informers, persecutors and persecutions for a time,
 
+[.numbered]
 2+++.+++ The quiet and peaceable enjoyment of our innocent meetings and religious assemblies.
 
+[.numbered]
 3+++.+++ The preservation of our goods from rapine and spoil by informers and other persecutors.
 
+[.numbered]
 4+++.+++ The king`'s discharge and deliverance of many
 of our suffering friends out of the prisons,
 remitting their fines and releasing their estates,
@@ -311,6 +335,8 @@ by his letters patent under the great seal,
 which were forfeited to the king by judgment of premunire.
 And for the discharge of the aforesaid sufferers, I faithfully laboured and solicited,
 some account whereof follows.
+
+====
 
 Soon after the declaration of indulgence was published in print,
 as I was solitarily upon the road, returning toward London, out of the country,
@@ -353,57 +379,54 @@ the king gave this answer: "`I will pardon them.`"
 Whereupon Thomas Moore pleaded the innocency of our friends, that they needed no pardon,
 being innocent.
 The king`'s own warrant in a few lines will discharge them;
-for where the word of a king is, there is power, said Thomas Moore.
-The king answered, O, Mr. Moore, there are persons as innocent as a child new born,
-that are pardoned, that is, from the penalties of the law you need not scruple a pardon.
-The Lord Keeper added, I told them that they cannot be legally discharged,
-but by a pardon under the great seal.
+'`for where the word of a king is, there is power,`' said Thomas Moore.
+The king answered, '`O, Mr. Moore, there are persons as innocent as a child new born,
+that are pardoned, that is, from the penalties of the law you need not scruple a pardon.`'
+The Lord Keeper added, '`I told them that they cannot be legally discharged,
+but by a pardon under the great seal.`'
 Then stood up Duke Lauderdale, and made his reflection upon what Thomas Moore said,
-in this manner: May it please your majesty,
+in this manner: '`May it please your majesty,
 I wonder that these men should be no better counselled to accept of your gracious pardon;
 for if your majesty should by your own private warrant release them out of prison,
 their prosecutors may put them into prison again the next day, and still their estates,
 forfeited to you upon premunire, remain confiscate;
 so that their persons and estates cannot be safely discharged
 without your majesty`'s pardon under the great seal.
-With which the rest of the council concurred.
+With which the rest of the council concurred.`'
 
 Whereunto I returned this answer:
-It is not for us to prescribe or dictate to the king and his council,
+'`It is not for us to prescribe or dictate to the king and his council,
 what methods to take for our friends`' discharge;
 they know best their own methods in point of law; we seek the end thereof,
 namely the effectual discharge of our suffering friends out of prison,
-that they may live peaceably, and quietly enjoy their own.
+that they may live peaceably, and quietly enjoy their own.`'
 
 Whereupon they all appeared satisfied, and the king said, "`Well, I will pardon,
 or discharge them, etc.`"
 
 After more discourse between the king and us, I looked about on the council,
 and in the Lord`'s power thus declared:
-I do not question but God at times inclines your hearts to tenderness towards the sufferers,
+'`I do not question but God at times inclines your hearts to tenderness towards the sufferers,
 especially those for conscience sake.
 O therefore take notice thereof, and mind that tenderness,
 and that which inclines your hearts to commiserate their conditions,
 who have long groaned and lain under heavy burdens, and sore oppressions, etc.
 
-As for our refusing the oath of allegiance, for which many suffer in prisons,
+'`As for our refusing the oath of allegiance, for which many suffer in prisons,
 God does bear us witness, yes, God does bear the sufferers record,
 that it is not from a disaffection to the king, or government,
-but singly for conscience sake, because it is an oath.
-Concluding with these words, This is the fast the Lord requires,
-to undo the heavy burdens, and to let the oppressed go free.
+but singly for conscience sake, because it is an oath.`'
+Concluding with these words, '`This is the fast the Lord requires,
+to undo the heavy burdens, and to let the oppressed go free.`'
 +++[+++Being near the time of an appointed fast, as I remember.]
 
 Pursuant to the king`'s promise of pardon, etc., the following order was given:
 
-At the court at Whitehall, the 8th of May,
-1672;--present the king`'s most excellent majesty.
-Archbishop of Canterbury, Lord Keeper, Duke of Lauderdale, Lord Chamberlain,
-Earl of Bridgwater, Earl of Essex, Earl of Anglesey, Earl of Bath, Earl of Carlisle,
-Earl of Craven, Earl of Shaftsbury, Viscount Falconbery, Viscount Halifax,
-Lord Bishop of London, Lord Newport, Lord Hollis, Mr. Vice-Chamberlain,
-Mr. Secretary Trevor, Sir John Duncomb, Mr. Chancellor of the Dutchy,
-Master of the Ordnance, Sir Thomas Osburn.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== At the court at Whitehall, the 8th of May, 1672;--present the king`'s most excellent majesty. Archbishop of Canterbury, Lord Keeper, Duke of Lauderdale, Lord Chamberlain, Earl of Bridgwater, Earl of Essex, Earl of Anglesey, Earl of Bath, Earl of Carlisle, Earl of Craven, Earl of Shaftsbury, Viscount Falconbery, Viscount Halifax, Lord Bishop of London, Lord Newport, Lord Hollis, Mr. Vice-Chamberlain, Mr. Secretary Trevor, Sir John Duncomb, Mr. Chancellor of the Dutchy, Master of the Ordnance, Sir Thomas Osburn.
 
 Whereas his majesty of his princely clemency, was graciously pleased to direct,
 that letters should be written from this board,
@@ -421,22 +444,32 @@ together with his opinion thereupon as follows:
 The returns that are made touching the prisoners, in the several jails,
 are of several kinds.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ All such of them as are returned to be convicted to be transported,
 or to be convicted of a premunire, upon whose convictions I suppose judgment was given,
 are not legally to be discharged, but by his majesty`'s pardon under the great seal.
 
+[.numbered]
 2+++.+++ All such that are returned to be in prison upon writs of Excommunicato Capiendo,
 not mentioning the cause, ought not to be discharged till the cause appears;
 for if it be for tithes, legacies, defamations, or other private interests,
 they ought not to be discharged till the parties be satisfied.
 
+[.numbered]
 3+++.+++ All those that are returned in prison for debt, or upon exchequer process,
 or of any of the other courts at Westminster, are not so discharged,
 till it be known for what cause those processes issued, and those debts be discharged.
 
+[.numbered]
 4+++.+++ Those that are in prison for not paying their fines,
 ought not to be discharged without paying their fines, or a pardon.
 
+====
+
+[.offset]
 All the rest I conceive may be discharged.
 
 Which being this day taken into consideration,
@@ -454,9 +487,16 @@ for all such to whom his majesty may legally grant the same:
 and in case of any difficulty, that he attend the lord Keeper,
 and receive his directions therein.
 
+[.signed-section-signature]
 Edward Walker.
 
+--
+
+[.offset]
 Here follows a copy also of the king`'s warrant to the attorney general.
+
+[.embedded-content-document.legal]
+--
 
 Our will and pleasure is, that you prepare a bill fit for the royal signature,
 and to pass our great seal of England, containing our gracious pardon unto, etc.,
@@ -474,8 +514,11 @@ whatsoever thereby incurred, with restitution of lands and goods, and such other
 and non obstantes, as may render this our pardon most effectual;
 for which this shall be your warrant.
 
+[.signed-section-context-close]
 Given at our court at Whitehall, the day of June, in the twenty-fourth year of our reign.
 To our attorney general.
+
+--
 
 After we had taken out the foregoing order and warrant,
 our friend Thomas Moore and I carried and delivered
@@ -502,8 +545,13 @@ as better understanding the form or shape and nature of that instrument than bef
 Thomas Moore`'s scruples or objections against the word pardon,
 or its being necessary to our suffering friends, were upon these tender points.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That they being innocent, and no criminal persons, needed no pardon, as criminals do.
 
+[.numbered]
 2+++.+++ That their testimony for Christ Jesus allowed of no pardon;
 neither indeed can we allow or accept of any man`'s pardon in that case,
 singly considered; we cannot give away the cause of Christ,
@@ -511,6 +559,8 @@ or our sincere obedience to him,
 as any offence or crime needing any pardon or forgiveness from men;
 nor does Christ require us to ask it of him, but accepts and approves of us,
 in that wherein we truly obey him.
+
+====
 
 But then on the other hand, we must reasonably allow of this distinction;
 that wherein we, or our friends were judged or condemned by human laws,
@@ -520,7 +570,6 @@ and thereby we made debtors to him, though unduly, the king has power to remit, 
 or forgive what the law has made a debt to him,
 as well as any creditor has power to forgive a debt owing him;
 and to pardon and release his debtor out of prison.
-
 The case is plain, and the distinction evident.
 
 Neither pope, priest, nor prince can acquit or pardon men in the sight of God,
@@ -568,6 +617,10 @@ to remit or abate the great fees.
 
 Whereupon the king gave order, according to our request, as follows:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Locus Sigilli.
 
 His majesty is pleased to command,
@@ -576,9 +629,13 @@ where the pardon to the Quakers is to pass, that the pardon,
 though comprehending a great number of persons, do yet pass as one pardon,
 and pay but as one.
 
+[.signed-section-signature]
 Arlington.
 
+[.signed-section-context-close]
 At the court at Whitehall, the 13th of Sept, 1672.
+
+--
 
 But though we had this warrant from the king,
 yet we had trouble from some of the covetous clerks, who strove hard to exact upon us.
@@ -740,7 +797,7 @@ it might be their death if they were detained much longer,
 especially in the winter season.
 
 The judge appearing very serious and intent upon the matter, told us,
-that if they would remove themselves by Habeas Corpus,
+that if they would remove themselves by _Habeas Corpus,_
 and come before him at the king`'s bench, "`I will release them,`" said he,
 i+++.+++ e. upon the king`'s pardon.
 I then signified to him,
@@ -1019,6 +1076,10 @@ and great endeavours were used,
 at least to make the king and his ministers sensible thereof,
 according to the following brief account.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the King`'s Justices, appointed for the several circuits throughout England.
 
 Many of our friends, called Quakers, being continued prisoners,
@@ -1035,6 +1096,8 @@ for their ease and relief.
 Praying the Almighty to direct and preserve you;
 we are your Christian friends and well-wishers.
 
+--
+
 But we found little redress from the judges in those days,
 after several applications to them;
 except when the king gave them some instructions thereto;
@@ -1042,17 +1105,17 @@ for which end we sometimes applied to the king to stay proceedings against our f
 whereupon he showed some compassion towards the sufferers,
 when their case was presented in manner following.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To The King.
 
-The case of the people called Quakers,
-who are still sufferers by prosecutions upon old statutes, made against popish recusants.
+[.blurb]
+=== The case of the people called Quakers, who are still sufferers by prosecutions upon old statutes, made against popish recusants.
 
-+++[+++Presented to the king by George Whitehead, William Mead, and John Osgood,
-the 16th of the eleventh month, 1679.
-Being introduced by William Chiffins, Esq., closet-keeper to the king;
-as he had given leave and appointed.
-After a brief introductory speech to the king, by George Whitehead,
-the following case was presented and read:]
+[.blurb]
+=== +++[+++Presented to the king by George Whitehead, William Mead, and John Osgood, the 16th of the eleventh month, 1679. Being introduced by William Chiffins, Esq., closet-keeper to the king; as he had given leave and appointed. After a brief introductory speech to the king, by George Whitehead, the following case was presented and read:]
 
 It may be remembered, that about two years last past,
 our case of sufferings was represented before the king and his privy council, that is,
@@ -1094,6 +1157,8 @@ the forfeitures being made to the king;
 We therefore in true Christian humility desire,
 that the king will be pleased to grant a present stay, or cessation of process,
 until we can have a more effectual redress in a parliamentary way.
+
+--
 
 The king received this case, with a list of the sufferers, i. e.,
 of our friends under prosecution, and he was pleased to give this answer:
