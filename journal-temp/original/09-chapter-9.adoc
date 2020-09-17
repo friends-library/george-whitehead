@@ -469,6 +469,7 @@ ought not to be discharged without paying their fines, or a pardon.
 
 ====
 
+[.offset]
 All the rest I conceive may be discharged.
 
 Which being this day taken into consideration,
@@ -491,6 +492,7 @@ Edward Walker.
 
 --
 
+[.offset]
 Here follows a copy also of the king`'s warrant to the attorney general.
 
 [.embedded-content-document.legal]
@@ -568,7 +570,6 @@ and thereby we made debtors to him, though unduly, the king has power to remit, 
 or forgive what the law has made a debt to him,
 as well as any creditor has power to forgive a debt owing him;
 and to pardon and release his debtor out of prison.
-
 The case is plain, and the distinction evident.
 
 Neither pope, priest, nor prince can acquit or pardon men in the sight of God,
