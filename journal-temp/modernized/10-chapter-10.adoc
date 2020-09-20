@@ -1,7 +1,11 @@
 == Chapter X
 
+[.section-summary-preface]
 The following account of the imprisonment of George Whitehead and Thomas Burr,
 was printed for circulation.
+
+[.embedded-content-document]
+--
 
 Although the publication of this noted case,
 of our friends George Whitehead and Thomas Burr, has been for some time delayed,
@@ -30,7 +34,10 @@ as real Protestant Christians,
 this following account is the more freely recommended to the most
 serious and impartial perusal and consideration of the reader.
 
+[.signed-section-signature]
 E+++.+++ Hookes.
+
+--
 
 George Whitehead and Thomas Burr, providentially and unexpectedly meeting together,
 about ten or twelve miles from the city of Norwich, the 19th day of the first month,
@@ -192,6 +199,10 @@ and such injustice will not go unrebuked.
 A copy of the prisoners`' letter delivered to the mayor before the quarter sessions,
 containing a twofold request.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Mayor, Justices, mid Aldermen of the city of Norwich.
 
 We whose names are hereunto subscribed,
@@ -210,7 +221,11 @@ and you have had no hand therein, saving that one person, by whom we were commit
 we are the more encouraged to make this brief application to you,
 upon a twofold request on this wise:
 
-First; We request your moderation and indifferency so far towards us,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ We request your moderation and indifferency so far towards us,
 as that when we are called before you, as a court of judicature in your quarter sessions,
 to hear and determine matters that come judicially before you,
 you will please to hear us with patience, and permit us to open our case,
@@ -221,7 +236,8 @@ nor any precipitation be used towards us in court,
 to divert or prevent us from making our defence,
 in reference to the prosecution and charge we suffer under.
 
-Secondly; We further request, that if upon a deliberate hearing,
+[.numbered]
+_Secondly;_ We further request, that if upon a deliberate hearing,
 and due inquiry into those proceedings which we suffer under,
 we make it appear that we are illegally and unduly proceeded withal,
 and contrary to due process and order of law, that then you will not countenance, abet,
@@ -237,41 +253,53 @@ footnote:[37 Ed. 3, c. 18.]
 and so tending to the grief and dishonour of the king,
 or destruction of any of his peaceable people.
 
+====
+
 We hope you will not deny, but assent to these two foregoing propositions,
 as just and reasonable; and therefore we shall not need now to urge,
 but only remind you of these material points of law following.
 
-First; It is the king`'s will, in point of law,^
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ It is the king`'s will, in point of law,^
 footnote:[25 Ed. 1 c. 1 Coke Inst, part 2, fol. 527. 25 Ed. 1 c. 2. 5 Ed. 3, 9, 28. Ed. 3, 3, etc.]
 that all his justices, sheriffs, mayors, and other ministers, who, under him,
 have the laws of the land to guide,
 shall allow the great charter of the liberties of England to be pleaded in all points.
 
-Secondly; That if any judgment be given,
+[.numbered]
+_Secondly;_ That if any judgment be given,
 or anything done contrary to the points of the said charter, by the justices,
 or any other the king`'s ministers that hold plea before them,
 against the points of the charter, it shall be undone, redressed, and held for naught.
 
-Thirdly; The court ought to be of counsel with the prisoner,
+[.numbered]
+_Thirdly;_ The court ought to be of counsel with the prisoner,
 to see that nothing be urged against him contrary to law and right.
 Coke.
 Inst, part 3, fol.
 29.
 
-Fourthly; That the court ought to be so far from overawing,
+[.numbered]
+_Fourthly;_ That the court ought to be so far from overawing,
 or forcibly diverting the prisoner from his plea or answer,
 that the judge ought to exhort the prisoner to answer without fear;
 and that justice shall be duly administered unto him.
 Coke Inst, part 2, fol.
 316.
 
-Fifthly; That any learned man who is present, may inform the court,
+[.numbered]
+_Fifthly;_ That any learned man who is present, may inform the court,
 for the benefit of the prisoner, of anything that may make the proceedings erroneous:
 as also, even in cases highly criminal, it is lawful for any man that is in court,
 to inform the court, lest the court should err,
 and the prisoner be unjustly proceeded with.
 See Coke, part 3, fol.
 137.
+
+====
 
 Now friends, these things are recommended and left to your serious consideration,
 we not designing hereby, as you may easily understand,
@@ -280,9 +308,14 @@ but fairly to introduce the right and legal cognizance thereof,
 in order to have justice and right done us as Englishmen,
 and as we are your well-wishers.
 
+[.signed-section-signature]
 George Whitehead, Thomas Burr.
 
+[.signed-section-context-close]
 Norwich jail, the 17th of the Second month, 1680.
+
+[.postscript]
+====
 
 We desire this may be communicated.
 
@@ -292,6 +325,10 @@ held for the city and county of the same, the 28th day of the month called April
 Collected and compared by several hands,
 and digested into as much order as the capacity of the sufferers,
 and the circumstances of proceedings would admit.
+
+====
+
+--
 
 The quarter sessions for the city and county of Norwich, begun the 19th day of April,
 so called, 1680.
@@ -311,18 +348,19 @@ George Whitehead standing up to the bar, began thus;
 namely: The patience of the court,
 and the indifferency of the court towards the prisoners.
 
-That their case may be patiently heard and considered, without prejudication,
+"`That their case may be patiently heard and considered, without prejudication,
 before any judgment pass against them.
 This we expect from the court.
 We have been five weeks in prison; it is fitting the court should know for what.
 Pray let our court order be produced and read in court,
 that it may be understood what charge we suffer under.
 
-Our suffering is twofold; first, above five weeks confinement.
+"`Our suffering is twofold; first, above five weeks confinement.
 Secondly, the charge that is against us in the court order:
 we request that the court order may be produced and read in court.`"
 
-Recorder: There is no need of your court order to be read here:
+[.discourse-part]
+_Recorder:_ There is no need of your court order to be read here:
 I will give account of the cause: I will inform the court.
 These persons had been two^
 footnote:[An untruth.]
@@ -338,14 +376,17 @@ that if they would pay their fines, I would not commit them to prison;
 but when they would not, I tendered the oath of allegiance to them:
 and after they would not take it, I sent them to jail; as I think I very well might.
 
-George Whitehead: We are Englishmen, and have a right to travel in any part of the nation.
+[.discourse-part]
+_George Whitehead:_ We are Englishmen, and have a right to travel in any part of the nation.
 
-Thomas Burr: I am a person that have been concerned in trading in corn,
+[.discourse-part]
+_Thomas Burr:_ I am a person that have been concerned in trading in corn,
 as well in this county as in others; and by the law of England,
 a man may travel from place to place about his concerns,
 and ought not to be molested while he walks peaceably.
 
-Recorder: Had not you better been turning your malt at home, than to come here to preach?
+[.discourse-part]
+_Recorder:_ Had not you better been turning your malt at home, than to come here to preach?
 The apostle Paul exhorts to follow the vocation whereunto you are called.
 The Scripture says,
 "`God added to the church such as should be saved:`" but you draw from the church.
@@ -365,12 +406,14 @@ who did not go about to exclude laymen or mechanics, so called,
 from preaching the gospel; for the best preachers were generally such,
 in the prophets`' and primitive Christians`' days.
 
-Recorder:
+[.discourse-part]
+_Recorder:_
 There is a law--and the church of England will never
 be at quiet till some of you be hanged by that law,
 or till such fellows as you are hanged.
 
-George Whitehead: The court may see the frame of the recorder`'s spirit toward us,
+[.discourse-part]
+_George Whitehead:_ The court may see the frame of the recorder`'s spirit toward us,
 and that he stands not as a person indifferent, but a party against us.
 You ought not to inveigh against the prisoners, nor threaten us.
 That stands not with the indifferency of the court;
@@ -382,13 +425,17 @@ he would not desire him to declare his opinion aforehand,
 that the prisoner might come judicially before him, and have justice done him.
 And the king accepted his request in the case------interrupted.
 
-Recorder: What king`'s reign was that in?
+[.discourse-part]
+_Recorder:_ What king`'s reign was that in?
 
-George Whitehead: In king Henry the seventh`'s.
+[.discourse-part]
+_George Whitehead:_ In king Henry the seventh`'s.
 
-Recorder: I perceive you have read, or are read.
+[.discourse-part]
+_Recorder:_ I perceive you have read, or are read.
 
-George Whitehead: Seeing that none of the court have as yet had any hand against us,
+[.discourse-part]
+_George Whitehead:_ Seeing that none of the court have as yet had any hand against us,
 except the recorder,
 we may charitably hope that the court will stand indifferent towards us,
 and let us have a fair hearing before any determination.
@@ -403,9 +450,11 @@ Let us be tried before we be hanged.
 Let us not be hanged first, and then tried.
 It will be too late to try us after we are hanged.
 
-Recorder: You were sent to prison for refusing the oath of allegiance.
+[.discourse-part]
+_Recorder:_ You were sent to prison for refusing the oath of allegiance.
 
-George Whitehead: That is a mistake.
+[.discourse-part]
+_George Whitehead:_ That is a mistake.
 We were sent to prison for being at a meeting charged to be against the peace,
 which is the premises in our court order, to which we are here to answer.
 And therefore that all may know what is laid to our charge,
@@ -413,46 +462,57 @@ we desire our court order may be read,
 that so if there be any persons who will undertake to prove the matter in charge,
 let us see them, and have liberty to answer the premises contained in the court order.
 
-Recorder: I will show you, that when a person is committed to prison,
+[.discourse-part]
+_Recorder:_ I will show you, that when a person is committed to prison,
 he may have several actions laid upon him, if new charges be brought against him.
 
-Prisoner: I grant that; but that is not our case.
+[.discourse-part]
+_Prisoner:_ I grant that; but that is not our case.
 For we presume the recorder had no new matter brought against us,
 after he committed us to prison; and therefore could not lay any new charge upon us.
 
-Thomas Burr: There could not be any new charge against us,
+[.discourse-part]
+_Thomas Burr:_ There could not be any new charge against us,
 to render us suspicious of being Jesuits or Papists; but instead of that,
 we have certificates to take off any jealousies of
 that kind that might be in any concerning us,
 which are subscribed by credible persons of our neighbourhood.
 
-George Whitehead: The premises which we are to answer to,
+[.discourse-part]
+_George Whitehead:_ The premises which we are to answer to,
 is matter of charge contained in the court order: let it be read in court we request you.
 
-Recorder: It shall not,--I will give account.
+[.discourse-part]
+_Recorder:_ It shall not,--I will give account.
 These persons were taken at an unlawful meeting.
 There is also a second court order,
 which signifies my requiring them to take the oath of obedience, and their refusal.
 
-George Whitehead: The second is a warrant to detain us without bail or mainprise,
+[.discourse-part]
+_George Whitehead:_ The second is a warrant to detain us without bail or mainprise,
 till sessions: it is not the court order, it is of another date.
 
-Recorder: It is the court order; and you are to answer to it,
+[.discourse-part]
+_Recorder:_ It is the court order; and you are to answer to it,
 whether you will take the oath of allegiance to the king.
 These persons have refused to show their obedience to the king.
 
-Thomas Burr: Pray forbear to accuse us.
+[.discourse-part]
+_Thomas Burr:_ Pray forbear to accuse us.
 We have showed our obedience by our peaceable conduct.
 
-George Whitehead: The second warrant is not the court order.
+[.discourse-part]
+_George Whitehead:_ The second warrant is not the court order.
 The court order is that by which we were sent to prison,
 bearing date the 21st day of March.
 The second warrant bears date the 23rd day of March.
 
-Recorder: The second is the court order; you are to answer to it.
+[.discourse-part]
+_Recorder:_ The second is the court order; you are to answer to it.
 We will put the oath to you.
 
-George Whitehead: The second is not the court order; we were not sent to prison by it.
+[.discourse-part]
+_George Whitehead:_ The second is not the court order; we were not sent to prison by it.
 We were sent to prison the 21st of March.
 The second warrant bears date the 23rd of March.
 We were in prison nearly two days before the date of the last warrant.
@@ -460,9 +520,11 @@ There needed not be a court order to send us to jail,
 when we were sent by one already so long before,
 I pray let our court order be read in court.
 
-Recorder: Put the oath to them, that is in the second court order.
+[.discourse-part]
+_Recorder:_ Put the oath to them, that is in the second court order.
 
-George Whitehead: I beg of this court, for God`'s sake, and the king`'s sake,
+[.discourse-part]
+_George Whitehead:_ I beg of this court, for God`'s sake, and the king`'s sake,
 to be heard fairly, without thus being run upon.
 For God`'s sake, because he is a God of justice and truth; and for the king`'s sake,
 because the king`'s will toward us as subjects, is what the law and justice wills.
@@ -477,22 +539,27 @@ We were not committed for refusing the oath.
 We entreat that the court may hear our court order,
 that we may not have any other premises put upon us than what is contained therein.
 
-Recorder: It shall not be read; there is no need of that:
+[.discourse-part]
+_Recorder:_ It shall not be read; there is no need of that:
 I am present that committed you.
 
-George Whitehead: I appeal to the mayor and the rest of the justices,
+[.discourse-part]
+_George Whitehead:_ I appeal to the mayor and the rest of the justices,
 who are more indifferent towards us, for justice in this case,
 that we may have our court order read, and answer to the premises contained in it,
 and not thus be run upon, and diverted with that which is none of the premises.
 
-Mayor: You have appealed to me: truly we are tradesmen, and no lawyers:
+[.discourse-part]
+_Mayor:_ You have appealed to me: truly we are tradesmen, and no lawyers:
 we leave matters of law to the recorder; he knows the law,
 and we must acquiesce in his judgment.
 
-Thomas Burr: You understand we ought to have our court order read, and be heard:
+[.discourse-part]
+_Thomas Burr:_ You understand we ought to have our court order read, and be heard:
 and you are the chief magistrate in this court.
 
-George Whitehead: You all have a conscience towards God,
+[.discourse-part]
+_George Whitehead:_ You all have a conscience towards God,
 and an equal and just law therein; and you are under a severe obligation, namely,
 your oath to see justice and right done us.
 We appeal to the mayor and justices here for justice, in relation to our court order,
@@ -504,25 +571,31 @@ or run down upon other premises.
 The court order was given under the hand and seal of your recorder;
 his reputation and honour are also concerned.
 
-Recorder: My honour concerned; wherein?
+[.discourse-part]
+_Recorder:_ My honour concerned; wherein?
 
-George Whitehead: Your reputation and honour are concerned,
+[.discourse-part]
+_George Whitehead:_ Your reputation and honour are concerned,
 in that you are bound to stand by our court order; it is under your hand and seal.
 Now you go about to evade it, by imposing other premises upon us, or to the same effect.
 
-Recorder: They sent their court orders to the attorney general,
+[.discourse-part]
+_Recorder:_ They sent their court orders to the attorney general,
 and solicited him for advice, to know whether they were according to law or not,
 and moved for a Habeas Corpus: but it would not be granted.
 
-George Whitehead: We neither sent to the attorney general,
+[.discourse-part]
+_George Whitehead:_ We neither sent to the attorney general,
 nor have we yet moved for a Habeas Corpus.
 
-Recorder:
+[.discourse-part]
+_Recorder:_
 The second court order or warrant is about their refusing the oath of allegiance;
 as for the first, I did not make it by book.^
 footnote:[This the prisoners did not hear, but others nearer.]
 
-George Whitehead: It is not a reasonable thing to bring a prisoner,
+[.discourse-part]
+_George Whitehead:_ It is not a reasonable thing to bring a prisoner,
 and not withal to signify the crimes laid against him:
 it was contrary to the very law of the Romans.--Interrupted, being about to add:
 as Festus said in the case of Paul.
@@ -530,16 +603,20 @@ as Festus said in the case of Paul.
 and not withal to signify the crimes laid against him;`"
 which always ought to be in warrants of commitment.
 
-Recorder: What tell you us of the law of the Romans;
+[.discourse-part]
+_Recorder:_ What tell you us of the law of the Romans;
 we have laws of our own to act by +++[+++or to that effect.]
 
-George Whitehead: It is according to the law of reason and nations,
+[.discourse-part]
+_George Whitehead:_ It is according to the law of reason and nations,
 that the crimes and offences should be known,
 for which prisoners are committed and detained in prison; else why should they suffer?
 
-Recorder: The court must tender you the oath.
+[.discourse-part]
+_Recorder:_ The court must tender you the oath.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 Wherefore then were we committed and detained in prison above these five weeks?
 If we be offenders, let us know our offence, for which we were committed; if not,
 do not go about to ensnare us; do not seek occasion against us.
@@ -548,45 +625,57 @@ if found guilty of what is charged against us in our court order.
 We entreat the mayor and court to do us right in this matter,
 that our court order may be read.
 
-Mayor, and some others: Well, you shall have it read.
+[.discourse-part]
+_Mayor, and some others:_ Well, you shall have it read.
 
-George Whitehead: Keeper, where is our court order?
+[.discourse-part]
+_George Whitehead:_ Keeper, where is our court order?
 produce it, that it may be read,
 as the mayor and other justices here present have engaged.
 
-Recorder: Tender them the oath: put the oath to them: if you will take it,
+[.discourse-part]
+_Recorder:_ Tender them the oath: put the oath to them: if you will take it,
 that shall serve; if not you incur a premunire.
 
+[.offset]
 A hideous noise in the court, among some under clerks and officers, about the oath:
 
-Some under-clerks: What say you?
+[.discourse-part]
+_Some under-clerks:_ What say you?
 Answer.
 Will you take the oath?
 Will you kiss the book?
 
-Clerk reads: I Thomas Whitehead do truly and sincerely acknowledge, profess,
+[.discourse-part]
+_Clerk reads:_ I Thomas Whitehead do truly and sincerely acknowledge, profess,
 testify and declare in my conscience, etc.--Here was an interruption,
 upon his mistake of Thomas for George.
 
-George Whitehead: The oath is none of the premises contained in our court order,
+[.discourse-part]
+_George Whitehead:_ The oath is none of the premises contained in our court order,
 which we are to answer to at this sessions, and to be tried upon.
 
-Thomas Burr: Our all is at stake.
+[.discourse-part]
+_Thomas Burr:_ Our all is at stake.
 We perceive the recorder is determined concerning us.
 We must have liberty to speak.
 We are freeborn Englishmen.
 +++[+++This on the interruption.]
 
-Recorder: We have power here to tender you the oath,
+[.discourse-part]
+_Recorder:_ We have power here to tender you the oath,
 without taking notice of any other cause.
 
-George Whitehead: It is preposterous to run us upon the oath in the first place,
+[.discourse-part]
+_George Whitehead:_ It is preposterous to run us upon the oath in the first place,
 we being not committed for that, but for other causes.
 
-Recorder: You affront the court: is that a fit word to give the court,
+[.discourse-part]
+_Recorder:_ You affront the court: is that a fit word to give the court,
 to charge the court with preposterous proceedings, +++[+++or to that effect].
 
-George Whitehead:--I do not charge the court;
+[.discourse-part]
+_George Whitehead:_--I do not charge the court;
 I do distinguish between the recorder in this point, and the court:
 he seeks to run us upon that first, which in course is last,
 according to his own court order and warrant,--and is not that preposterous?
@@ -608,13 +697,15 @@ one reason whereof is,
 that the innocent may not be worn or wasted through long imprisonment,
 but be brought forth speedily to trial, according to Magna Charta.
 
-Recorder:--Look what an argument or consequence you would draw from hence,
+[.discourse-part]
+_Recorder:_--Look what an argument or consequence you would draw from hence,
 // lint-disable invalid-characters
 the law of England is a law of mercy; it is _Lex misericordiæ,_
 therefore thieves or malefactors must not be brought to condign punishment,
 +++[+++or to that effect].
 
-George Whitehead:--That is none of my consequence;
+[.discourse-part]
+_George Whitehead:_--That is none of my consequence;
 mine is the same that Judge Coke does instance,
 // lint-disable invalid-characters
 wherein the law of England is _Lex misericordiæ,_ in that it is tender of men`'s liberties,
@@ -645,7 +736,8 @@ it is granted and promised us by the mayor, and others indifferent.
 But the recorder seemed greatly offended at the prisoners urging this,
 and at the mayor and justices assenting to it.]
 
-George Whitehead:--Seeing that the law is tender of Englishmen`'s liberties,
+[.discourse-part]
+_George Whitehead:_--Seeing that the law is tender of Englishmen`'s liberties,
 as that no freeman shall be taken or imprisoned, without due proceeding in law,
 it is but fitting and reasonable, that the court and people here,
 should understand what capacity and repute we are under among our neighbours, that is,
@@ -653,70 +745,94 @@ whether as freemen of England and of any repute among our neighbours, or as bond
 rogues, vagrants, or renegadoes.
 Hear what our neighbours say of us; we desire their certificates may be read.
 
-Recorder:--What have we to do with your certificates?
+[.discourse-part]
+_Recorder:_--What have we to do with your certificates?
 Will any swear to them, that they are true ones?
 
-George Whitehead:--They are real certificates; pray let them be read; here they are.
+[.discourse-part]
+_George Whitehead:_--They are real certificates; pray let them be read; here they are.
 
-Recorder:--We do not know but that you might make them yourselves in prison.
+[.discourse-part]
+_Recorder:_--We do not know but that you might make them yourselves in prison.
 
-George Whitehead:--They are no fictions: Pray read them, or let them be read;
+[.discourse-part]
+_George Whitehead:_--They are no fictions: Pray read them, or let them be read;
 they are from persons of credit and repute, as common council-men, deputy constables,
 churchwardens, and others.
 
-Recorder:--They shall not be read.
+[.discourse-part]
+_Recorder:_--They shall not be read.
 
-George Whitehead:--We beg they may be read.
+[.discourse-part]
+_George Whitehead:_--We beg they may be read.
 Look upon this certificate, here are the persons`' own (different) hands to it;
 it may tend to inform the court, and to remove suspicion and jealousies concerning us.
 +++[+++But this would not be granted the prisoners.]
 
-George Whitehead:--Seeing our certificates may not be read, nor permitted to be read,
+[.discourse-part]
+_George Whitehead:_--Seeing our certificates may not be read, nor permitted to be read,
 which is hard measure,
 now let our court order be produced +++[+++several expecting the keeper had sent for it]
 pray let us have our court order produced and read.
 
-Recorder:--We have it not, the jailer has it.
+[.discourse-part]
+_Recorder:_--We have it not, the jailer has it.
 
-George Whitehead:--Where is it?
+[.discourse-part]
+_George Whitehead:_--Where is it?
 Keeper, produce it; you had it.
 
-Recorder:--+++[+++To the prisoner]
+[.discourse-part]
+_Recorder:_--+++[+++To the prisoner]
 No doubt you have a copy.
 
-George Whitehead:--Yes, we have; may I read it?
+[.discourse-part]
+_George Whitehead:_--Yes, we have; may I read it?
 I crave liberty of the court to read it,
 that the court may understand what we are committed for, and to answer to that,
 this court is to take judicial cognizance of.
 
-Court:--The justices asked the question from one to another, to have it read,
+[.discourse-part]
+_Court:_--The justices asked the question from one to another, to have it read,
 generally assenting thereunto, as being of the mind it ought to be read.
 
-Justice Briggs: I am of the mind it should be read; what say you Mr. Bendich?
+[.discourse-part]
+_Justice Briggs:_ I am of the mind it should be read; what say you Mr. Bendich?
 
-Justice Bendich: Yes, truly I am of the mind it should be read.
+[.discourse-part]
+_Justice Bendich:_ Yes, truly I am of the mind it should be read.
 
-Justice Briggs: Pray speak to Mr, Mayor; +++[+++which was done.]
+[.discourse-part]
+_Justice Briggs:_ Pray speak to Mr, Mayor; +++[+++which was done.]
 
-Mayor to the Recorder: Sir, the justices are agreed it should be read.
+[.discourse-part]
+_Mayor to the Recorder:_ Sir, the justices are agreed it should be read.
 
 +++[+++Recorder turning himself toward them, as one greatly offended,
 that the court order should be read.]
 
-George Whitehead: It concerns the court to let us have our court order read.
+[.discourse-part]
+_George Whitehead:_ It concerns the court to let us have our court order read.
 I am ready to read the copy, seeing it may not be otherwise produced and read;
 shall I read?
 We expect that justice from the court, that it should be read.
 
-Recorder: Let them read it then, I am not ashamed of it; then read the other also,
+[.discourse-part]
+_Recorder:_ Let them read it then, I am not ashamed of it; then read the other also,
 for you have them both.
 
-Court: You may read it.
+[.discourse-part]
+_Court:_ You may read it.
 
-George Whitehead: Now we have the leave of the court, I hope you will keep to it:
+[.discourse-part]
+_George Whitehead:_ Now we have the leave of the court, I hope you will keep to it:
 observe it, it is a true copy.
 The court order read, which follows:
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 The Court Order
 
 City and county of Norwich.--Whereas George Whitehead
@@ -734,33 +850,54 @@ until they shall be from there discharged by due order of law; and hereof fail n
 Given under my hand and seal, the 21st day of March, Anno Dom.
 1679.
 
+[.signed-section-signature]
 F+++.+++ Bacon.
+
+[.postscript]
+====
 
 To the constables of the Ward of West Wymor, and to either of them, to convey,
 and to your keeper of the common jail aforesaid,
 to receive and keep the said George Whitehead and Thomas Burr, according to this warrant.
 
-George Whitehead: Does the recorder own this to be a true copy, yes or no?
+====
 
-Recorder: I care not whether it be true or false;
+--
+
+[.discourse-part]
+_George Whitehead:_ Does the recorder own this to be a true copy, yes or no?
+
+[.discourse-part]
+_Recorder:_ I care not whether it be true or false;
 there is another court order against you.
 
-George Whitehead: Let this court order be considered first:
+[.discourse-part]
+_George Whitehead:_ Let this court order be considered first:
 do you own it to be a true copy, or no?
 We have it attested.
 
-Recorder: It may be it is, what then?
+[.discourse-part]
+_Recorder:_ It may be it is, what then?
 It may be true for aught I know, etc.
 +++[+++or to that effect.]
 
-George Whitehead: Then pray observe this court order, the tenor of it, what it contains.
+[.discourse-part]
+_George Whitehead:_ Then pray observe this court order, the tenor of it, what it contains.
 
-First: As to the cause of our commitment.
+[.numbered-group]
+====
 
-Secondly: That is, the premises which we are to answer to,
+[.numbered]
+_First:_ As to the cause of our commitment.
+
+[.numbered]
+_Secondly:_ That is, the premises which we are to answer to,
 and to be tried and delivered upon.
 
-Thirdly: And that according to law, or according to due course of law.
+[.numbered]
+_Thirdly:_ And that according to law, or according to due course of law.
+
+====
 
 First; Then, the charge concerns matter of fact, i. e. being at a meeting.
 And, Secondly; What such a meeting, or how qualified, i. e.,
@@ -769,37 +906,49 @@ These are the matters in charge against us,
 which the court ought to take judicial cognizance of; either to acquit us, if clear,
 or to condemn us, if guilty of any such meeting.
 
-Recorder: Read the other court order; you have a copy doubtless.
+[.discourse-part]
+_Recorder:_ Read the other court order; you have a copy doubtless.
 
-George Whitehead: We have a copy of the second warrant.
+[.discourse-part]
+_George Whitehead:_ We have a copy of the second warrant.
 But this is not to be evaded; this is the court order;
 this contains the cause of our commitment, and the charge that lies against us,
 which the court is bound only to take cognizance of;
 for we are thereby referred to the quarter sessions.
 
-Recorder: Read the second warrant, that contains the cause, namely,
+[.discourse-part]
+_Recorder:_ Read the second warrant, that contains the cause, namely,
 my tendering you the oath; by taking whereof you ought to show your allegiance,
 or obedience to the king.
 
-George Whitehead: Either the court order is a legal court order, or it is illegal;
+[.discourse-part]
+_George Whitehead:_ Either the court order is a legal court order, or it is illegal;
 if legal, then let us answer to the premises.
 If the oath be insisted upon, to evade the court order,
 that will bespeak either lack of other matter against us,
 or else that the court order or commitment is illegal.
 
-Recorder: Read the second warrant, etc.,
+[.discourse-part]
+_Recorder:_ Read the second warrant, etc.,
 
-George Whitehead: We have exceptions against the second warrant: If I read that,
+[.discourse-part]
+_George Whitehead:_ We have exceptions against the second warrant: If I read that,
 the exceptions ought also to be read.
 Shall I read them when I have read the warrant?
 
-Court: Well, you may read both.
+[.discourse-part]
+_Court:_ Well, you may read both.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 Now the court is engaged and concerned to make good the liberty granted me,
 to read our exceptions when the warrant is read.
 
+[.offset]
 The second warrant read, which follows.
+
+[.embedded-content-document.legal]
+--
 
 City and county of Norwich.--Whereas George Whitehead and Thomas Burr,
 were lately sent by my warrant unto the common jail for the city and county aforesaid,
@@ -820,30 +969,43 @@ until the next general quarter sessions of the peace,
 to be held for the city and county aforesaid; and hereof fail not.
 Given under my hand and seal, the 23rd day of March, A. D. 1679.
 
+[.signed-section-signature]
 F+++.+++ Bacon.
 
+[.signed-section-context-close]
 To the keeper of the common jail, for the city and county of Norwich.
 
-George Whitehead: I hope the recorder cannot deny the copy to be true.
+--
 
-Recorder: I will vindicate it by law in any court in England, +++[+++or to that effect.]
+[.discourse-part]
+_George Whitehead:_ I hope the recorder cannot deny the copy to be true.
 
-George Whitehead: Hear the exceptions against this second warrant:
+[.discourse-part]
+_Recorder:_ I will vindicate it by law in any court in England, +++[+++or to that effect.]
+
+[.discourse-part]
+_George Whitehead:_ Hear the exceptions against this second warrant:
 I will read them deliberately.
 If the court has anything to object against any particular,
 that may be read over again after the first reading.
 
-Court: Read them.
+[.discourse-part]
+_Court:_ Read them.
 Go on.
 
-First; The prisoners being committed till sessions,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ The prisoners being committed till sessions,
 there to answer to the premises contained in their court order:
 therefore the court ought to take judicial cognizance thereof, that is,
 of the charge contained in the said court order, for their trial and discharge thereupon,
 by due order of law, and not to permit the second warrant to be insisted upon,
 or the court order to be evaded.
 
-Secondly;
+[.numbered]
+_Secondly;_
 Because that after the command given to the keeper to keep them in the common jail,
 until the next general quarter sessions, the lawful conclusion is lacking, i.e.:
 +++[+++until they shall be delivered by due course of law,]
@@ -863,7 +1025,8 @@ so the conclusion must be according to law, i.e.: the prisoner safely to keep,
 until he be delivered by due order of law; and not until he that made it,
 shall give other order, or the like.
 
-The third exception is deduced by way of inference from the second.
+[.numbered]
+The _third_ exception is deduced by way of inference from the second.
 Therefore the justice had no legal power to give other order or warrant,
 which interposes between his commitment of the prisoners,
 and their deliverance by due course of law,
@@ -876,19 +1039,22 @@ and thereby referred to the quarter sessions, for their discharge thereupon,
 by due order of law.
 +++[+++Interruption on the reading the third exception in this objection]:
 
-Recorder: If a man owe twenty men money, the first that arrests him lays him into jail,
+[.discourse-part]
+_Recorder:_ If a man owe twenty men money, the first that arrests him lays him into jail,
 but the other may lay their actions upon him for all that:
 or if a man robs in several places, and is laid into jail for one robbery,
 and there comes a hue and cry after him for another,
 shall he go free of that because he is arrested already?
 
-George Whitehead: That is not our case; there is no parity between them:
+[.discourse-part]
+_George Whitehead:_ That is not our case; there is no parity between them:
 we were not committed to jail on any such account, as upon any action of debt or robbery.
 Nor were we chargeable with any new matter or crime when the second warrant was written,
 more than when our court order was written, and we first committed to prison.
 Pray let me read on; the matter is further cleared.
 
-Fourthly; The second warrant is contradictory to the first,
+[.numbered]
+_Fourthly;_ The second warrant is contradictory to the first,
 in that it admits of no bail nor mainprise for the prisoners,
 which the first admits of in these words, i.e.:
 Being required to find sureties for their respective
@@ -896,7 +1062,8 @@ appearances at the next general sessions.
 Whereas the prisoners were no more criminal when the second warrant was made,
 than when the first was made, being then in hold upon their commitment.
 
-Fifthly; The prisoners were not convented nor had in examination before the justice,
+[.numbered]
+_Fifthly;_ The prisoners were not convented nor had in examination before the justice,
 when the second warrant was made, to answer for themselves,
 as they ought judicially to have been, if he had any new matter unbailable against them,
 or any matter of such high and criminal nature when he made the second,
@@ -904,20 +1071,26 @@ which he had not when he made the first, as to render them incapable of bail.
 Therefore his second warrant is illegal and extrajudicial,
 and the court is not bound to take notice of it.
 
+[.offset]
 +++[+++After the fifth exception the recorder again interrupted]
 
-Recorder: While I have to do here, I will not allow myself to be thus reflected upon.
+[.discourse-part]
+_Recorder:_ While I have to do here, I will not allow myself to be thus reflected upon.
 It is a dishonour to the court.
 
-Court: How many more have you to read?
+[.discourse-part]
+_Court:_ How many more have you to read?
 
-George Whitehead: But a very few; I shall quickly have done.
+[.discourse-part]
+_George Whitehead:_ But a very few; I shall quickly have done.
 You may call for any of them to be read over again when I have done.
 
-Court: You may go on.
+[.discourse-part]
+_Court:_ You may go on.
 Go on.
 
-Sixthly;
+[.numbered]
+_Sixthly;_
 If it be objected that the prisoners refused to take
 and pronounce the oath of obedience to the king,
 being duly required by Justice Bacon, that is an apparent mistake.
@@ -928,7 +1101,8 @@ And therefore the second or collateral warrant, which is of another date,
 and no commitment, is grounded on a mistake in that point, and is an extrajudicial thing;
 and therefore not to be taken notice of, but rejected by the court, and held for none.
 
-Seventhly; Justice Bacon could not legally, nor duly,
+[.numbered]
+_Seventhly;_ Justice Bacon could not legally, nor duly,
 require the prisoners aforesaid to take the said oath,
 according to the tenor and plain express words of the statutes, provided in that case;
 they not being under those circumstances and causes, which the law provides and limits,
@@ -936,16 +1110,19 @@ as precedent to one justice`'s being authorized to require it.
 
 Upon the seventh exception, when read, the recorder alledged thus:
 
-Recorder: If I find you under any one of those circumstances or causes,
+[.discourse-part]
+_Recorder:_ If I find you under any one of those circumstances or causes,
 I might tender you it.
 
-Observation added,--First;
+[.numbered]
+Observation added,--__First;__
 But he did not assign or show any one circumstance that the prisoners
 were under to warrant him alone to tender of the oath.
 However, he hereby granted, that he had no power alone to require the said oath,
 without limitation of such precedent circumstances.
 
-Secondly; The circumstances and causes precedent, and prescribed by the statute are,
+[.numbered]
+_Secondly;_ The circumstances and causes precedent, and prescribed by the statute are,
 "`The persons standing indicted or convicted for not coming to church,
 or complained of by the minister, petty constable and church wardens, or any two of them,
 to any justice of peace near adjoining to the place,
@@ -956,7 +1133,8 @@ under which circumstances and capacity, neither the prisoners nor the justice st
 and therefore were not in statu quo,
 for the oath to be legally required of them by one justice.
 
-Eighthly; The oath of obedience could not be legally tendered on the 21st of March, 1679,
+[.numbered]
+_Eighthly;_ The oath of obedience could not be legally tendered on the 21st of March, 1679,
 being the Lord`'s day; because that no writ, process, warrant, order, judgment,
 or decree are to be served on that day, except in cases of treason, felony,
 or breach of the peace, which the case of the said oath is none of:
@@ -964,15 +1142,21 @@ it is a case of itself distinct.
 See the act for the better observation of the Lord`'s day, commonly called Sunday,
 Anno vicesimo nono Caroli secundi, 1677.
 
+====
+
+[.offset]
 +++[+++After the eighth exception being read.]
-Recorder: Now you have prepared a knife to cut your own throat withal by that exception;
+
+[.discourse-part]
+_Recorder:_ Now you have prepared a knife to cut your own throat withal by that exception;
 +++[+++in case of treason, felony, or breach of the peace]
 your meetings are against the peace, or to that effect.
 
 The recorder did not deny the tender of the oath to be a proceeding in law: no,
 we presume he could not deny it.
 
-George Whitehead: That our meetings are against the public peace,
+[.discourse-part]
+_George Whitehead:_ That our meetings are against the public peace,
 remains to be proved upon the premises of our court order +++[+++prevented and interrupted,
 when these words should have been added,
 being clearly intended for argument in relation to the exception.]
@@ -993,55 +1177,74 @@ That your meetings are against the public peace, was beside the point.
 His requiring the oath is neither the process nor the penalty of the law,
 for the breach of the public peace: they are distinct cases and processes.
 
-Recorder: Have you anything against the oath of allegiance?
+[.discourse-part]
+_Recorder:_ Have you anything against the oath of allegiance?
 Or do you except against anything contained in it.?
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 We have nothing to except against the declaration of allegiance contained in it,
 as to the substance thereof.
 
-Thomas Burr: We show our allegiance by our conduct, that is,
+[.discourse-part]
+_Thomas Burr:_ We show our allegiance by our conduct, that is,
 by our living peaceably under the king and government.
 
-Recorder: Do you scruple any word or thing contained in the oath?
+[.discourse-part]
+_Recorder:_ Do you scruple any word or thing contained in the oath?
 If you do, tell us what it is.
 
-George Whitehead: We both own and can sign the declaration of allegiance,
+[.discourse-part]
+_George Whitehead:_ We both own and can sign the declaration of allegiance,
 in opposition to the pope and popery:
 and to those seditious or treasonable practices and
 positions abjured and renounced by that oath.
 
-Recorder: Do you hold it unlawful to take an oath in any case?
+[.discourse-part]
+_Recorder:_ Do you hold it unlawful to take an oath in any case?
 
-George Whitehead: We are not committed to prison to answer questions at sessions;
+[.discourse-part]
+_George Whitehead:_ We are not committed to prison to answer questions at sessions;
 but to answer to the premises contained in our court order.
 
-Recorder: Do you not hold it lawful to tell a lie?
+[.discourse-part]
+_Recorder:_ Do you not hold it lawful to tell a lie?
 i+++.+++ e+++.+++, an officious lie, to prevent an imminent danger, or to that effect.
 
-George Whitehead, No, by no means; that is not a true Protestant principle,
+[.discourse-part]
+_George Whitehead:_ No, by no means; that is not a true Protestant principle,
 to tell or maintain an officious lie, so called.
 
-Recorder: Will you take the oath?
+[.discourse-part]
+_Recorder:_ Will you take the oath?
 If you will, hold up your hand as a testimony that you do take the oath, or swear,
 that shall serve.
 
-George Whitehead: We have a protestation or declaration against the pope and popery,
+[.discourse-part]
+_George Whitehead:_ We have a protestation or declaration against the pope and popery,
 which was delivered to the committee of Parliament,
 and thereby judged sufficient to distinguish us from popish recusants:
 we crave leave of the court to read it.
 
-Recorder: What difference is there between a protestation and an oath?
+[.discourse-part]
+_Recorder:_ What difference is there between a protestation and an oath?
 
-George Whitehead: It may be a protestation or testimony against popery, yet not an oath.
+[.discourse-part]
+_George Whitehead:_ It may be a protestation or testimony against popery, yet not an oath.
 I pray you, let us read our protestation,
 that we may not lie under suspicion without cause.
 
-Court: You may.
+[.discourse-part]
+_Court:_ You may.
 Read it.
 
+[.offset]
 The protestation read in court, which follows:
 
+[.embedded-content-document]
+--
+
+[.letter-heading]
 A Protestation or Declaration, to distinguish Protestant dissenters from Popish recusants.
 
 I +++________+++, do in the presence of Almighty God, solemnly profess,
@@ -1068,13 +1271,19 @@ as becomes a good Christian and Protestant to do.
 And all this I do acknowledge, intend, declare and subscribe,
 without any equivocation or mental reservation; according to the true plainness,
 simplicity, and usual significations of the words.
+
+[.signed-section-signature]
 --Witness my hand.
 
-George Whitehead: This was accepted by a great committee,
+--
+
+[.discourse-part]
+_George Whitehead:_ This was accepted by a great committee,
 and entered in the journal of Parliament,
 in order to distinguish us from popish recusants, etc.
 
-Recorder: We have not a law to accept it.
+[.discourse-part]
+_Recorder:_ We have not a law to accept it.
 It is not enacted or made a law.
 We must proceed according to law.
 You seem to declare for the true Protestant religion,
@@ -1083,7 +1292,8 @@ footnote:[This renders protestancy but in a narrow compass,
 as if all dissenters were no Protestants.]
 I am not in that point satisfied with your declaration, +++[+++or to that effect].
 
-George Whitehead: We have no mental reservation in the case:
+[.discourse-part]
+_George Whitehead:_ We have no mental reservation in the case:
 we are willing and ready to sign this declaration
 +++[+++Interrupted when about adding these words:]
 The true Protestant religion is wholly opposite to popery;
@@ -1097,12 +1307,15 @@ and more clear of popery than others.
 Is there any evidence against us to prove the premises contained in our court order?
 Where are our accusers?
 
-Recorder: The premises; what are they?
+[.discourse-part]
+_Recorder:_ The premises; what are they?
 
-George Whitehead: The being at an unlawful assembly, in disturbance of the public peace,
+[.discourse-part]
+_George Whitehead:_ The being at an unlawful assembly, in disturbance of the public peace,
 as is pretended against us; let us be tried, and either condemned or acquitted hereupon.
 
-Recorder: I was more favourable to you than you deserved;
+[.discourse-part]
+_Recorder:_ I was more favourable to you than you deserved;
 for I could have drawn an indictment against you at common law,
 and brought you to a trial upon it: which being found against you, I must have fined you.
 We who are in commission for the peace, are lex loquens,
@@ -1111,40 +1324,49 @@ We are not to make laws, but to interpret the law.
 We are to punish or amerce offenders,
 secundum qualitatem et secundum quantitatem delicti, etc.
 
-George Whitehead: We are not at present about to justify ourselves, as to matter of fact.
+[.discourse-part]
+_George Whitehead:_ We are not at present about to justify ourselves, as to matter of fact.
 We are willing to hear evidence of what any can prove against us,
 in relation to our assemblies.
 Let us have due process.
 
-Recorder: If the court will agree to it, we will adjourn:
+[.discourse-part]
+_Recorder:_ If the court will agree to it, we will adjourn:
 and I will provide an indictment, and give order that the witnesses shall be here,
 and will give it to the grand inquest; and if they find it against you,
 you shall be fined forty pounds, and imprisonment till paid.
 
-Prisoner: It seems the witnesses are yet to procure.
+[.discourse-part]
+_Prisoner:_ It seems the witnesses are yet to procure.
 Is there any here that can give evidence against our meeting, of the breach of the peace, etc.
 
-Recorder: That is a lie.
+[.discourse-part]
+_Recorder:_ That is a lie.
 I did not say I would procure witnesses: that is scandalous.
 
-Thomas Burr: We desire that no advantage may be taken against us for a word.
+[.discourse-part]
+_Thomas Burr:_ We desire that no advantage may be taken against us for a word.
 You ought not to take advantage.
 
-George Whitehead: I intended no offence in the word procure;
+[.discourse-part]
+_George Whitehead:_ I intended no offence in the word procure;
 I intended it not in the worst sense, i. e., as by way of subornation;
 for I intended no other than according to the recorder`'s own words,
 that witnesses should be here, or the like, which doubtless many present heard.
 
-Prisoner: Well, we refused not to be tried upon the charge in our court order,
+[.discourse-part]
+_Prisoner:_ Well, we refused not to be tried upon the charge in our court order,
 touching our meeting, etc.
 
-Recorder: You shall have the oath put to you.
+[.discourse-part]
+_Recorder:_ You shall have the oath put to you.
 And I will tell you what danger you incur:
 if you refuse to take it you are to be put out of the king`'s protection,
 your lands and estates forfeit to the king,
 and your bodies imprisoned during the king`'s pleasure.
 
-George Whitehead: We understand what a premunire means,
+[.discourse-part]
+_George Whitehead:_ We understand what a premunire means,
 according to the statute of premunire,
 made in the sixteenth year of king Richard the second;
 though there is no equity that should be brought upon us while we practice our allegiance.
@@ -1161,10 +1383,12 @@ etc., only for lack of swearing?
 How can that be either secundum qualitatem, or secundum quantitatem delicti,
 as it is supposed.
 
-Recorder: You talk of conscience.
+[.discourse-part]
+_Recorder:_ You talk of conscience.
 Friend, friend, let me ask you one question: pray what is conscience?
 
-George Whitehead: It is that knowledge that God has placed in man;
+[.discourse-part]
+_George Whitehead:_ It is that knowledge that God has placed in man;
 it is a knowing together between God and our own souls,
 by virtue of the law of God in man, whereby he knows what is good, and what is evil:
 and whereby he is taught to embrace the good and shun the evil.
@@ -1172,65 +1396,83 @@ It is called the law of truth, the law of equity, the law of reason, etc.
 Against which law, says the law book, Doctor and Student,
 no law or custom ought to be brought, but it is void.
 
-Recorder: Although I asked you a question, I did not bid you preach upon it.
+[.discourse-part]
+_Recorder:_ Although I asked you a question, I did not bid you preach upon it.
 But conscience may be seared; as when men will not be reclaimed,
 but have their own wills, be they never so contrary.
 
-George Whitehead: It is true; some men become hardened and seared through sinning,
+[.discourse-part]
+_George Whitehead:_ It is true; some men become hardened and seared through sinning,
 and for lack of being exercised by that law of God in them:
 yet there is a universal law of truth in mankind, whereby even the wicked,
 and those of seared and hardened consciences,
 shall finally be convicted and awakened in torment.
 
-Recorder: You must have the oath put to you:
+[.discourse-part]
+_Recorder:_ You must have the oath put to you:
 the court must tender you the oath of allegiance; will you take it?
 
-George Whitehead: We lie under a charge in our court order:
+[.discourse-part]
+_George Whitehead:_ We lie under a charge in our court order:
 let us be discharged of that first.
 That contains the premises which we are to answer to.
 Let us not be hood-winked.
 Are we discharged of the two warrants that are against us, yes or no?
 The rest of the court ought to know, that one thing may not confound another.
 
-Recorder: You talk law as you talk gospel; here you talk a little,
+[.discourse-part]
+_Recorder:_ You talk law as you talk gospel; here you talk a little,
 and there you talk a little: it is pity you have the benefit of the law:
 you put yourselves from the protection of the law.
 
-George Whitehead: The recorder is a party against us: he is our accuser,
+[.discourse-part]
+_George Whitehead:_ The recorder is a party against us: he is our accuser,
 prosecutor and judge.
 He inveighs against us.
 He is determined against us: he has told his resolution aforehand.
 
-One Justice: You offer contempt against the king, in what you say against his minister:
+[.discourse-part]
+_One Justice:_ You offer contempt against the king, in what you say against his minister:
 the recorder is his minister, +++[+++or to the same effect].
 
-George Whitehead: No such matter:
+[.discourse-part]
+_George Whitehead:_ No such matter:
 I only oppose an undue and irregular procedure--which is not the king`'s will.
 
-Recorder: Your words tend to stir up the people here to sedition.
+[.discourse-part]
+_Recorder:_ Your words tend to stir up the people here to sedition.
 
-George Whitehead: We have no such design: we only plead our own rights as Englishmen:
+[.discourse-part]
+_George Whitehead:_ We have no such design: we only plead our own rights as Englishmen:
 the losers must have leave to speak: our liberties and estates,
 and families are concerned our wives and families suffer by our restraint.
 
-Recorder: Clerk, tender him the oath: offer him the book.
+[.discourse-part]
+_Recorder:_ Clerk, tender him the oath: offer him the book.
 
-Clerk reads: I George Whitehead, do truly and sincerely acknowledge, profess, testify,
+[.discourse-part]
+_Clerk reads:_ I George Whitehead, do truly and sincerely acknowledge, profess, testify,
 and declare in my conscience, etc.
 
-George Whitehead: Forbear: we have matter of plea which ought to be heard first.
+[.discourse-part]
+_George Whitehead:_ Forbear: we have matter of plea which ought to be heard first.
 
+[.offset]
 +++[+++Here a great noise was made by some present.]
 
-Crier: O yes: silence in the court.
+[.discourse-part]
+_Crier:_ O yes: silence in the court.
 
-George Whitehead: We beg of the court that we may not be thus run upon,
+[.discourse-part]
+_George Whitehead:_ We beg of the court that we may not be thus run upon,
 but duly heard upon the process we suffer under.
 
-Recorder: Will you take the oath: answer,
+[.discourse-part]
+_Recorder:_ Will you take the oath: answer,
 and then you shall know the pleasure of the court.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 We ought to be at some certainty whether we are discharged
 of the premises laid against us in the two warrants.
 The recorder was even now for indicting us at common law:
@@ -1243,65 +1485,81 @@ to evade the premises which we were to answer.
 Are we discharged of the two warrants, yes or no?
 Let us have the plain advice or sense of the court.
 
-Recorder: It may be you may suppose you are discharged:
+[.discourse-part]
+_Recorder:_ It may be you may suppose you are discharged:
 what is the consequence you will infer from there.
 
-George Whitehead: We desire a plain answer: we are not to be answered by supposition,
+[.discourse-part]
+_George Whitehead:_ We desire a plain answer: we are not to be answered by supposition,
 nor from there to draw consequences now.
 We are not called here to dispute upon a hypothetical argument.
 We expect a positive, plain answer,
 and the sense of the court concerning our court order and warrant.
 Are we discharged of them, or not?
 
-Some of the court to the recorder: Let them be discharged of them.
+[.discourse-part]
+_Some of the court to the recorder:_ Let them be discharged of them.
 
-Some of the court: You are discharged of them.
+[.discourse-part]
+_Some of the court:_ You are discharged of them.
 
-George Whitehead: Does the recorder say so?
+[.discourse-part]
+_George Whitehead:_ Does the recorder say so?
 Does he assent to it?
 Let proclamation be made of it then, that we may be set at liberty,
 in the same capacity we were in before we were first arrested.
 
-Recorder: No, no; seeing you will take your way, I will take my way:
+[.discourse-part]
+_Recorder:_ No, no; seeing you will take your way, I will take my way:
 you shall have the oath first, and then your discharge.
 Will you take the oath, and then you shall be discharged.
 What say you to it?
 Read the oath.
 
-Thomas Burr: It is a force put upon us; it is very hard dealing we may not be duly heard.
+[.discourse-part]
+_Thomas Burr:_ It is a force put upon us; it is very hard dealing we may not be duly heard.
 
-George Whitehead: Are the rest of the justices of the same mind,
+[.discourse-part]
+_George Whitehead:_ Are the rest of the justices of the same mind,
 that we should be thus run upon?
 We hope you are not all of the same mind with the recorder in this proceeding.
 He is engaged against us: he is resolved to make something of it,
 and to make us exemplary in suffering.
 
-Recorder: Stop his mouth; take him away.
+[.discourse-part]
+_Recorder:_ Stop his mouth; take him away.
 They had not only need to have their hats pulled off, but their mouths stopped also.^
 footnote:[This the prisoner did not fully hear, others affirm they heard it.]
 
-George Whitehead: Pray hear us; we have more to offer, as about this tender of the oath,
+[.discourse-part]
+_George Whitehead:_ Pray hear us; we have more to offer, as about this tender of the oath,
 to show how undue it is, if you will but permit the law to be read, which we desire.
 +++[+++But we ought first to have had proclamation made for our discharge from the two warrants.]
 
-Recorder: If we should made proclamation, and let you go, we should be laughed at.
+[.discourse-part]
+_Recorder:_ If we should made proclamation, and let you go, we should be laughed at.
 No, no: I see you lay upon the catch; we will not discharge you.
 Now we have you here, we shall not let you go, to send a warrant after you,
 to fetch you again.
 Will you take the oath or not?
 
-George Whitehead: Is this intended for a first tender, or a second?
+[.discourse-part]
+_George Whitehead:_ Is this intended for a first tender, or a second?
 We desire an answer.
 
-Recorder: We will tender it you de novo: it shall be for a first tender;
+[.discourse-part]
+_Recorder:_ We will tender it you de novo: it shall be for a first tender;
 and if you will not take it, you shall be committed till next sessions, etc.
 
+[.offset]
 Clerk reads the oath.
 
-Clerk: I Thomas Burr, do truly and sincerely acknowledge, profess, testify,
+[.discourse-part]
+_Clerk:_ I Thomas Burr, do truly and sincerely acknowledge, profess, testify,
 and declare in my conscience, etc.
 
-George Whitehead: We appeal to the mayor, and the rest of the justices.
+[.discourse-part]
+_George Whitehead:_ We appeal to the mayor, and the rest of the justices.
 The recorder is a party against us; he has determined against us beforehand:
 I will prove that he is no competent judge in our case, if I may be heard.
 +++[+++--Interruption]
@@ -1311,12 +1569,14 @@ Do not thus force upon us; it is unfair and undue proceeding.
 Let us be discharged of the two warrants first, before we be put upon an answer.
 We ought not to be put to our answer, but upon due process.
 
-Some of the court: You are discharged from those two court orders.
+[.discourse-part]
+_Some of the court:_ You are discharged from those two court orders.
 Clerk, read their discharge.
 +++[+++The clerk reads what the recorder had caused him to enter into the book,
 to this purpose.]
 
-Clerk:
+[.discourse-part]
+_Clerk:_
 George Whitehead and Thomas Burr are discharged of
 the matter contained in their two court orders.
 And the oath of allegiance, and the testament, to swear in open court,
@@ -1327,7 +1587,8 @@ that the said George Whitehead and Thomas Burr,
 be committed to the common jail of the said city,
 there to remain without bail or mainprise, until the next quarter sessions, etc.
 
-George Whitehead: The latter part is not true; we have not yet refused the oath;
+[.discourse-part]
+_George Whitehead:_ The latter part is not true; we have not yet refused the oath;
 we were not duly or regularly brought upon that point, so as to give a positive answer,
 because of the other precedent charges, which we were to answer to.
 We have yet matter of plea about the tender of the oath, de novo, in court.
@@ -1336,10 +1597,12 @@ before we give our positive answer.
 We desire to know upon what law or statute it is tendered.
 +++[+++No answer was given to this question.]
 
-Recorder: You have stronger lungs than I: I understand you had a feast last night.
+[.discourse-part]
+_Recorder:_ You have stronger lungs than I: I understand you had a feast last night.
 Adjourn the court: take them away jailer.
 
-George Whitehead, prisoner:
+[.discourse-part]
+_George Whitehead, prisoner:_
 Pray let us have more time to consider and speak to this point.
 I entreat that I may have leave to read the clause in the statute,
 that concerns the tender of the oath.
@@ -1352,15 +1615,18 @@ and that he carried things on too much over their heads,
 and all to run down and ensnare the prisoners, to oppress them,
 and continue them under suffering.
 
-Officers: The court adjourned.
+[.discourse-part]
+_Officers:_ The court adjourned.
 
+[.offset]
 Prisoner, George Whitehead held by the bar, pressing to be further heard,
 after the adjournment, when the court met again,
 and for the statute to be read about the oath;
 neither whereof would be granted the prisoners,
 but two of the keepers pulled the prisoner away.
 
-Prisoner: Take notice, that we have not yet refused the oath,
+[.discourse-part]
+_Prisoner:_ Take notice, that we have not yet refused the oath,
 being not duly nor regularly brought upon that point;
 but we have owned the declaration of allegiance, contained in it;^
 footnote:[These last words are since added,
@@ -1383,6 +1649,9 @@ therefore we have in some particulars been more sparing than we might have been.
 A copy of the prisoners`' certificates, which the recorder, Francis Bacon,
 would not permit to he read in court.
 
+[.embedded-content-document]
+--
+
 These are to certify all whom it may concern, that George Whitehead,
 of the parish of St. Buttolph Bishopsgate, London,
 has lived in the same parish for about ten years last past, in good repute,
@@ -1392,11 +1661,18 @@ and he has never been accounted or reputed to be a Jesuit or Papist,
 or any way popishly affected.
 All which we certify under our hands.
 
+[.signed-section-signature]
 John Freeman, Thomas Fyge, Common Councilmen; John Russen, Deputy; Gilbert East,
 John Osburn, Church Wardens; John Sumner, Constable; Charles Bathurst, Thomas Dawson,
 Nicholas Harding.
 
+[.signed-section-context-close]
 London, April 22nd, 1680.
+
+--
+
+[.embedded-content-document]
+--
 
 These are to certify any person or persons whom it may concern, that Thomas Burr of Ware,
 in the county of Hartford, maltster, has lived,
@@ -1406,15 +1682,23 @@ and of good credit and reputation among his neighbours in this place,
 and has never been accounted a Jesuit or Papist.
 All which we certify under our hands.
 
+[.signed-section-signature]
 Giles Roe, Henry Hart, Church Wardens; John Lark, William Moakes, Constables;
 John Perrot, Henry Peach, Thomas Johnson, Richard Dickinson, Rivers Dickinson,
 Edmund Pease, Isaac Hadsley.
 
+[.signed-section-context-close]
 Ware, in Hartfordshire, this 14th day of April, 1680.
+
+--
 
 A copy of the next letter, after the foregoing proceedings in court,
 delivered to the mayor, etc.
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 Friends,--the Mayor, Justices, and Aldermen of this city, Norwich.
 
 We do acknowledge, and kindly resent, that indifferency and moderation towards us,
@@ -1468,15 +1752,24 @@ if they shall not arm themselves with the fear of God, the love of truth and jus
 and with the authority and knowledge of the laws of this realm, etc.
 Among which causes of perversion, he mentions these:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Fear, When fearing the power or countenance of another, they do not do justice.
 
+[.numbered]
 2+++.+++ Perturbation of mind, as anger, or such like passion.
 
+[.numbered]
 3+++.+++ Ignorance, or lack of true understanding what is to be done.
 
+[.numbered]
 4+++.+++ Precipitation, or too much rashness, as when they proceed hastily,
 without due examination and consideration of the fact, and all material circumstances, etc.
 (Thus far M. D.)
+
+====
 
 We design no personal reflection,
 but only tender information and caution in these passages.
@@ -1486,9 +1779,14 @@ as not being proper or seasonable for us so to do at present,
 considering the circumstances which we are under.
 We are your real friends and well wishers,
 
+[.signed-section-signature]
 George Whitehead, Thomas Burr.
 
+[.signed-section-context-close]
 Norwich prison, the 8th of the third month, called May, 1680.
+
+[.postscript]
+====
 
 P+++.+++ S. This provision we would further add,
 that if so be our proposal of coming before you, in your council chamber,
@@ -1501,6 +1799,10 @@ to your serious and more deliberate considerations, about the late tender of the
 de novo, according as we desired further time for the same purpose,
 when last in sessions.
 
+====
+
+--
+
 The substance of a further application made by the prisoners to the mayor, recorder,
 justices, and aldermen of the city of Norwich,
 delivered to them the 17th day of the third month, 1680,
@@ -1510,6 +1812,9 @@ The first part relates to the mediation of certain persons of note and eminency,
 on the prisoners`' behalf, and particularly by a letter from London,
 from a person of quality, on application made by some of their friends there,
 unto which the prisoners referred the magistrates in these words:
+
+[.embedded-content-document.letter]
+--
 
 We therefore request, that you would please to call for the said letter,
 and know the contents thereof, that if such mediation may take effect with you,
@@ -1536,9 +1841,13 @@ in order to afford us so much relief and right, as may either by apparent law, e
 or good conscience, be allowed us.
 Your friends and prisoners,
 
+[.signed-section-signature]
 George Whitehead, Thomas Burr.
 
+[.signed-section-context-close]
 Norwich jail, the 12th day of the third month, 1680.
+
+--
 
 Our friends Mary Duncon and Mary de France of Norwich,
 attended the court of mayor and justices in their council chamber,
@@ -1579,9 +1888,13 @@ However,
 the prisoners kindly acknowledged their civility
 in giving them that opportunity of discourse.
 
-A few lines to the mayor, court of aldermen, and justices,
-on some other considerations more particular.
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== A few lines to the mayor, court of aldermen, and justices, on some other considerations more particular.
+
+[.salutation]
 Friends,
 
 We being injured and hurt in several respects by our confinement,
@@ -1614,14 +1927,24 @@ according to the statute made in the fourth year of king Henry the seventh,
 which is worth your while to read over,
 and seriously to consider the tenor and purport thereof.
 
+[.signed-section-closing]
 Your friends and prisoners,
 
+[.signed-section-signature]
 George Whitehead, Thomas Burr.
 
+[.signed-section-context-close]
 From your city jail, the 19th of the fourth month, 1680.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 For the Mayor and Justices of the city of Norwich.
 
+[.offset]
 Friends, you are entreated to peruse the following narration.
 
 The great pretence for our strict detention in your jail,
@@ -1860,10 +2183,18 @@ That he may direct you in righteousness, and bless and preserve you and yours,
 is our prayer also.
 Your friends and prisoners, for conscience sake towards our Lord Jesus Christ;
 
+[.signed-section-signature]
 George Whitehead, Thomas Burr.
 
+[.signed-section-context-close]
 Norwich jail, the 21st of the fourth month, 1680.
 
+--
+
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 To the Recorder and Steward of Norwich.
 
 The most that can be charged against us, as to matter of fact,
@@ -1942,15 +2273,22 @@ as neither to expose us to the severity of the law,
 for our conscientiously fearing to swear,
 nor yet to prolong us under restraint upon any such infamous, or causeless suspicion.
 
+[.signed-section-context-close]
 Norwich jail, the third of the fifth month, 1680.
 
 This account is given you in real love and good will,
 which we can assure you we bear towards you, as we are your friends,
 who truly wish you well.
 
+[.signed-section-signature]
 George Whitehead, Thomas Burr.
 
+--
+
 A copy of the discharge of the aforesaid prisoners.
+
+[.embedded-content-document.legal]
+--
 
 Norwich,--At the general sessions of the peace, held for the city of Norwich,
 and county of the same, before Robert Freeman, esquire, mayor of the city of Norwich;
@@ -1972,9 +2310,13 @@ being committed by order of the last sessions, to remain in prison until this se
 
 Per Curiam
 
+[.signed-section-signature]
 Corie.
 
-Observe.
+--
+
+[.discourse-part]
+_Observe._
 That although we must needs grant,
 that after the sense of the prisoners`' case and
 suffering had made impression upon the mayor^
