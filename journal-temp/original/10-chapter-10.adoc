@@ -1,11 +1,8 @@
 == Chapter X
 
-[.section-summary-preface]
+[.chapter-subtitle--blurb]
 The following account of the imprisonment of George Whitehead and Thomas Burr,
 was printed for circulation.
-
-[.embedded-content-document]
---
 
 Although the publication of this noted case,
 of our friends George Whitehead and Thomas Burr, has been for some time delayed,
@@ -36,8 +33,6 @@ serious and impartial perusal and consideration of the reader.
 
 [.signed-section-signature]
 E+++.+++ Hookes.
-
---
 
 George Whitehead and Thomas Burr, providentially and unexpectedly meeting together,
 about ten or twelve miles from the city of Norwich, the 19th day of the first month,
