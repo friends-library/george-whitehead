@@ -386,6 +386,9 @@ The apostle Paul exhorts to follow the vocation whereunto you are called.
 The Scripture says,
 "`God added to the church such as should be saved:`" but you draw from the church.
 
+[.small-break]
+'''
+
 The prisoner heard not these words, but some others affirmed they did.
 However, had the prisoner heard this reflection before,
 upon a fair debate upon the point, he might have answered the recorder,
@@ -633,7 +636,7 @@ _Recorder:_ Tender them the oath: put the oath to them: if you will take it,
 that shall serve; if not you incur a premunire.
 
 [.offset]
-A hideous noise in the court, among some under clerks and officers, about the oath:
++++[+++A hideous noise in the court, among some under clerks and officers, about the oath:]
 
 [.discourse-part]
 _Some under-clerks:_ What say you?
@@ -727,6 +730,9 @@ or no.
 Let us have our court order read, we expect it;
 it is granted and promised us by the mayor, and others indifferent.
 
+[.small-break]
+'''
+
 +++[+++A little respite, in expectation of the court order.
 But the recorder seemed greatly offended at the prisoners urging this,
 and at the mayor and justices assenting to it.]
@@ -803,6 +809,9 @@ _Justice Briggs:_ Pray speak to Mr, Mayor; +++[+++which was done.]
 [.discourse-part]
 _Mayor to the Recorder:_ Sir, the justices are agreed it should be read.
 
+[.small-break]
+'''
+
 +++[+++Recorder turning himself toward them, as one greatly offended,
 that the court order should be read.]
 
@@ -822,6 +831,8 @@ _Court:_ You may read it.
 [.discourse-part]
 _George Whitehead:_ Now we have the leave of the court, I hope you will keep to it:
 observe it, it is a true copy.
+
+[.offset]
 The court order read, which follows:
 
 [.embedded-content-document.legal]
@@ -830,7 +841,10 @@ The court order read, which follows:
 [.letter-heading]
 The Court Order
 
-City and county of Norwich.--Whereas George Whitehead
+[.signed-section-context-open]
+City and county of Norwich.
+
+Whereas George Whitehead
 of the parish of St. Buttoiph in London,
 grocer, and Thomas Burr of Ware, in the county of Hartford, maltster,
 have this day assembled together, with several other persons,
@@ -1103,6 +1117,7 @@ according to the tenor and plain express words of the statutes, provided in that
 they not being under those circumstances and causes, which the law provides and limits,
 as precedent to one justice`'s being authorized to require it.
 
+[.offset]
 Upon the seventh exception, when read, the recorder alledged thus:
 
 [.discourse-part]
@@ -1110,7 +1125,7 @@ _Recorder:_ If I find you under any one of those circumstances or causes,
 I might tender you it.
 
 [.numbered]
-Observation added,--__First;__
++++[+++Observation added,--__First;__
 But he did not assign or show any one circumstance that the prisoners
 were under to warrant him alone to tender of the oath.
 However, he hereby granted, that he had no power alone to require the said oath,
@@ -1126,7 +1141,7 @@ It is only in such case that one justice has power to require the said oath.
 His power is apparently limited by the law to certain precedent circumstances,
 under which circumstances and capacity, neither the prisoners nor the justice stood;
 and therefore were not in statu quo,
-for the oath to be legally required of them by one justice.
+for the oath to be legally required of them by one justice.]
 
 [.numbered]
 _Eighthly;_ The oath of obedience could not be legally tendered on the 21st of March, 1679,
@@ -1147,8 +1162,9 @@ _Recorder:_ Now you have prepared a knife to cut your own throat withal by that 
 +++[+++in case of treason, felony, or breach of the peace]
 your meetings are against the peace, or to that effect.
 
-The recorder did not deny the tender of the oath to be a proceeding in law: no,
-we presume he could not deny it.
+[.offset]
++++[+++The recorder did not deny the tender of the oath to be a proceeding in law: no,
+we presume he could not deny it.]
 
 [.discourse-part]
 _George Whitehead:_ That our meetings are against the public peace,
@@ -1456,7 +1472,7 @@ _George Whitehead:_ Forbear: we have matter of plea which ought to be heard firs
 +++[+++Here a great noise was made by some present.]
 
 [.discourse-part]
-_Crier:_ O yes: silence in the court.
+_Crier:_ O yea: silence in the court.
 
 [.discourse-part]
 _George Whitehead:_ We beg of the court that we may not be thus run upon,
@@ -1602,6 +1618,9 @@ Pray let us have more time to consider and speak to this point.
 I entreat that I may have leave to read the clause in the statute,
 that concerns the tender of the oath.
 
+[.small-break]
+'''
+
 These endeavours of the prisoners to be heard, after the pretended order was entered,
 were because the prisoners did not believe that the justices, or greater number of them,
 did concur with the recorder`'s proceeding against them; but that they had more,
@@ -1630,6 +1649,9 @@ and do still freely assent to it, in opposition to,
 and abhorrence of all those treasonable practices, positions and principles,
 abjured and renounced by that oath; though we are conscientiously afraid to swear it,
 only with respect to Christ`'s prohibition, in the case of swearing.
+
+[.small-break]
+'''
 
 On the 3rd day of the month called May, 1680,
 being about five days after the prisoners were thus proceeded against in court,
@@ -2303,6 +2325,7 @@ or to give in any information against them,
 the said George Whitehead and Thomas Burr are ordered to be discharged,
 being committed by order of the last sessions, to remain in prison until this sessions.
 
+[.signed-section-closing]
 Per Curiam
 
 [.signed-section-signature]
