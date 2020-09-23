@@ -938,7 +938,7 @@ because the officers take their part, and animate them;
 and the rioters and abusive persons can readily escape in the crowd,
 there being no better notice taken of them by those whose place it is.
 
-The third reason.
+The third reason...
 
 [.discourse-part]
 _King:_ And thirdly: let us hear the third reason.
@@ -1168,6 +1168,9 @@ as to time; but if the course of the sun be thought a meet instance, or comparis
 in this case, then had you all need to have a care of striving against them;
 for it is in vain to endeavour to stop the sun in its course.
 
+[.small-break]
+'''
+
 The mayor called two persons, who apprehended George Whitehead,
 to give evidence upon oath.
 
@@ -1215,7 +1218,10 @@ without being thus fined, and our goods seized and taken away.
 [.letter-heading]
 A Copy of the Warrant for Distress.
 
-London, ss.--Whereas George Whitehead, of Hounsditch, in the parish of St. Buttolph,
+[.signed-section-context-open]
+London, ss.
+
+Whereas George Whitehead, of Hounsditch, in the parish of St. Buttolph,
 within +++[+++for without]
 Bishopsgate, London, was upon the 13th day of August, last past,
 in the thirty-fourth year of his majesty`'s reign, legally convicted before me.
