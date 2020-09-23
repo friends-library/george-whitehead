@@ -734,6 +734,7 @@ and others indifferent.
 [.small-break]
 '''
 
+[.offset]
 +++[+++A little respite, in expectation of the mittimus.
 But the recorder seemed greatly offended at the prisoners urging this,
 and at the mayor and justices assenting to it.]
@@ -813,6 +814,7 @@ _Mayor to the Recorder:_ Sir, the justices are agreed it should be read.
 [.small-break]
 '''
 
+[.offset]
 +++[+++Recorder turning himself toward them, as one greatly offended,
 that the mittimus should be read.]
 
