@@ -1,5 +1,6 @@
 == Chapter XI
 
+[.section-summary-preface]
 The religious assemblies of the people called Quakers, vindicated; first,
 from the charge of their being in disturbance of the public peace.
 Secondly, from the charge of being seditious conventicles, mentioned in the act of 22 Car.
@@ -153,8 +154,10 @@ Such both pray with the spirit, and sing with the spirit, and with understanding
 according to the ancient apostolical testimony and
 practice of the primitive spiritual Christians.
 
-* * *
+[.asterism]
+'''
 
+[.section-summary-preface]
 An account of the people called Quakers, sent to prison by Francis Bacon,
 when he was steward, and also since he was recorder;
 and those mayors of the city of Norwich,
@@ -218,11 +221,14 @@ How can such severities consist either with Christianity or humanity?
 Let the principle of justice in all consciences judge:
 and may those guilty of such oppressions, repent before they die.
 
-* * *
+[.asterism]
+'''
 
-A copy of an Address from our suffering friends in Norwich, in the year 1679,
-directed to the knights and burgesses for the county of Norfolk, and city of Norwich.
-The suffering case of some of the people called Quakers, in the said city.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== A copy of an Address from our suffering friends in Norwich, in the year 1679, directed to the knights and burgesses for the county of Norfolk, and city of Norwich. The suffering case of some of the people called Quakers, in the said city.
 
 The goods of several have been taken away, without their being tried by their equals,
 only by witnesses in their absence, which was given against them by such as were parties.
@@ -287,9 +293,13 @@ and what is charged upon the prosecutors aforesaid, can be proved if required.
 Wherefore we entreat your tender consideration of this our suffering condition,
 and endeavour for our relief.
 
+[.signed-section-signature]
 Signed by Samuel Duncon, and fifteen more of the citizens and inhabitants of Norwich.
 
+[.signed-section-context-close]
 Norwich, the 23rd of Third month, 1679.
+
+--
 
 It was very observable that before the dissolution of that long parliament,
 in King Charles the second`'s reign,
@@ -324,9 +334,16 @@ Several of us appeared before that committee, among whom were William Mead, Will
 myself, with some others, and two things were inquired of us,
 of which we were to inform the said committee.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ If we owned ourselves to be Protestant dissenters?
 
+[.numbered]
 2+++.+++ How we suffered by laws made against Popish recusants?
+
+====
 
 In both which we fully satisfied the committee, and our case was generally resented,
 as an unjust, as well as illegal prosecution and suffering imposed upon us;
@@ -688,6 +705,10 @@ they generally sought more after our estates than the confinement of our persons
 because imprisonment would not be for their gain,
 although many of our friends remained in prisons, according to the following petition.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To The King.
 
 The humble petition of above a thousand prisoners, commonly called Quakers; Shows,
@@ -739,6 +760,8 @@ and be capable to render to Caesar those things that are Caesar`'s;
 and to God the things that are God`'s;
 according to our Christian principle and persuasion.
 
+--
+
 We did not only in this manner,
 labour to influence the king with a sense of the general case of our`' friends`' sufferings,
 but also gave him instances thereof, in several notorious and crying cases,
@@ -779,7 +802,8 @@ George Whitehead then went nearer the king.
 Meeting with this slight reflection; "`You pretend conscience:
 it seems your conscience is in your hats.`"
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 We request that our complaint and suffering case may be heard and considered
 abstractly from those religious circumstances we are under,
 which may seem disgustful to you, that we may have justice done us.
@@ -790,48 +814,62 @@ They are able to speak to matters of fact, from their own knowledge,
 how our friends are used in that city; we entreat the king that they may be heard;
 and for matter of law, we shall leave that for you to judge of.
 
-One in council: What reason have we to believe their words, against other men`'s oaths,
+[.discourse-part]
+_One in council:_ What reason have we to believe their words, against other men`'s oaths,
 who are sworn for the king?
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 We entreat that they may be heard to give their accounts
 on those particulars complained of in our petition,
 which is delivered in before you, and I suppose read;
 and then we shall refer the credit of the matters complained of to your consciences,
 that accordingly we may have justice done us.
 
-King: Your petition is not now read: would you have it read?
+[.discourse-part]
+_King:_ Your petition is not now read: would you have it read?
 It has been read before.
 
-Lawrence Steel: This contains further matter than what has yet been read before you,
+[.discourse-part]
+_Lawrence Steel:_ This contains further matter than what has yet been read before you,
 +++[+++That was their suffering case drawn up at large, and laid upon the council board.]
 
-Lord Chancellor: Of what do you complain?
+[.discourse-part]
+_Lord Chancellor:_ Of what do you complain?
 
-Lawrence Steel: We complain of the havock and spoil made upon the freehold and tenement,
+[.discourse-part]
+_Lawrence Steel:_ We complain of the havock and spoil made upon the freehold and tenement,
 and breaking open closets, boxes, etc.
 
-Lord Chancellor: What, you mean of the meeting room?
+[.discourse-part]
+_Lord Chancellor:_ What, you mean of the meeting room?
 
-Lawrence Steel: No, the tenement adjoining to the meeting room;
+[.discourse-part]
+_Lawrence Steel:_ No, the tenement adjoining to the meeting room;
 we complain of the rude multitudes haling and tearing women`'s clothes,
 and offering shameful incivilities to them;
 also of their pulling an innocent man`'s coat off his back,
 and taking money out of his pocket, etc.
 +++[+++Of this, though he had more to speak, they seemed not willing to hear it.]
 
-Lord Chancellor: Of whom do you complain?
+[.discourse-part]
+_Lord Chancellor:_ Of whom do you complain?
 
-Lawrence Steel: We are reluctant to criminate persons by name.
+[.discourse-part]
+_Lawrence Steel:_ We are reluctant to criminate persons by name.
 
-Lord Chancellor: But you must tell us who?
+[.discourse-part]
+_Lord Chancellor:_ But you must tell us who?
 Is it the mayor, etc.
 
-George Whitehead: Let them have some of their names.
+[.discourse-part]
+_George Whitehead:_ Let them have some of their names.
 
-Lawrence Steel: John Helliar and sheriff Knight, with a rude multitude.
+[.discourse-part]
+_Lawrence Steel:_ John Helliar and sheriff Knight, with a rude multitude.
 
-George Whitehead: It appears that the sheriff and John Helliar, and other officers,
+[.discourse-part]
+_George Whitehead:_ It appears that the sheriff and John Helliar, and other officers,
 have been most busy,
 and have encouraged the rude multitude in their abusive and riotous proceedings,
 and forced many to jail directly from their meeting, at their will and pleasure,
@@ -841,21 +879,27 @@ and then do so crowd and fill the jail,
 that the prisoners have not room to take their natural rest;
 but some are forced to sit up in the nights, while others take their rest.
 
-Lord Chancellor: What would you have the king do?
+[.discourse-part]
+_Lord Chancellor:_ What would you have the king do?
 Would you have him relieve you from the law?
 
-George Whitehead: No: we desire the king may relieve us from such irregular proceedings,
+[.discourse-part]
+_George Whitehead:_ No: we desire the king may relieve us from such irregular proceedings,
 as we conceive the law does not warrant.
 
-Lord Chancellor: Why then do you not take course at law, and relieve yourselves by law?
+[.discourse-part]
+_Lord Chancellor:_ Why then do you not take course at law, and relieve yourselves by law?
 
-George Whitehead: The prisoners and sufferers in Bristol,
+[.discourse-part]
+_George Whitehead:_ The prisoners and sufferers in Bristol,
 are disabled from relieving themselves by course of law.
 
-Lord Chancellor: How are they disabled?
+[.discourse-part]
+_Lord Chancellor:_ How are they disabled?
 What reason can you give that they are so disabled?
 
-George Whitehead: Several reasons, as First; They are prosecuted on the conventicle act,
+[.discourse-part]
+_George Whitehead:_ Several reasons, as First; They are prosecuted on the conventicle act,
 made the twenty-second year of the king; and all the relief allowed us by law,
 is by way of appeal:
 and it admits of appeal to no higher court than the court of sessions,
@@ -865,23 +909,28 @@ because there they must appeal to their adversaries, as some there in authority 
 and John Knight, sheriff, is an extreme adversary, and has been violent against them;
 and he has the return of the juries according to his own purpose.
 
-King: Can you not procure a London jury then?
+[.discourse-part]
+_King:_ Can you not procure a London jury then?
 etc.^
 footnote:[Supposed to be meant of the jury that acquitted the Earl of Shaftsbury,
 and some others upon trial in London.]
 
-George Whitehead: Besides, if they make their appeal,
+[.discourse-part]
+_George Whitehead:_ Besides, if they make their appeal,
 they are liable to have the oath of allegiance put to them,
 to prevent prosecuting their appeal;
 for such kind of precipitate course has been used against us.
 
-One in council: He counts the tender of the oath of allegiance a precipitancy, etc.
+[.discourse-part]
+_One in council:_ He counts the tender of the oath of allegiance a precipitancy, etc.
 
-George Whitehead: No, it is the manner of requiring it, I mean;
+[.discourse-part]
+_George Whitehead:_ No, it is the manner of requiring it, I mean;
 when it is done with design to anticipate the appellant,
 and prevent the trial of his appeal.
 
-Secondly; The riots and abuses that are committed upon our friends at their meetings,
+[.discourse-part]
+_Secondly;_ The riots and abuses that are committed upon our friends at their meetings,
 by tearing women`'s scarfs, beating, throwing persons down, etc.,
 which are done by a rude company that are encouraged by the constables and officers,
 who should keep the peace.
@@ -890,11 +939,13 @@ because the officers take their part, and animate them;
 and the rioters and abusive persons can readily escape in the crowd,
 there being no better notice taken of them by those whose place it is.
 
-The third reason.
+The third reason...
 
-King: And thirdly: let us hear the third reason.
+[.discourse-part]
+_King:_ And thirdly: let us hear the third reason.
 
-George Whitehead: The third reason of their being disabled, is,
+[.discourse-part]
+_George Whitehead:_ The third reason of their being disabled, is,
 for those of our friends that are committed to jail;
 though we conceive their commitment irregular,
 yet if they should enter actions of false imprisonment against those that committed them,
@@ -905,12 +956,14 @@ if they should enter actions of false imprisonment against them,
 that it might be an occasion to them to revenge themselves
 the more severely on the prisoners in the mean while.
 
-One in council: Seeing the conventicle act admits of no appeal to any higher court,
+[.discourse-part]
+_One in council:_ Seeing the conventicle act admits of no appeal to any higher court,
 than to the same court of sessions for that county,
 why do you appeal or make your complaint here?
 What would you have the king do for you?
 
-George Whitehead: We desire the king, and you of his council,
+[.discourse-part]
+_George Whitehead:_ We desire the king, and you of his council,
 tenderly to consider our suffering case,
 and how far the king may relieve us from those irregular
 proceedings that shall appear beside or contrary to law.
@@ -922,10 +975,12 @@ and the extortion in distresses;
 but for the king to discourage such proceedings for the future, i. e.,
 as the law does not encourage.
 
-Lord Chancellor: You would have the king to relieve you from the law,
+[.discourse-part]
+_Lord Chancellor:_ You would have the king to relieve you from the law,
 to interpose between you and the law; which he cannot do.
 
-George Whitehead: No, under favour, Lord Chancellor, that inference follows not,
+[.discourse-part]
+_George Whitehead:_ No, under favour, Lord Chancellor, that inference follows not,
 from what is proposed on our part.
 We desire that the king would be pleased to interpose
 between us and the destruction that attends us,
@@ -937,9 +992,11 @@ but against the mal-administration; against the hard usage,
 and exorbitant proceedings we meet withal, contrary to all law and justice,
 as we conceive.
 
-Lord Chancellor: Well, we have heard you; you may withdraw.
+[.discourse-part]
+_Lord Chancellor:_ Well, we have heard you; you may withdraw.
 
-George Whitehead: May it please the king yet to hear me a little further,
+[.discourse-part]
+_George Whitehead:_ May it please the king yet to hear me a little further,
 that the king and you his ministers may understand
 how probable the truth of our complaint is,
 against those irregular and erroneous proceedings in Bristol,
@@ -951,10 +1008,15 @@ The most of their warrants of commitment, or court orders,
 whereby our friends are committed to jail, and of which we have here copies,
 are defective and lacking in two material points, as;
 
-First; The justices do not therein signify their lawful authority,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ The justices do not therein signify their lawful authority,
 as being the king`'s justices of the peace, before whom the prisoners were brought, and;
 
-Secondly; Their command to the keeper of the jail for safe custody of the prisoners,
+[.numbered]
+_Secondly;_ Their command to the keeper of the jail for safe custody of the prisoners,
 is not given in the king`'s majesty`'s name, but in their own private names,
 except that there is one named Major, and one William Bristol,
 the rest are only in their private or personal names;
@@ -966,14 +1028,20 @@ and this I give only as one instance to evince the probability of the truth of o
 and that those justices are subject to err in their proceedings,
 in omitting such material points.
 
-Lord Chancellor: Those defects are exceptions pleadable, and they may be heard,
+====
+
+[.discourse-part]
+_Lord Chancellor:_ Those defects are exceptions pleadable, and they may be heard,
 if they remove themselves by Habeas Corpus.
 
-Lord President: That exception of yours will not serve your turn.
+[.discourse-part]
+_Lord President:_ That exception of yours will not serve your turn.
 
-Lord Chancellor: You may withdraw.
+[.discourse-part]
+_Lord Chancellor:_ You may withdraw.
 
-George Whitehead: May it please the king, and you his ministers,
+[.discourse-part]
+_George Whitehead:_ May it please the king, and you his ministers,
 to observe this one thing namely; that those officers and rude persons in Bristol,
 who have done so much violence and spoil to our friends,
 do pretend power and authority from the king, for such their proceedings,
@@ -1007,8 +1075,8 @@ on the one side of each sheet, George Whitehead delivered it to the council boar
 in the king`'s presence, where it was received and laid down on the board,
 before the Lord Privy Seal, the Lord Chancellor, etc.
 
-At last George Whitehead thus concluded: I pray God preserve the king,
-and direct you his ministers, to do justly, and love mercy, and to walk humbly with God.
+At last George Whitehead thus concluded: '`I pray God preserve the king,
+and direct you his ministers, to do justly, and love mercy, and to walk humbly with God.`'
 
 I do confess I was under a very weighty concern of spirit,
 to use my earnest and careful endeavours in solicitation,
@@ -1067,17 +1135,24 @@ On the 13th day of August, so called, A. D. 1682,
 George Whitehead being called before Sir John Moor, then Lord Mayor of London,
 on account of a meeting, the mayor asked him.
 
-Mayor:--Did not you preach at the meeting?
+[.discourse-part]
+_Mayor:_--Did not you preach at the meeting?
 
-George Whitehead:--I desire to be excused from answering that question,
+[.discourse-part]
+_George Whitehead:_--I desire to be excused from answering that question,
 for I am not bound to accuse myself.
+
+[.small-break]
+'''
 
 After some other discourse,
 one of the mayor`'s officers did in effect ask the same question:
 
-Mayor`'s Officer:--Did not you take upon you to preach, or teach in the meeting?
+[.discourse-part]
+_Mayor`'s Officer:_--Did not you take upon you to preach, or teach in the meeting?
 
-George Whitehead:--I am not bound to be my own prosecutor;
+[.discourse-part]
+_George Whitehead:_--I am not bound to be my own prosecutor;
 I am not under an oath ex officio.
 Where are my accusers, those who informed against the meeting?
 If they could be so prophetical, as to tell so many days beforehand,
@@ -1086,14 +1161,19 @@ surely they may easily tell matter of fact when committed,
 if any such was +++[+++but the informers did not then appear to give any evidence.]
 To which an officer made this reply:
 
-Officer: We may certainly know some things beforehand, as when the sun sets,
+[.discourse-part]
+_Officer:_ We may certainly know some things beforehand, as when the sun sets,
 that it will rise next morning, and the course of the tides.
 
-George Whitehead:--The course of the sun and tides are settled in the order of the creation;
+[.discourse-part]
+_George Whitehead:_--The course of the sun and tides are settled in the order of the creation;
 our meetings are rather accidental, or occasional, and may possibly be altered,
 as to time; but if the course of the sun be thought a fitting instance, or comparison,
 in this case, then had you all need to have a care of striving against them;
 for it is in vain to endeavour to stop the sun in its course.
+
+[.small-break]
+'''
 
 The mayor called two persons, who apprehended George Whitehead,
 to give evidence upon oath.
@@ -1103,12 +1183,15 @@ as they intended to give account to the great Judge of all, to depose nothing,
 as matter of fact, but what came within their certain knowledge,
 or what they heard and saw.
 
-A Trainband Officer: I saw his lips go, but heard not what he said.
+[.discourse-part]
+_A Trainband Officer:_ I saw his lips go, but heard not what he said.
 
-Constable: I heard his voice, but could not tell what he said, so as to make sense of it;
+[.discourse-part]
+_Constable:_ I heard his voice, but could not tell what he said, so as to make sense of it;
 only I heard him mention Jesus Christ and the Spirit.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 Now I desire the Lord Mayor will please to compare
 these men`'s evidence with the matter of fact,
 as it is stated in the Act of Parliament;
@@ -1133,9 +1216,16 @@ Surely it was a hard case, that in a solemn, religious assembly,
 we might not move our lips, and mention Jesus Christ and the holy Spirit,
 without being thus fined, and our goods seized and taken away.
 
+[.embedded-content-document.legal]
+--
+
+[.letter-heading]
 A Copy of the Warrant for Distress.
 
-London, ss.--Whereas George Whitehead, of Hounsditch, in the parish of St. Buttolph,
+[.signed-section-context-open]
+London, ss.
+
+Whereas George Whitehead, of Hounsditch, in the parish of St. Buttolph,
 within +++[+++for without]
 Bishopsgate, London, was upon the 13th day of August, last past,
 in the thirty-fourth year of his majesty`'s reign, legally convicted before me.
@@ -1165,10 +1255,14 @@ this shall be your warrant.
 Given under my hand and seal, this 10th day of September,
 Anno Regis Caroli Secundi, 34. Anno Domini 1682.
 
+[.signed-section-signature]
 John Moor, Mayor.
 
+[.signed-section-context-close]
 To all constables and other his majesty`'s officers of the peace, within the said city,
 whom this may concern.
+
+--
 
 Observe how far short of proof of the matter charged in this warrant,
 the said mayor`'s two sufficient witnesses came in their evidence against George Whitehead,
@@ -1185,9 +1279,11 @@ for therein both Jesus Christ and the holy Spirit are frequently mentioned.
 To manifest how eager our persecutors were to seek our ruin,
 here follows a copy of a certificate for another warrant against George Whitehead:
 
-To the right honourable Sir William Pritchard, Kt. Lord Mayor of the city of London,
-and to the right worshipful the aldermen of the said city,
-and to every of them whom it may concern.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== To the right honourable Sir William Pritchard, Kt. Lord Mayor of the city of London, and to the right worshipful the aldermen of the said city, and to every of them whom it may concern.
 
 These are to certify that George Whitehead, of Hounsditch, in the liberty of London,
 grocer, stands convicted by the oaths of two credible witnesses upon record,
@@ -1209,6 +1305,8 @@ Reg. Carol.
 Secundi nunc Ang.
 35, etc.
 Anno Domini 1683.
+
+--
 
 It appears that all this prosecution, or rather persecution,
 was designed to force us to a strict conformity to the liturgy of the church of England,
@@ -1253,26 +1351,40 @@ prepared in order to an appeal against the late conviction made against him,
 by sir Clement Arminger, the 4th day of September, 1683; unsummoned and unheard,
 in his own defence, etc.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ He conceives the conviction without summons or hearing,
 to be contrary to all equity and right, due order of law, and common course of justice,^
 footnote:[Vid+++.+++, Coke, Dalt+++.+++, Lambert.]
 consequently not consistent with the oath of justices.
 
+[.numbered]
 2+++.+++ Contrary to the precedents which God himself has given; Gen. 3:8 and 18, 21.
 
+[.numbered]
 3+++.+++ Contrary to the express law of God; Duet. 19:17-18, and John 7:51.
 
+[.numbered]
 4+++.+++ Contrary to the very law, justice, and manner of the ancient Romans,
 and other nations; Acts 25:16.
 
+[.numbered]
 5+++.+++ Contrary to the intention of the conventicle Act itself;
 requiring the taking into custody the persons unlawfully assembled,
 to the intent they may be proceeded against according to this Act,
 as well as by confession of the party in the first place, in order to conviction.
 
+====
+
 Concerning the circumstances of the fact assigned by the conventicle act, 22 Car.
 2.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ The appellant conceives it is impossible to prove those circumstances
 mentioned in the act against that assembly for which he stands convicted,
 namely: the being met under colour and pretence of religious exercise,
@@ -1287,7 +1399,8 @@ Here is no exception or circumstances relating to the preacher,
 how well soever he preach, if it be in such conventicles, as is described by the act,
 that makes the offence.
 
-2, Therefore the appellant requests,
+[.numbered]
+2+++.+++ Therefore the appellant requests,
 that the court would please to inquire of his prosecutors, or convicting justice,
 what manner of religious exercise did the said assembly
 pretend or practice that was not according to,
@@ -1298,18 +1411,29 @@ For it is not the omission of such fact or exercise the said act condemns,
 but some overt act; and the meeting being wholly passive,
 what unlawful fact can possibly be proved against the same?
 
+====
+
 Concerning the circumstances of place, number and preaching,
 most generally alledged against our religious assemblies;
 the appellant conceives '`all these, together with the religious exercise thereof,
 to be manifestly warranted and allowed by the liturgy of the church of England:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ For assembling, and mutual exhortation and edification, etc.
 
+[.numbered]
 2+++.+++ For Christian meetings of considerable numbers.
 
+[.numbered]
 3+++.+++ For the liberty of ministering by the gift of Christ received.
 
+[.numbered]
 4+++.+++ For worshipping God in spirit and in truth, without limitation to time or place.
+
+====
 
 All these instances are proved in various epistles,
 citations of holy Scripture in the said liturgy, or common prayer book,
