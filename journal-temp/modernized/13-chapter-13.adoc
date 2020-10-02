@@ -375,6 +375,9 @@ _Conclusion._
 And we humbly and thankfully acknowledge the king`'s favour,
 in admitting us thus far to be heard.
 
+[.small-break]
+'''
+
 On the 1st day of the fourth month, 1685,
 George Whitehead and Gilbert Latey had access to the king,
 with the papers of the suffering case of our friends,
@@ -398,6 +401,9 @@ We would not willingly miss our opportunity to present it to the Parliament.
 
 [.discourse-part]
 _King:_ You may deliver it when you please.
+
+[.small-break]
+'''
 
 After Robert Barclay and I had been with the king, and discoursed him as before related,
 Robert Barclay expressed himself very much satisfied in my discourse with him,
@@ -465,38 +471,19 @@ without inward conviction or satisfaction of our tender consciences,
 wherein our peace with God is concerned, of which we are very tender.
 
 The statutes on which we, the said people suffer imprisonment, distress and spoil,
-are as follows; The 5th of Eliz.
-chap.
-33, de excommunicato capiendo.
+are as follows; 
 
-The 23rd of Eliz, chap.
-1, for twenty pounds per month.
-
-The 29th of Eliz.
-chap.
-6, for continuation.
-
-The 35th of Eliz, chap.
-1, for abjuring the realm, on pain of death.
-
-The 1st of Eliz.
-chap.
-2, for twelve pence a Sunday.
-
-The 3rd of king James I. chap.
-4, for premunire, imprisonment during life, and estates confiscated.
-
-The 13th and 14th of king Charles II. against Quakers, etc., transportation.
-
-The 22nd of king Charles II. chap.
-1, against seditious conventicles.
-
-The 17th of king Charles II. chap.
-2, against nonconformists.
-
-The 27th of Henry VIII.
-chap.
-20, some few suffer thereupon.
+[.syllogism]
+* The 5th of Eliz. chap. 33, de excommunicato capiendo.
+* The 23rd of Eliz, chap. 1, for twenty pounds per month.
+* The 29th of Eliz. chap. 6, for continuation.
+* The 35th of Eliz, chap. 1, for abjuring the realm, on pain of death.
+* The 1st of Eliz. chap. 2, for twelve pence a Sunday.
+* The 3rd of king James I. chap. 4, for premunire, imprisonment during life, and estates confiscated.
+* The 13th and 14th of king Charles II. against Quakers, etc., transportation.
+* The 22nd of king Charles II. chap. 1, against seditious conventicles.
+* The 17th of king Charles II. chap. 2, against nonconformists.
+* The 27th of Henry VIII. chap. 20, some few suffer thereupon.
 
 Upon indictments at common law,
 pretended and framed against our peaceable religious assemblies, for riots, routs,
