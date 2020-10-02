@@ -37,27 +37,35 @@ the king and his attendants came along the gallery towards his lodgings;
 George Whitehead then stepped up to the king without any interruption,
 the whole company being civil, and thus proceeded, viz:
 
-George Whitehead: May it please the king to grant us the favour of a few words.
+[.discourse-part]
+_George Whitehead:_ May it please the king to grant us the favour of a few words.
 It is in behalf of many of the king`'s peaceable subjects who are prisoners at Norwich,
 and there like to be buried alive in holes and dungeons.
 
-King: Can they not swear themselves out of prison?^
+[.discourse-part]
+_King:_ Can they not swear themselves out of prison?^
 footnote:[For this cross question,
 he took occasion from some apostate taking an oath to be a livery man of the city,
 as we understood.]
 
-George Whitehead: Under favour, such are not in society with us.
+[.discourse-part]
+_George Whitehead:_ Under favour, such are not in society with us.
 We entreat the king to commiserate this distressed case of the prisoners in Norwich,
 for they are burying them alive in a dungeon under ground.
 
-King: Have you a paper?
+[.discourse-part]
+_King:_ Have you a paper?
 If you have a paper of their case, I will take it.
 
-George Whitehead: Yes, here is a paper: +++[+++which he delivered into the king`'s hand,
+[.discourse-part]
+_George Whitehead:_ Yes, here is a paper: +++[+++which he delivered into the king`'s hand,
 and he gently took it.]
 George Whitehead proceeded, viz; They are a poor, harmless people, poor wool-combers,
 weavers, and tradesmen, etc., like to be destroyed in prison, in holes under ground;
 we entreat the king not to suffer these his peaceable subjects to be buried alive.
+
+[.small-break]
+'''
 
 I perceived these last words took most hold upon him, viz:
 my entreating him not to suffer his peaceable subjects to be buried alive,
@@ -177,8 +185,13 @@ as was reported:
 however he lived but a little time after he threatened
 us that the law should be master over us.
 
-George Whitehead and William Crouch`'s Letter to Friends at Norwich prison.
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== George Whitehead and William Crouch`'s Letter to Friends at Norwich prison.
+
+[.salutation]
 Dear Friends,
 
 Anthony Alexander, Mary Booth, John Fiddeman, etc., friends in prison in the dungeon,
@@ -252,7 +265,10 @@ Thus dear friends, having given you these brief notes of our endeavours,
 being but as a short index thereof, we hope that further endeavours will not be wanting,
 as the Lord shall open our way.
 
+[.signed-section-signature]
 George Whitehead, William Crouch.
+
+--
 
 Our labour and solicitation for our oppressed friends at Norwich,
 held a considerable time,
@@ -301,13 +317,21 @@ I proceeded to open our case to him concerning the continuance
 of the hard suffering of our friends in Norwich,
 in manner following, viz:
 
-First, I reminded the king that our poor friends in Norwich,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ I reminded the king that our poor friends in Norwich,
 were still continued under great duress or hardships in jail, in holes,
 and a dungeon under ground, and desired that the king in his clemency,
 would please to relieve them, further opening their distressed case, etc.
 
-The king answered, viz; It is against law they suffer so,
+[.discourse-part]
+_The king answered, viz;_ It is against law they suffer so,
 and I will take care concerning them.
+
+[.small-break]
+'''
 
 I was truly glad when I heard him give this answer,
 believing that the complaints which had been made
@@ -315,55 +339,71 @@ to him of our friends`' hard usage and confinements,
 and the said affidavits of others thereof,
 had such credit and weight with him that I hoped he would cause them to be released.
 
-Secondly, the king questioned us about the reason of our not putting off our hats,
+[.numbered]
+_Secondly,_ the king questioned us about the reason of our not putting off our hats,
 and using the terms, thee and thou, yea and nay?
 To which we gave him answer, particularly Gilbert Latey, viz:
 That if we could put off our hats to any mortal, it should be to the king first,
 but for conscience sake we could not to any mortal,
 but only in our approaching God in prayer; to which the king gave no particular reply.
 
-George Whitehead: Thou and thee to one person,
+====
+
+[.discourse-part]
+_George Whitehead:_ Thou and thee to one person,
 is Scripture language and the true way of speaking.
 
-Gilbert Latey: As Paul did to King Agrippa, Acts 26:2.; viz: I think myself happy,
+[.discourse-part]
+_Gilbert Latey:_ As Paul did to King Agrippa, Acts 26:2.; viz: I think myself happy,
 O King Agrippa, because I shall answer for myself this day before thee;
 touching all the things whereof I am accused of the Jews;
 especially because I know thee to be expert in all customs and questions,
 which are among the Jews, etc.
 
-George Whitehead:--Thirdly, concerning yea and nay,
+[.discourse-part]
+_George Whitehead:_--__Thirdly,__ concerning yea and nay,
 we are not strictly tied to the expressions,
 but some times use those of the same signification; as yes and no, etc.
 
-A great person present asked us, viz: Why do you call him king?
+[.discourse-part]
+_A great person present asked us, viz:_ Why do you call him king?
 Why do you not call him his majesty?
 
-George Whitehead:--As he is king, he has majesty belonging to him, it is included:
+[.discourse-part]
+_George Whitehead:_--As he is king, he has majesty belonging to him, it is included:
 his majesty is his greatness and power.
 
-King:--You should not stand upon things in affectation; the word you,
+[.discourse-part]
+_King:_--You should not stand upon things in affectation; the word you,
 is now become usual in English; and the word yeah,
 is used by seamen when they call from the top of the mast, to be heard upon the deck;
 it is also a Dutch word, who express it yah.
 
-George Whitehead:--We affect not singularity in words, or behaviour,
+[.discourse-part]
+_George Whitehead:_--We affect not singularity in words, or behaviour,
 but desire to demean ourselves in that plainness and simplicity,
 which we are in conscience and truth persuaded unto.
 
-King: The words thee and thou, might have been better translated out of the Greek, you.
+[.discourse-part]
+_King:_ The words thee and thou, might have been better translated out of the Greek, you.
 
-George Whitehead: If so, then the translators were as simple as we the Quakers.
+[.discourse-part]
+_George Whitehead:_ If so, then the translators were as simple as we the Quakers.
 
-King: Many of your friends can swear, or take an oath,
+[.discourse-part]
+_King:_ Many of your friends can swear, or take an oath,
 rather than loose their voices in election.
 
-George Whitehead: Though some few persons have sworn,
+[.discourse-part]
+_George Whitehead:_ Though some few persons have sworn,
 who have sometimes gone under our profession, yet they are not in society with us,
 or we with them.
 
-Gilbert Latey: We are as much dissatisfied with such as have so done, as the king can be.
+[.discourse-part]
+_Gilbert Latey:_ We are as much dissatisfied with such as have so done, as the king can be.
 
-George Whitehead: We desire nothing to be done to the prejudice or dishonour of the king,
+[.discourse-part]
+_George Whitehead:_ We desire nothing to be done to the prejudice or dishonour of the king,
 nor to join with, or promote any interest against the king.
 The Lord knows our hearts,
 we have not the least design or desire for the subversion or change of the government.
@@ -373,9 +413,13 @@ therefore there is no reason, we should seek to promote any interest against the
 but only desire, that God in his wisdom may direct and preserve the king,
 and that nothing may be done or suffered that may be to the king`'s dishonour or hurt.
 
-Gilbert Latey: We would not loose our point that we came to the king for; that is,
+[.discourse-part]
+_Gilbert Latey:_ We would not loose our point that we came to the king for; that is,
 the case of our distressed friends in Norwich,
 to whom we desire the king to show his princely clemency for their relief.
+
+[.small-break]
+'''
 
 Although it was my friend`'s care we should not be
 diverted from our point by other discourse,
@@ -383,14 +427,20 @@ I was as mindful of that as he could be; but by the way,
 I was willing to clear our innocency from jealousies and prejudice
 wrongfully suggested to the king against us and our friends.
 
+[.offset]
 In answer to Gilbert Latey.
 
-King: I will take notice of their case, and care about it,
+[.discourse-part]
+_King:_ I will take notice of their case, and care about it,
 that it shall be called for in council.
 
-George Whitehead: If there be any objections against us, i. e., in council,
+[.discourse-part]
+_George Whitehead:_ If there be any objections against us, i. e., in council,
 we pray the king to let us know them,
 and we hope to give such answers as shall be satisfactory.
+
+[.small-break]
+'''
 
 The reason of this proposal by George Whitehead was, that we were informed the secretary,
 sir L. Jenkins, intended to produce an apology from the sheriffs of Norwich,
@@ -404,22 +454,29 @@ and his confessing that their suffering was against law,
 and promising to take care concerning them,
 might anticipate and prevent producing any apology against them or their case.
 
+[.offset]
 To George Whitehead`'s last proposal before.
 
-King: You shall know I will take care about your business.
+[.discourse-part]
+_King:_ You shall know I will take care about your business.
 
-George Whitehead: We gave affidavits to the Lord Keeper,
+[.discourse-part]
+_George Whitehead:_ We gave affidavits to the Lord Keeper,
 which we hope were delivered to the king.
 
-King: Yes, yes, I will take notice of their case, and it shall be called on in council.
+[.discourse-part]
+_King:_ Yes, yes, I will take notice of their case, and it shall be called on in council.
 
-Gilbert Latey: We accept it as a great favour, that we have this admittance to be heard,
+[.discourse-part]
+_Gilbert Latey:_ We accept it as a great favour, that we have this admittance to be heard,
 and pray God to preserve and direct the king.
 
-George Whitehead to the rest of the nobility present, etc.;
+[.discourse-part]
+_George Whitehead to the rest of the nobility present, etc.;_
 And we acknowledge all your civilities and kindness towards us.
 
-George Whitehead to the king, as he was withdrawing:
+[.discourse-part]
+_George Whitehead to the king, as he was withdrawing:_
 We hope the king will be mindful of our suffering friends in Norwich.
 
 Yet after so great endeavours and long solicitation,
@@ -453,9 +510,14 @@ To make the king sensible of our long continued,
 as well as extreme sufferings for our religious, tender consciences towards Almighty God;
 and Earnestly to move the king for our relief: a copy whereof follows, viz:
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the King.
 
-The humble address of the people commonly called Quakers.
+[.blurb]
+=== The humble address of the people commonly called Quakers.
 
 O king, The King of kings,
 and Lord of the whole earth incline thy heart to
@@ -529,6 +591,8 @@ Suffer not the ruin of such as are quiet in the land, nor the widow and the fath
 for their peaceable consciences,
 to lie at the door of a prince professing the tender and compassionate religion of Christ.
 
+--
+
 This address was presented to king Charles the second, and by him accepted,
 at Windsor castle, the 8th day of the sixth month, called August, 1683,
 by George Whitehead, Alexander Parker, Gilbert Latey, and Francis Camfield,
@@ -544,7 +608,7 @@ in his afflictions and straits,
 he would show mercy and compassion to his afflicted people; or words to the same effect,
 so near as I well remember, and withal prayed for the king,
 according to our supplications hinted in the foregoing application, to which he said,
-I thank you.
+'`I thank you.`'
 
 The king at that time appeared seriously affected with our complaint and sufferings,
 and soon after we were told by a great person, that he said to a duke that stood by.
@@ -791,8 +855,13 @@ power and providence of Almighty God,
 in whose hands the hearts of kings and princes are, and he can turn them like waters.
 To him be the dominion and praise of all forever.
 
-A copy of a conviction filed by the Recorder of London against George Whitehead.
+[.embedded-content-document.legal]
+--
 
+[.blurb]
+=== A copy of a conviction filed by the Recorder of London against George Whitehead.
+
+[.signed-section-context-open]
 London, ss.
 memorandum.
 
@@ -821,8 +890,12 @@ and one of the justices of our said lord the king,
 assigned to keep the peace for the city aforesaid, have to this record,
 put my hand and seal, the five and twentieth day of October, in the year abovesaid.
 
+[.signed-section-signature]
 Thomas Jenner, Recorder.
 
+--
+
+[.offset]
 Remarks on the foregoing conviction.
 
 That no conviction is entered against the appellant, George Whitehead,
@@ -830,12 +903,17 @@ though in pursuance of a pretended conviction, yet a warrant, dated the 17th of 
 1684, was brought against him, to break open and enter his house for seizure;
 whereupon he was constrained to enter an appeal for,
 
-First; The conviction pretended against him, is against one George Whitebread,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ The conviction pretended against him, is against one George Whitebread,
 four times so named therein, for an unlawful assembly or conventicle,
 said to be held the 21st day of October,
 in the five and thirtieth year of the reign of our lord Charles the second, late king, etc.
 
-Secondly; That a record of the said conviction against Whitebread,
+[.numbered]
+_Secondly;_ That a record of the said conviction against Whitebread,
 was the fourteenth day of January, in the five and thirtieth year of Charles the second,
 late king, by Thomas Jenner, knight, under his hand and seal,
 according to an act of Parliament,
@@ -848,13 +926,16 @@ whereas, according to the act of Parliament,
 the record of conviction is to be certified into the next quarter sessions,
 after seizure, or after the penalty is paid or levied.
 
-Thirdly; The conviction is for a conventicle said to be held in a house in St,
+[.numbered]
+_Thirdly;_ The conviction is for a conventicle said to be held in a house in St,
 Martin`'s le Grand, where no family was.
 But in the warrant for distress, it is said,
 it was held in a house in the parish of St. Martin`'s le Grand,
 where there were more than twenty persons,
 besides those of the family where the said conventicle was held.
 These are contradictory.
+
+====
 
 Great notice was taken in and about the city of London, what an eminent friend to,
 and encourager of, the informers, the said Thomas Jenner, recorder of London,
@@ -882,16 +963,25 @@ if we could find and obtain so much justice upon
 our appealing from our most notorious persecutors,
 and favourers of those devouring informers.
 
-* * *
+[.asterism]
+'''
 
-A statement of the case of the prisoners called Quakers, indicted at common law,
-for being routously and unlawfully assembled, with force and arms.
+[.embedded-content-document.letter]
+--
 
-Proposition.--That their assemblies are not routous or riotous, nor with force and arms,
+[.blurb]
+=== A statement of the case of the prisoners called Quakers, indicted at common law, for being routously and unlawfully assembled, with force and arms.
+
+[.discourse-part]
+_Proposition._--That their assemblies are not routous or riotous, nor with force and arms,
 nor seditious; consequently not unlawful.
 On the legal and true definition of riots, routs, etc.
 
-First; What a rout and riot is, defined by the Lord Coke, Instit, part 3, cap, 79, fol.
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ What a rout and riot is, defined by the Lord Coke, Instit, part 3, cap, 79, fol.
 176, viz: Riotum cometh from the French word Rioter,
 and in the law signifieth when three or more do any unlawful act, as to beat any man,
 or hunt in his park, chase or warren,
@@ -935,6 +1025,7 @@ that their being together do breed some apparent disturbance of the peace,
 either by signification of speech, show of armour, turbulent gesture,
 or actual and express violence, etc.
 
+[.offset]
 Pray observe in case of a rout:
 
 Suppose a company of rude persons met to contrive
@@ -956,12 +1047,14 @@ can be religious.
 Therefore in routs, riots, and unlawful assemblies, as defined in common law,
 religion is wholly set aside.]
 
-Observe.
+[.discourse-part]
+_Observe._
 The meetings for which we stand indicted are religious and peaceable,
 therefore we conceive they are not such as in common law or reason, can be deemed routs,
 riots, and unlawful assemblies.
 
-Secondly; Not routous or riotous, by the conventicle act, 22 Car.
+[.numbered]
+_Secondly;_ Not routous or riotous, by the conventicle act, 22 Car.
 2, because: Four persons besides the respective family, may meet and exercise religion,
 whereas three persons make a rout or riot,
 if met with intention forcibly or violently to do an unlawful act,
@@ -981,7 +1074,8 @@ If praying to or praising God come under the pretence of exercise of religion,
 for which five shillings or ten shillings is the fine;
 praying is not mentioned in the clause relating to preaching and teaching.
 
-Thirdly; Seeing the indictment is upon common law, what book case or precedent,
+[.numbered]
+_Thirdly;_ Seeing the indictment is upon common law, what book case or precedent,
 can make our religious meetings routs or riots, they being really for worship to God,
 and to pray to and praise him according to our faith and persuasion?
 
@@ -993,7 +1087,8 @@ that the said peaceable religious meetings should be judged routous or riotous,
 seeing they, or any religious exercise in them, cannot be proved malum in se,
 or evil in their own nature.
 
-Fourthly; There is a noted book case and precedent, namely, that of Bushel,
+[.numbered]
+_Fourthly;_ There is a noted book case and precedent, namely, that of Bushel,
 in the twenty-second year of the king, reported by the learned sir John Vaughan,
 in his book of reports, which begins at fol.
 135, and continues to 150. The case was this: Bushel and others of a jury,
@@ -1037,7 +1132,8 @@ which differs nothing in reason, though much in punishment,
 from what a judge out of various cases considered by him,
 infers to be the law in the question before him.
 
-Fifthly; Of the credit, good reputation and fame of the witnesses,
+[.numbered]
+_Fifthly;_ Of the credit, good reputation and fame of the witnesses,
 to render them good and lawful men, and responsible, etc.,
 which the defendants do question concerning some of them, if informers,
 for such witnesses as law and justice assign, are no parties, nor interested persons,
@@ -1065,12 +1161,14 @@ who also know the manners and conditions of the same witnesses,
 especially if they be nigh dwellers,
 and know also whether they be men worthy to be credited or no.
 
-Sixthly: We do really, and in humility conceive, that our religious assemblies,
+[.numbered]
+_Sixthly:_ We do really, and in humility conceive, that our religious assemblies,
 and the manner thereof, as well as what we pretend, profess or practice therein,
 are warranted and justified by the liturgy of the church of England,
 in these following instances, viz:
 
-For a meeting of a hundred and twenty persons.
+[.alt.centered]
+==== For a meeting of a hundred and twenty persons.
 
 In those days Peter stood up in the midst of the disciples, etc.
 The number of the names that were together, were about one hundred and twenty:
@@ -1078,7 +1176,8 @@ to which add, In an upper room, verse 13.
 Where they continued with one accord in prayer and supplication, verse 14.^
 footnote:[Used by the Church of England, on St. Matthias`'s day, Acts 1:15. cited.]
 
-For assembling and mutual exhortation.
+[.alt.centered]
+==== For assembling and mutual exhortation.
 
 Let us consider one another, to provoke unto love, and to good works;
 not forsaking the assembling of ourselves together, as the manner of some is;
@@ -1087,7 +1186,8 @@ because ye see the day approaching.^
 footnote:[On Good Friday, Epist.
 Heb. 10:24-25, cited in the liturgy.]
 
-For freedom of ministering by the gift received.
+[.alt.centered]
+==== For freedom of ministering by the gift received.
 
 As every man hath received the gift, even so minister the same one to another,
 as good stewards of the manifold grace of God: if any man speak,
@@ -1097,7 +1197,8 @@ that God in all things may be glorified, through Jesus Christ.^
 footnote:[Sunday after Ascension day, Epist.
 1 Pet. 4:10, cited.]
 
-The Spirit prayed for by the church of England.
+[.alt.centered]
+==== The Spirit prayed for by the church of England.
 
 Grant us Lord, we beseech thee,
 the Spirit to think and do always such things as be rightful,
@@ -1105,19 +1206,24 @@ that we who cannot do any thing that is good without thee,
 may by thee be enabled to live according to thy will etc.^
 footnote:[Ninth Sunday after Trinity, collect.]
 
-Give thanks at all times, and in all places, etc.
+[.alt.centered]
+==== Give thanks at all times, and in all places, etc.
 
-Priest: Let us give thanks unto our Lord God.
+[.discourse-part]
+_Priest:_ Let us give thanks unto our Lord God.
 
-People answer: It is meet and right so to do.
+[.discourse-part]
+_People answer:_ It is meet and right so to do.
 
-Priest.
+[.discourse-part]
+_Priest._
 It is very meet, right, and our bounden duty, that we should at all times,
 and in all places, give thanks unto thee, O Lord, holy Father,
 Almighty and everlasting God--which art one God, etc.: page 198.^
 footnote:[Communion.]
 
-Seventhly; If the indicted persons aforesaid, be by the jury brought in guilty,
+[.numbered]
+_Seventhly;_ If the indicted persons aforesaid, be by the jury brought in guilty,
 and so liable to be sentenced to pay fines, or to imprisonment till payment,
 and suppose they cannot for conscience sake pay the fines,
 it being for their religiously meeting to worship God, or to pray to God,
@@ -1128,8 +1234,12 @@ can be esteemed a punishment suitable to the supposed offence;
 or whether such peaceable meeting and religious exercise can be justly
 judged to demerit such severity in a Christian and Protestant nation.
 
+====
+
 We commit our case to Almighty God, the judge of all,
 and to be conscientiously considered by you who are in authority.
+
+--
 
 On the 27th day of the 6th month, called August, 1684, being the fourth-day of the week,
 the said George Whitehead being at the meeting of the people of God called Quakers,
@@ -1169,8 +1279,8 @@ which the mayor accordingly accepted.
 And so for that time George Whitehead was dismissed
 until the sessions of the peace for the city of London.
 
-Proceedings at the sessions at Guildhall, for the city of London,
-against George Whitehead, the 1st of September, 1684.
+[.inline]
+==== Proceedings at the sessions at Guildhall, for the city of London, against George Whitehead, the 1st of September, 1684.
 
 Present on the bench, Henry Tulse, knight, lord mayor; Peter Daniel!, knight,
 and Samuel Dashwood, sheriff`'s; James Smith, knight, alderman; Thomas Jenner,
@@ -1201,52 +1311,68 @@ in the meetinghouse at Whitehart court in Lombard street.
 
 The recorder asked, "`In what posture did you take him praying?`"
 
-Constable: Upon his knees.
+[.discourse-part]
+_Constable:_ Upon his knees.
 
+[.offset]
 One in court said, "`I thought the Quakers had not kneeled at prayer.`"
 
-Recorder to George Whitehead: What say you to the evidence?
+[.discourse-part]
+_Recorder to George Whitehead:_ What say you to the evidence?
 Do you deny it, or not?
 
-George Whitehead: No, I shall not deny that I was taken upon my knees at prayer to God,
+[.discourse-part]
+_George Whitehead:_ No, I shall not deny that I was taken upon my knees at prayer to God,
 but that can be no rout, when I was on my knees at prayer,
 this could be no moving forward to commit a riot, etc.
 
-Recorder: But did you do nothing else before prayer?
+[.discourse-part]
+_Recorder:_ But did you do nothing else before prayer?
 
-George Whitehead: No, I did not.
+[.discourse-part]
+_George Whitehead:_ No, I did not.
 
-Recorder: Did no body preach?
+[.discourse-part]
+_Recorder:_ Did no body preach?
 
-George Whitehead: Excuse me there, etc.
+[.discourse-part]
+_George Whitehead:_ Excuse me there, etc.
 +++[+++at which question George Whitehead somewhat wondered,
 that the recorder should thus endeavour to make him
 an informer against our religious meetings.]
 
-Recorder: Call Mrs.
+[.discourse-part]
+_Recorder:_ Call Mrs.
 Collingwood.
 +++[+++who presently appearing, was sworn.]
 What say you Mrs.
 Collingwood?
 Was there no preaching before George Whitehead prayed?
 
-Collingwood`'s wife answered: Yes, there were two others that preached before he prayed.
+[.discourse-part]
+_Collingwood`'s wife answered:_ Yes, there were two others that preached before he prayed.
 
-Common Sergeant: Preaching and praying are both one--their kind of preaching and praying.
+[.discourse-part]
+_Common Sergeant:_ Preaching and praying are both one--their kind of preaching and praying.
 
-George Whitehead: No; they are not, there is a distinction in common acceptation;
+[.discourse-part]
+_George Whitehead:_ No; they are not, there is a distinction in common acceptation;
 preaching or teaching is done to men, but prayer and supplication is made to God;
 men do not preach to God, or teach God, but pray to God.
 
-Common Sergeant: You preach to deceive people.
+[.discourse-part]
+_Common Sergeant:_ You preach to deceive people.
 
-George Whitehead: That is a reflection; I teach for no such end.
+[.discourse-part]
+_George Whitehead:_ That is a reflection; I teach for no such end.
 
-Recorder: Gentlemen of the jury, you hear the evidence,
+[.discourse-part]
+_Recorder:_ Gentlemen of the jury, you hear the evidence,
 that there was preaching and praying; it was therefore a conventicle,
 an unlawful meeting.
 
-George Whitehead: I am not indictable upon the conventicle act,
+[.discourse-part]
+_George Whitehead:_ I am not indictable upon the conventicle act,
 there lies no indictment upon it.
 The conventicle act allows of four to meet besides the family;
 whereas the law allows not three to meet routously.
@@ -1260,27 +1386,37 @@ opened at the place in the third part of Coke`'s Institutes, chap.
 79, and fol.
 176.]
 
-Common Sergeant answered: My Lord Coke was mistaken, +++[+++but he did not declare wherein,
+[.discourse-part]
+_Common Sergeant answered:_ My Lord Coke was mistaken, +++[+++but he did not declare wherein,
 it was his own ipse dixit, without proof against Chief Justice Coke.]^
 footnote:[We may presume Chief Justice Coke was a more eminent
 lawyer and author than ever that Common Sergeant was,
 though he had the confidence thus to slight judge Coke,
 to stop the prisoner from pleading him in his own defence.]
 
-George Whitehead: Pray hear him, hear his definition of a rout and unlawful assembly.
+[.discourse-part]
+_George Whitehead:_ Pray hear him, hear his definition of a rout and unlawful assembly.
 
-Common Sergeant: I tell you my lord was mistaken.
+[.discourse-part]
+_Common Sergeant:_ I tell you my lord was mistaken.
 
-George Whitehead: Is that the sense of the court?
+[.discourse-part]
+_George Whitehead:_ Is that the sense of the court?
 the Lord Coke and other learned writers agree in the definition.
 
-Recorder: Gentlemen of the jury,
+[.discourse-part]
+_Recorder:_ Gentlemen of the jury,
 we have heard George Whitehead with a great deal of patience,
 he is used to long speaking, you have heard the evidence and what he says.
 
-George Whitehead: Pray hear the Lord Coke in the case.
+[.discourse-part]
+_George Whitehead:_ Pray hear the Lord Coke in the case.
 
-Court: The king`'s council has done, take him away.
+[.discourse-part]
+_Court:_ The king`'s council has done, take him away.
+
+[.small-break]
+'''
 
 Upon which George Whitehead was drawn out of court, and after some time he,
 with the rest of friends tried before him, were called into court again,
@@ -1288,17 +1424,26 @@ to hear the verdict of the jury, which upon the question,
 put severally by the clerk concerning each person,
 whether guilty or not guilty of a rout and unlawful assembly?
 
-The jury answered.
+[.discourse-part]
+_The jury answered._
 Guilty, to each particular name.
+
+[.small-break]
+'''
 
 The prisoners heard not their sentences.
 The bench consulted about their several fines privately.
 The prisoners had liberty that night to go home,
 but the next day returned to the prison of Newgate.
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 12th of September, 1684.
 Sir Samuel Dashwood`'s, then sheriff, liberate for George Whitehead.
 
+[.letter-heading]
 To the keeper, or under keepers of Newgate, London.
 
 Whereas you have in your custody the body of George Whitehead for payment of a fine,
@@ -1308,7 +1453,10 @@ these are to desire you to discharge the said George Whitehead from his imprison
 And for your so doing this shall be your warrant.
 This 12th September, 1684.
 
+[.signed-section-signature]
 Samuel Dashwood.
+
+--
 
 I do confess that some of the magistrates of the city of London,
 were men of more moderation and compassion towards us than their recorder,
@@ -1316,21 +1464,27 @@ who sought our ruin, not only by imprisonment,
 but also by the encouragement given to the informers,
 to ruin us in our estates and livelihoods.
 
-George Whitehead`'s plea and defence,
-relating to his appeal from his conviction by Thomas Jenner the recorder, etc.
+[.blurb]
+=== George Whitehead`'s plea and defence, relating to his appeal from his conviction by Thomas Jenner the recorder, etc.
 
 That seeing the appellant by the law may plead and make defence,
 he humbly offers his defence, viz:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That the conviction is made against Whitebread, so named therein four times,
 and not against Whitehead.
 
+[.numbered]
 2+++.+++ That it is for a conventicle in a house near the Bull and Mouth,
 situate within the liberty of St. Martin`'s le Grand, London:
 in which liberty the Quakers have no meeting,
 nor is the Bull and Mouth within that liberty.
 Witness, William Cowley and Nathaniel Norris.
 
+[.numbered]
 3+++.+++ That seeing he hath, as the law directs,
 appealed in writing from the person convicting to the judgment
 of the justices of the peace in quarter sessions,
@@ -1341,9 +1495,11 @@ Wherefore the said appellant humbly requests that
 the convicting justice may not sit as judge,
 nor determine in the trial of his traverse or appeal.
 
+[.numbered]
 4+++.+++ That the long concealment of the conviction,
 as well as its being made in the absence of the appellant, appears injurious to him.
 
+[.numbered]
 5+++.+++ If the said appellant be the person intended in the record, then his being convicted,
 and a judgment and fine of twenty pounds passed on him in his absence,
 without so much as any previous notice or summons given him thereof;
@@ -1366,6 +1522,7 @@ who are sworn that they shall well and lawfully serve our lord the king and his 
 in the office of a justice, and do equal law and execution of right to all his subjects,
 vid. Coke`'s Inst, part III. fol. 29.
 
+[.numbered]
 6+++.+++ What credit the witnesses are of is to be inquired;
 whether they have not assumed the place of informers for their own profit,
 or whether they are neighbours, able to live of their own, of good name and fame,
@@ -1373,20 +1530,28 @@ of honest report, etc.,
 as sir John Fortescue describes credible witnesses
 in his treatise in commendation of the laws of England.
 
+====
+
 If the merits of the cause be entered into, about the circumstances of the facts,
 then enquire:
 
-First; What manner of exercise of religion did that assembly of twenty persons and above,
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ What manner of exercise of religion did that assembly of twenty persons and above,
 as mentioned, pretend or practice, which the appellant is supposed to preach or teach to?
 What did that assembly do?
 
-And Secondly; What did he preach or teach to or among them?
+[.numbered]
+_And Secondly;_ What did he preach or teach to or among them?
 The law describes the circumstances of fact and fines relating to the conventicle,
 distinct from those of the preacher, but gives no distinct circumstance of preaching,
 as whether it be according or not according to the liturgy,
 but mentions only preaching or teaching, without exception or distinction.
 
-Thirdly;
+[.numbered]
+_Thirdly;_
 The appellant solemnly denies that he did either preach or teach
 in any such conventicle as the law describes and provides against;
 as either in a seditious one,
@@ -1394,38 +1559,50 @@ or such an assembly as was met under colour or pretence of an exercise
 of religion in other manner than according to what the liturgy and practice
 of the church of England do in confession and profession allow of.
 
-Fourthly; The said appellant solemnly affirms,
+[.numbered]
+_Fourthly;_ The said appellant solemnly affirms,
 that he neither pretends nor practices any other thing in
 the exercise of religion and worship towards Almighty God,
 than what is required by holy Scripture,
 and consequently warranted and allowed by the liturgy of the church of England,
 as is also apparent and proved in the liturgy itself.
 
-First; For spiritual worship, John, chap.
+====
+
+[.numbered-group]
+====
+
+[.numbered]
+_First;_ For spiritual worship, John, chap.
 iv. appointed in the second lesson at morning prayer, in March 17th,`' and July 16th,
 +++[+++worship the Father in spirit and in truth,]
 verse 23, 24.
 
-Secondly; For assembling and mutual exhortation, Heb. 10:24-25.
+[.numbered]
+_Secondly;_ For assembling and mutual exhortation, Heb. 10:24-25.
 Epistle on Good Friday,
 +++[+++not forsaking the assembling of ourselves together, but let us exhort one another, etc.]
 p+++.+++ 97.
 
-Thirdly; For a meeting of one hundred and twenty persons in a certain house. Acts 1:15.
+[.numbered]
+_Thirdly;_ For a meeting of one hundred and twenty persons in a certain house. Acts 1:15.
 On St. Matthias day, +++[+++the number of names that were together,
 was about one hundred and twenty.] p. 163.
 
-Fourthly;
+[.numbered]
+_Fourthly;_
 For freedom of ministering by the gift of Christ received. 1 Pet. 4:10.
 Epistle Sunday after Ascension day,
 +++[+++As every man hath received the gift, even so minister the same, etc.] p. 114.
 
-Fifthly; For the worship of God, being free without exception of time or place.
+[.numbered]
+_Fifthly;_ For the worship of God, being free without exception of time or place.
 +++[+++Communion.]
 It is our bounden duty, that we should at all times and in all places,
 give thanks unto thee, O Lord, holy Father, Almighty, etc.
 
-Sixthly; For what the said appellant and others believe, profess, or pretend,
+[.numbered]
+_Sixthly;_ For what the said appellant and others believe, profess, or pretend,
 for the pouring out of the holy Spirit, and liberty of prophecy thereby; Joel chap.
 ii. appointed at matins, 20th Sunday after trinity, first lesson, and evening prayer.
 +++[+++Verse 28. I will pour out my Spirit upon all flesh,
@@ -1435,6 +1612,8 @@ ii. verse 17, 18, for the second lesson, morning prayer, April the 5th,
 and August 4th. This was an evangelical prophecy, fulfilled in the gospel-day,
 and church of Christ.
 
+====
+
 These brief memorandums upon the two precedent cases; viz: That about routs,
 and this about the recorder`'s conviction,
 were not only intended for my own private use and memory, when I drew them up;
@@ -1442,4 +1621,5 @@ but also for the notice of others,
 and future information and caution of magistrates in the like cases,
 if any such shall ever hereafter happen, and therefore left to posterity.
 
+[.signed-section-signature]
 George Whitehead.
