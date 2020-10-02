@@ -95,9 +95,14 @@ I shall proceed to give some more particular accounts of our applications
 and endeavours relating to these cases before hinted,
 as they were presented to the king, and how far relief was obtained.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To King James the Second.
 
-The humble application of the people called Quakers.
+[.blurb]
+=== The humble application of the people called Quakers.
 
 Whereas it hath pleased Almighty God, by whom kings reign,
 to take hence the late king Charles the second,
@@ -114,15 +119,22 @@ we do humbly hope that the king`'s tenderness will appear and extend with his po
 to express the same; recommending to his princely clemency,
 the case of our present suffering friends hereunto annexed.
 
+--
+
 This petition, with the case and account of the number of prisoners annexed,
 was presented together to the king, and by him accepted, the 3rd day of the first month,
 called March, 1684-5, by George Whitehead, Alexander Parker, and Gilbert Latey.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the King.
 
-The distressed case and request of the suffering people commonly called Quakers,
-humbly presented.
+[.blurb]
+=== The distressed case and request of the suffering people commonly called Quakers, humbly presented.
 
+[.salutation]
 Showing,
 
 That according to accounts lately given, above fourteen hundred of the said people,
@@ -166,9 +178,14 @@ from prisons, spoil and ruin.
 And we shall, as in Christian duty bound, pray God for the king`'s welfare in this world,
 and his eternal happiness in that which is to come.
 
+[.signed-section-context-close]
 London, the 2nd of the First month, called March, 1684-5.
 
-An account of the number of the said prisoners called Quakers, in the several counties.
+[.postscript]
+====
+
+[.blurb]
+=== An account of the number of the said prisoners called Quakers, in the several counties.
 
 Bedfordshire, 30; Berkshire, 37; Bristol, 103; Buckinghamshire, 19; Cambridgeshire, 8;
 Ely, 11; Cheshire, 9; Cornwall, 32; Cumberland, 22; Derbyshire, 1; Devonshire, 104;
@@ -179,7 +196,11 @@ Nottinghamshire`', 6; Oxon, 17; Salop, 18; Somersetshire, 36; Southamptonshire, 
 Staffordshire, 1; Suffolk, 79; Surrey, 29; Sussex, 17; Warwickshire, 31; Westmoreland, 5;
 Wilts, 34; Worcestershire, 15; Yorkshire, 279; Wales, 30 Total, 1460.
 
-Considering our continued sufferings by '`informers,
+====
+
+--
+
+Considering our continued sufferings by informers,
 and those magistrates who abetted and encouraged them to take away our goods,
 and that to great excess and spoil, I was deeply concerned in spirit to go to the king,
 to give him further information thereof,
@@ -199,7 +220,8 @@ it being in his brother king Charles the second`'s days.
 On the 26th day of the third month, called May, 1685, about four in the afternoon,
 we had admittance into the king`'s presence.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 We thankfully acknowledge the king`'s favour in granting us this admittance:
 having acquainted the lord Peterborough with our great sufferings by informers, etc.,
 in and about London, he promised us to acquaint the king therewith, which we hope he did,
@@ -210,20 +232,24 @@ that the king promised to send for the recorder and speak to him himself,
 and that we should shortly feel the effects.
 But the informers still proceed against us.
 
-King: The lord Peterborough did speak to me, and acquainted me with it:
+[.discourse-part]
+_King:_ The lord Peterborough did speak to me, and acquainted me with it:
 I have not as yet spoken to the recorder, but intend to speak to him tomorrow;
 I will send for him into the prince`'s lodgings, and speak with him about it:
 therefore do you put me in mind of it when I go into the House of Lords tomorrow.
 
-George Whitehead: If the king please to speak to him and the lord mayor,
+[.discourse-part]
+_George Whitehead:_ If the king please to speak to him and the lord mayor,
 that a stop may be put to these informers,
 that they may not go on to ruin families as they do,
 we doubt not but it would be effectual, with the king`'s leave and favour,
 I have something more to propose.
 
-King: You may.
+[.discourse-part]
+_King:_ You may.
 
-George Whitehead: It is about the king`'s late promise, which hath two parts in it,
+[.discourse-part]
+_George Whitehead:_ It is about the king`'s late promise, which hath two parts in it,
 namely, that which concerns the defence of the church,
 and that which concerns the king`'s endeavouring to follow
 the example of his deceased brother the late king,
@@ -237,9 +263,11 @@ and these may very well consist; which if the king please to give me leave, I sh
 under favour, remind him of some acts of clemency, which his deceased brother,
 the late king, showed towards us.
 
-King: Leave granted to go on.
+[.discourse-part]
+_King:_ Leave granted to go on.
 
-George Whitehead: The late king, after his coronation,
+[.discourse-part]
+_George Whitehead:_ The late king, after his coronation,
 gave out his proclamation of grace,
 to release our friends out of the jails throughout England,
 upon which many hundreds were released.
@@ -249,7 +277,8 @@ for the liberty of tender consciences, and his letters Patent, or pardon,
 under the great seal, to release our friends out of prisons.
 Whereupon we had liberty for some years.
 
-King: I intended a general coronation pardon,
+[.discourse-part]
+_King:_ I intended a general coronation pardon,
 but the reason why it was deferred until the meeting of the Parliament, was,
 because some persons who are obnoxious, by being in the late plot,
 would thereby have been pardoned, and so might have come to sit in Parliament,
@@ -260,22 +289,27 @@ I was the cause of drawing up that declaration,
 and I never gave my consent to the making of it void:
 it was the Presbyterians who caused it to be made void, or cancelled, in Parliament, etc.
 
-George Whitehead: They were our adversaries to be sure, that caused it to be made void.
+[.discourse-part]
+_George Whitehead:_ They were our adversaries to be sure, that caused it to be made void.
 The king may defend the church of England, and yet grant indulgence,
 which may very well stand together, so as liberty to tender consciences may be allowed,
 with such moderate defence of the church as may not destroy conscientious dissenters.
 
-King: I am of that mind that they may consist.
+[.discourse-part]
+_King:_ I am of that mind that they may consist.
 
-George Whitehead: There is a plain instance in the said declaration,
+[.discourse-part]
+_George Whitehead:_ There is a plain instance in the said declaration,
 the late king grants indulgence and liberty to tender consciences;
 and yet engages to preserve the church of England in doctrine and discipline;
 and if the king please, I will leave him the said declaration of indulgence,
 for the sake of that passage, to remind it; for I have it.
 
-King: You need not leave it, for I have it without book.
+[.discourse-part]
+_King:_ You need not leave it, for I have it without book.
 
-George Whitehead: The imprisonments, as also the great spoil made by informers,
+[.discourse-part]
+_George Whitehead:_ The imprisonments, as also the great spoil made by informers,
 are still very hard upon many in and about London, and other parts;
 five warrants at once have been executed upon one person, amounting to fifty pounds,
 being ten pounds a warrant: we entreat the king to put a stop to these informers,
@@ -286,18 +320,22 @@ And by the close imprisonment of many, even here in London, in Newgate jail,
 divers of our friends have been so suffocated,
 that they have been taken out sick of a malignant fever, and in a few days died.
 
-King: I intend your friends shall be released out of prison;
+[.discourse-part]
+_King:_ I intend your friends shall be released out of prison;
 and I will consider of a way how to stop the informers;
 but they having a part of the fines,
 I must consider which way I may best take to stop them, and ease you.
 +++[+++or to the very same effect.]
 
-George Whitehead: We have just exceptions against the conventicle act itself,
+[.discourse-part]
+_George Whitehead:_ We have just exceptions against the conventicle act itself,
 in divers clauses.
 
-Robert Barclay: Convicting men behind their backs, is contrary to the law of nations.
+[.discourse-part]
+_Robert Barclay:_ Convicting men behind their backs, is contrary to the law of nations.
 
-George Whitehead: And then the awarding treble costs against the appellant,
+[.discourse-part]
+_George Whitehead:_ And then the awarding treble costs against the appellant,
 in case he is cast in the trial of his appeal, but no costs against the informers,
 nor any provision made, that they shall make any restitution to the party grieved,
 in case they be cast or nonsuited in their unjust prosecution: this appears very unequal.
@@ -320,17 +358,22 @@ and therefore thought meet to acquaint the king first with our intention;
 for we are willing and desirous that he should be acquainted
 with all public applications we make to the parliament.
 
-King: What is it?
+[.discourse-part]
+_King:_ What is it?
 
-George Whitehead: It is a plain account of our sufferings in matters of fact,
+[.discourse-part]
+_George Whitehead:_ It is a plain account of our sufferings in matters of fact,
 of the same kind with that which we lately gave to the king,
 with some reasons offered for the repeal of the conventicle act.
 
-King: Let me see it, and I will give you my opinion concerning it.
+[.discourse-part]
+_King:_ Let me see it, and I will give you my opinion concerning it.
 
-George Whitehead: We intend to show it to the king.
+[.discourse-part]
+_George Whitehead:_ We intend to show it to the king.
 
-Conclusion.
+[.discourse-part]
+_Conclusion._
 And we humbly and thankfully acknowledge the king`'s favour,
 in admitting us thus far to be heard.
 
@@ -342,16 +385,21 @@ for the king to take which he pleased; which George Whitehead tendered in this w
 "`We are come to give the king the case of our suffering friends, as we were engaged:
 here is the case at large, and the abstract, the king may take which he pleases.`"
 
-King: I will take the abstract.
+[.discourse-part]
+_King:_ I will take the abstract.
 
-George Whitehead: When shall we wait the king`'s pleasure to have his sense upon it?
+[.discourse-part]
+_George Whitehead:_ When shall we wait the king`'s pleasure to have his sense upon it?
 
-King: You need not wait now.
+[.discourse-part]
+_King:_ You need not wait now.
 
-George Whitehead:
+[.discourse-part]
+_George Whitehead:_
 We would not willingly miss our opportunity to present it to the Parliament.
 
-King: You may deliver it when you please.
+[.discourse-part]
+_King:_ You may deliver it when you please.
 
 After Robert Barclay and I had been with the king, and discoursed him as before related,
 Robert Barclay expressed himself very much satisfied in my discourse with him,
@@ -359,10 +407,13 @@ and in the king`'s behaviour towards us, and hearing matters so fully and well a
 so that we had still hopes of some relief from the great hardships of imprisonment,
 and that a stop would be put to those devouring persecutors, the informers.
 
-To the king and both Houses of Parliament:
-the suffering condition of the peaceable people called Quakers,
-only for tender conscience towards Almighty God; humbly presented.
+[.embedded-content-document.address]
+--
 
+[.blurb]
+=== To the king and both Houses of Parliament: the suffering condition of the peaceable people called Quakers, only for tender conscience towards Almighty God; humbly presented.
+
+[.salutation]
 Showing,
 
 That of late above one thousand five hundred of the said people, both men and women,
@@ -597,6 +648,8 @@ and for Christ`'s sake,
 entreat that you will tenderly and charitably consider of the premises,
 and find out some effectual expedient or way for our relief from prisons, spoil and ruin.
 
+--
+
 After the king was given fully to understand our hardships,
 through the great persecutions and sufferings, which many of our innocent,
 conscientious friends had long undergone, both in their persons and estates;
@@ -618,8 +671,13 @@ and this affecting king James the second, being a Papist,
 he might the more easily conclude it in his power, and the prerogative of the crown,
 to pardon and relieve dissenting Protestants from their extreme oppressions.
 
+[.offset]
 A copy of the aforesaid warrant and commission follows, viz:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 James R.
 
 Whereas we are given to understand, that several of our subjects,
@@ -653,7 +711,10 @@ Given at our court at Whitehall, the 15th day of March, 1685-6,
 in the second year of our reign.
 To our trusty and well beloved, our attorney general: by his majesty`'s command.
 
+[.signed-section-signature]
 Sunderland, P.
+
+--
 
 When this warrant was granted and delivered to us, the attorney general,
 sir Robert Sawyer, was not in London, but nearly forty miles from thence,
@@ -1006,6 +1067,10 @@ Whereupon they were so honest, as to amend their report, and made it more to the
 and then we gave the king some further intimation of our case, in the following letter,
 viz:
 
+[.embedded-content-document.letter]
+--
+
+[.salutation]
 May it please the king,
 
 Since the king was graciously pleased to refer our
@@ -1038,14 +1103,20 @@ These, with the said report considered, we hope the king will be graciously plea
 in his wisdom to put a speedy stop to these informers,
 and restrain them and the rest of their confederates from further spoiling of us, etc.
 
+[.signed-section-context-close]
 10th of the fifth month, 1686.
 
+[.signed-section-context-close]
 Delivered the day following at Windsor, to the king,
 per George Whitehead and Gilbert Latey.
 
-* * *
+--
 
-Some proposals to the Lord Chancellor about the informers.
+[.asterism]
+'''
+
+[.blurb]
+=== Some proposals to the Lord Chancellor about the informers.
 
 Since the king in cabinet, on the 11th of July, 1696,
 hath been graciously pleased to refer the matters
@@ -1056,16 +1127,22 @@ Rd. Graham and Ph. Burton, esquires, to the Lord High Chancellor of England,
 in order to correct the irregular proceedings of some justices and the informers,
 we the said people do humbly propose as followeth:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ That no person charged on the conventicle act, 22 Car.
 2, for meeting, be convicted, or warrants issued out for distress,
 without being first summoned to appear before the convicting justice,
 to answer his accusers or prosecutors face to face, according to the law of God,
 and of nations, and the common course of justice.
 
+[.numbered]
 2+++.+++ That no persons be admitted to take upon them to be informers or prosecutors,
 but such as are credible persons, and responsible in estate,
 to make satisfaction to the party grieved, if unduly or unjustly prosecuted.
 
+[.numbered]
 3+++.+++ That those informers named in the said report,
 made by the king`'s commissioners aforesaid, having committed great abuses,
 irregularities and misdemeanours, not only through their unskillfulness in law,
@@ -1079,6 +1156,7 @@ held at Guild-hall, London, the 14th day of July, 1686,
 thereby attempting to make good the same information,
 wherein their associates were convicted of perjury, as aforesaid.
 
+[.numbered]
 4+++.+++ That the intention of the said act, in employing informers,
 and providing reward for their encouragement,
 being for discovering or finding out conventicles, which supposes them obscure or hidden,
@@ -1090,16 +1168,19 @@ but always have been peaceable and inoffensive towards the king and government;
 it is therefore humbly requested, that a stop may be put to the informers`' prosecutions,
 with respect to those known public meetings of the said people.
 
+[.numbered]
 5+++.+++ That no convicting justice may be admitted to sit judge
 or chairman in the traverse or trial of appeals;
 seeing the appellant by law appeals from the convicting justice
 to the judgment of the other justices of the quarter sessions.
 
+[.numbered]
 6+++.+++ That the peace officers, constables, church wardens, or overseers of the poor, etc.,
 may not be forced to turn informers, either by any justice of peace,
 or court of sessions, before whom any supposed offender,
 or person under prosecution is or may be brought.
 
+[.numbered]
 7+++.+++ That no justice of the peace may be prosecuted for not gratifying the informers,
 or not receiving their informations, he being dissatisfied with them;
 either because they are not persons of credit,
@@ -1107,6 +1188,7 @@ or that he does not believe in his conscience that they are credible witnesses;
 or for his refusing to grant them warrants,
 without summoning the prosecuted parties to answer them face to face.
 
+[.numbered]
 8+++.+++ That neither the convicting justices of peace, nor constables, or other officers,
 after distress made, be suffered to divide, embezzle,
 or detain to themselves the monies levied, or any part thereof, as some have done,
@@ -1114,7 +1196,12 @@ but that the whole sum of money levied, be brought into the sessions,
 according to the act; many having suffered by embezzlements,
 that they could not have the legal benefit of appeals.
 
+[.numbered]
 9+++.+++ None ought to be allowed to prosecute as witnesses, or make oath for profit or gain,
 nor be allowed part of the fines for swearing against any persons under prosecution;
 that being a snare whereby divers have been tempted to forswear themselves,
 and have so done in plain matter of fact.
+
+====
+
+--
