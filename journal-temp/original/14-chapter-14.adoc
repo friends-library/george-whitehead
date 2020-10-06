@@ -74,6 +74,10 @@ the following petition was drawn up by Rowland Vaughan, an attorney, employed by
 he being informed how far Gilbert Latey and I had proceeded in our solicitation therein,
 and what effect the same had with the king.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To Lawrence, Earl of Rochester, Lord Treasurer of England.
 
 The humble petition of us whose names are here under subscribed,
@@ -108,7 +112,13 @@ until their discharge can be effectually completed,
 in pursuance of the king`'s said gracious will and pleasure.
 And the said petitioners shall, etc.
 
-A copy of the Lord Treasurer`'s warrant to the clerk of the Pipe.
+--
+
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== A copy of the Lord Treasurer`'s warrant to the clerk of the Pipe.
 
 After my hearty commendations,
 these are to authorize and direct you to forbear making forth any process against
@@ -118,11 +128,20 @@ and the three first sheets having four columns of names, the fourth only two;
 till the next term: and if any processes are already made forth,
 you are immediately to supersede the same: and for so doing this shall be your warrant.
 
+[.signed-section-context-close]
 Rochester.
 
+[.signed-section-context-close]
 Whitehall, Treasury chamber, March 4, 1685.
 
+[.postscript]
+====
+
 To my very loving friend, the clerk of the Pipe, or his deputy, etc.
+
+====
+
+--
 
 I was very industriously concerned to obtain such a warrant
 for a speedy stop to be put to the said processes,
@@ -191,6 +210,7 @@ by having their meetinghouses taken from them,
 and possessed by soldiers and their officers, and made guard houses of,
 and our friends kept out, and forced to meet without doors.
 
+[.offset]
 The case more particularly is as follows, viz:
 
 About the third month, 1685,
@@ -335,15 +355,18 @@ Gilbert Latey and I had admittance into the king`'s presence,
 on the 14th of the tenth month, 1687, at Whitehall.
 The king appeared glad to see us, and the substance of our discourse was as follows, viz:
 
-George Whitehead: We are glad to see the king,
+[.discourse-part]
+_George Whitehead:_ We are glad to see the king,
 and heartily wish him health and happiness, and a happy and prosperous reign,
 and that his government may be easy to him in all respects, that is,
 to himself and the people.
 
-King: I thank you; and for your parts, I believe well of you and your friends;
+[.discourse-part]
+_King:_ I thank you; and for your parts, I believe well of you and your friends;
 and that you do wish me well.
 
-George Whitehead: I desired to attend the king some time since,
+[.discourse-part]
+_George Whitehead:_ I desired to attend the king some time since,
 but a long journey this summer, into the north parts of England, and some sickness since,
 prevented.
 We have daily cause to bless God for the mercy we enjoy under the king,
@@ -356,9 +379,11 @@ and find the good effects of the king`'s declaration for liberty of conscience,
 and how well it is resented by all good people, by all who are sober,
 moderate and rational.
 
-King: It is well resented by all good Christians I am sure.
+[.discourse-part]
+_King:_ It is well resented by all good Christians I am sure.
 
-George Whitehead: I find that persons of understanding and quality,
+[.discourse-part]
+_George Whitehead:_ I find that persons of understanding and quality,
 do commend the king`'s prudence and conduct therein.
 And many innocent families,
 who have been sorely distressed by the persecutions
@@ -378,17 +403,21 @@ let the earth rejoice;
 and when the evil beasts of prey are made to cease out of the land,
 the earth shall yield her increase; according as God`'s holy prophets have testified.`"
 
-King: It is very true.
+[.discourse-part]
+_King:_ It is very true.
 
-George Whitehead: Let liberty of conscience, as declared or promised,
+[.discourse-part]
+_George Whitehead:_ Let liberty of conscience, as declared or promised,
 be vindicated or maintained, and the good effects thereof will appear more and more.
 
-King: I am resolved to maintain it as long as I live,
+[.discourse-part]
+_King:_ I am resolved to maintain it as long as I live,
 and make it as firm as a magna charta, and more firm if possible,
 that it may remain for the benefit of future ages,
 and that posterity may not have cause to alter it.
 
-George Whitehead: Whensoever the king shall please to call a Parliament,
+[.discourse-part]
+_George Whitehead:_ Whensoever the king shall please to call a Parliament,
 we do heartily wish it may be such as may concur with the king`'s clemency,
 according to his declaration, for liberty of conscience, and confirm it by a law;^
 footnote:[This was on occasion of something spoken by the king,
@@ -398,17 +427,22 @@ so far as argument and reason will go, or may prevail, to persuade them to confi
 and give it the sanction of law, and repeal those penal, persecuting laws,
 which are against that liberty.
 
+[.small-break]
+'''
+
 +++[+++Those persecuting laws, as the conventicle acts and others,
 being to force persons by penalties, contrary to their consciences,
 belief and persuasions, even in point of worship,
 consequently tend to make them hypocrites towards Almighty God,
 which no sincere soul can yield to.]
 
-King: You have a right to election of members of Parliament:
+[.discourse-part]
+_King:_ You have a right to election of members of Parliament:
 I would have your friends to have a care that they do not give
 their voices for such that are against liberty of conscience.
 
-George Whitehead: It concerns us all to have a care of that;
+[.discourse-part]
+_George Whitehead:_ It concerns us all to have a care of that;
 it is certain there can be no free Parliament upon a general and free election,
 whilst the oaths of supremacy and allegiance, and tests requiring a conformity,
 are made the qualifications of all members of Parliament;
@@ -418,14 +452,16 @@ Whereas a mixed,
 or more equally chosen Parliament is most likely to consider all interests,
 and to establish liberty of conscience, which those penal, persecuting laws allow not.
 
-King: Those laws and qualifications are against property, and destructive to it.
+[.discourse-part]
+_King:_ Those laws and qualifications are against property, and destructive to it.
 +++[+++With other words full and explanatory of his mind, to the same effect,
 not so clearly remembered,
 but generally importing those limitations to be also against
 the king`'s interest and prerogative of the crown,
 as well as against the people`'s property.]
 
-George Whitehead: By a mixed Parliament,
+[.discourse-part]
+_George Whitehead:_ By a mixed Parliament,
 I meant consisting of dissenters and of such churchmen as are against persecution,
 as the grand jury at Hertford assizes,
 who stopped all the presentments against dissenters for twenty pounds a month,
@@ -433,12 +469,14 @@ some time before the king`'s declaration for liberty of conscience came forth.
 This mixed grand jury appeared a fit example, as I thought,
 in this case relating to a free Parliament.
 
-King: You know when I was Duke of York, how envious many were against me,
+[.discourse-part]
+_King:_ You know when I was Duke of York, how envious many were against me,
 and how monstrously they pictured me in their pamphlets,
 to render me odious to the nation, and what a dangerous successor I should be.
 But in point of Christianity, I freely forgive them all.
 
-George Whitehead: That is a great point of Christianity and charity indeed,
+[.discourse-part]
+_George Whitehead:_ That is a great point of Christianity and charity indeed,
 freely to forgive injuries, and is generous and noble;
 and I am truly glad to hear so much from the king.
 It is true, the Duke of York was such a formidable person in the thoughts of many,
@@ -448,7 +486,8 @@ he has given such open demonstration of his clemency and good will to the people
 as has convinced many of their mistake therein,
 and given them cause to lay aside their former fears and jealousies of that kind.
 
-King: I was always of the same judgment for liberty of conscience,
+[.discourse-part]
+_King:_ I was always of the same judgment for liberty of conscience,
 that now I have declared publicly.
 I remember about twenty years ago, or above, I was at Tunbridge,
 though I never drank the waters; there was one Owen, John Owen, a dissenter,^
@@ -459,21 +498,25 @@ until some acquainted me therewith;
 and then I gave him liberty to come and speak with me, and told him my opinion,
 that it was for liberty of conscience, as I have now declared.
 
-George Whitehead: I heard as much a great while ago, from Edmund Waller, esq.,
+[.discourse-part]
+_George Whitehead:_ I heard as much a great while ago, from Edmund Waller, esq.,
 who is lately dead; he signified to the same purpose,
 concerning the Duke of York`'s being of that opinion for liberty of conscience,
 long since.
 
-Gilbert Latey: That which the king has signified secretly, he has now declared openly,
+[.discourse-part]
+_Gilbert Latey:_ That which the king has signified secretly, he has now declared openly,
 to the comforting the hearts of many thousands,
 who truly bless God for the king`'s kindnesses,
 and return hearty thanks to the king for the same;
 and for all the kindnesses thou hast shown to us the Lord reward thee,
 and return thee a thousand fold into thy own bosom.
 
-King: I thank you heartily.
+[.discourse-part]
+_King:_ I thank you heartily.
 
-Gilbert Latey: We remember when we were at Windsor to attend the late king,
+[.discourse-part]
+_Gilbert Latey:_ We remember when we were at Windsor to attend the late king,
 which was a time of great persecution,
 when we were likely to be torn to pieces by our persecutors, how kind thou wast to us;
 and we can truly say we were not easy in our minds till we had seen the king`'s face,
@@ -493,7 +536,8 @@ us possession of our meetinghouse at Savoy:
 I do therefore for myself, and in behalf of the rest of our friends at Westminster,
 return the king our humble and hearty acknowledgment and thanks for the same.
 
-George Whitehead: I have one particular case from Leeds in Yorkshire,
+[.discourse-part]
+_George Whitehead:_ I have one particular case from Leeds in Yorkshire,
 which our friends desired me to acquaint the king with; and that is,
 the magistrates of Leeds, in the late persecutions,
 have been more severe to our friends there, than in all the county of York besides.
@@ -511,25 +555,39 @@ to write two or three lines to the mayor and aldermen of Leeds,
 to cause them to restore the goods to the respective owners.
 +++[+++And thereupon George Whitehead delivered the case in writing to the king.]
 
-King: I will do it; I will speak to my Lord Sunderland to write as you desire.
+[.discourse-part]
+_King:_ I will do it; I will speak to my Lord Sunderland to write as you desire.
+
+[.small-break]
+'''
 
 +++[+++Which accordingly he did,
 and an order was the next day taken out for restitution of the said goods.]
 
-George Whitehead: We thankfully acknowledge the king`'s kindness in this case also.
+[.discourse-part]
+_George Whitehead:_ We thankfully acknowledge the king`'s kindness in this case also.
 
-Gilbert Latey: We pray God reward the king into his bosom,
+[.discourse-part]
+_Gilbert Latey:_ We pray God reward the king into his bosom,
 for all his favours and kindnesses, and grant him, if it be His will,
 long life and a happy reign here, and a crown of immortal glory hereafter.
 
-George Whitehead: We sincerely desire it.
+[.discourse-part]
+_George Whitehead:_ We sincerely desire it.
 
-King: I thank you heartily.
+[.discourse-part]
+_King:_ I thank you heartily.
 
+[.offset]
 A copy of the said order follows, viz:
 
+[.embedded-content-document.legal]
+--
+
+[.signed-section-context-open]
 Whitehall, December 14th, 1687.
 
+[.salutation]
 Gentlemen,
 
 The king being informed that some goods belonging
@@ -548,9 +606,13 @@ in whose hands soever they remain, to be forthwith restored to the respective ow
 without any charge.
 I am, gentlemen, your affectionate friend and servant,
 
+[.signed-section-signature]
 Sunderland, P.
 
+[.signed-section-context-close]
 Superscription,--For Mr. Mayor and the Aldermen of Leeds, in the county of York.
+
+--
 
 Finding it our Christian duty to be industrious in our solicitations
 for our conscientious and religious liberty,
@@ -577,7 +639,10 @@ to all his loving subjects for liberty of conscience:
 given at his court at Whitehall, the 4th day of April, 1687,
 in the third year of his reign, viz:
 
-"`It having pleased Almighty God,
+[quote]
+____
+
+It having pleased Almighty God,
 not only to bring us to the imperial crown of these kingdoms,
 through the greatest difficulties, but to preserve us by a more than ordinary providence,
 upon the throne of our royal ancestors; there is nothing now that we so earnestly desire,
@@ -590,7 +655,7 @@ which has never been in any case invaded by us, since our coming to the crown:
 which being the two things men value most, shall ever be preserved in these kingdoms,
 during our reign over them, as the truest methods of their peace and our glory.
 
-"`We cannot but heartily wish, as it will easily be believed,
+We cannot but heartily wish, as it will easily be believed,
 that all the people of our dominions were members of the Catholic church;
 yet we humbly thank Almighty God it is, and hath of long time been,
 our constant sense and opinion, which upon divers occasions we have declared,
@@ -601,7 +666,7 @@ as we think it is to the interest of government, which it destroys by spoiling t
 depopulating countries, and discouraging strangers; and finally,
 that it never obtained the end for which it was employed.
 
-"`And in this we are the more confirmed,
+And in this we are the more confirmed,
 by the reflections we have made upon the conduct of the four last reigns:
 for after all the frequent and pressing endeavours that were used in each of them,
 to reduce this kingdom to an exact conformity in religion,
@@ -614,7 +679,7 @@ to issue forth this our declaration of indulgence,
 making no doubt of the concurrence of our two houses of Parliament,
 when we shall think it convenient for them to meet.
 
-"`In the first place we do declare, that we will protect and maintain our archbishops,
+In the first place we do declare, that we will protect and maintain our archbishops,
 bishops and clergy, and all other our subjects of the church of England,
 in the free exercise of their religion, as by law established,
 and in the quiet and full enjoyment of all their possessions,
@@ -623,7 +688,7 @@ And that all, and all manner of penal laws, in matters ecclesiastical,
 for not coming to church, or for any other non-conformity to the religion established,
 be immediately suspended, etc.
 
-"`And to the end that by the liberty hereby granted,
+And to the end that by the liberty hereby granted,
 the peace and security of our government, in the practice thereof, may not be endangered,
 we have thought fit, and do hereby straitly charge and command all our loving subjects,
 that as we do freely give them leave to meet and serve God after their own way and manner,
@@ -636,24 +701,28 @@ And that they do signify and make known to some one
 or more of the next justices of the peace,
 what place or places they set apart for those uses.
 
-"`And that all oar subjects may enjoy such their religious assemblies,
+And that all oar subjects may enjoy such their religious assemblies,
 with greater assurance and protection, we have thought it requisite,
 and do hereby command, that no disturbance of any kind, be made, or given unto them,
 under pain of our displeasure, and to be proceeded against with the utmost severity,
-etc.`"
+etc.
+____
 
 With much more in the said declaration, respecting liberty of conscience,
 from certain oaths, pains, penalties, forfeitures, and disabilities, etc.
 In conclusion, the king thus declared, viz:
 
-"`And although the freedom and assurance we have hereby given,
+[quote]
+____
+And although the freedom and assurance we have hereby given,
 in relation to religion and property,
 might be sufficient to remove from the minds of our loving subjects,
 all fears and jealousies in relation to either,
 yet we have thought fit further to declare,
 that we will maintain them in all their properties and possessions,
 as well of church and abbey lands,
-as in any other their lands and properties whatsoever.`"
+as in any other their lands and properties whatsoever.
+____
 
 Considering the difficult circumstances the king was under,
 being reputed of the Roman Catholic church, so called, or declared Papist,
@@ -667,6 +736,10 @@ about matters of religion and conscience;
 contrary to the said declaration for liberty of conscience,
 which in itself appears both rational, prudent and politic.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ Respecting those of his own communion for their liberty;
 yet there appeared to be also a conscience on his part in the case;
 especially seeing he so solemnly declared,
@@ -674,6 +747,7 @@ That for a long time it had been his sense and opinion,
 that conscience ought not to be constrained,
 nor people forced in matters of mere religion.
 
+[.numbered]
 2+++.+++ Respecting his promise to the bishops and clergy of the church of England,
 he seemed therein cautious and politic,
 to quiet and put them out of their fears of losing their great revenues, tithes,
@@ -681,12 +755,14 @@ oblations and obventions, etc.
 As also to quiet the great and rich men concerned in abbey lands, impropriate tithes,
 and great revenues thereby, etc.
 
+[.numbered]
 3+++.+++ As for us the people commonly called Quakers, and our ministers,
 having no such revenues as tithes, hire, or wages for preaching, to lose,
 our gospel being free, we were not so afraid of popery or a popish prince and clergy,
 as those who enjoy those great revenues which the popish church and priesthood claim,
 and would gladly come into and possess.
 
+[.numbered]
 4+++.+++ The king having often seriously declared liberty of conscience,
 as from force and persecution, to be his principle and persuasion,
 and we who had long deeply suffered, partaking thereof,
@@ -695,7 +771,8 @@ had great reason to be the more easy and thankful,
 that we had some relief from those extreme persecutions
 and hardships we had long suffered under.
 
-6+++.+++ Howbeit,
+[.numbered]
+5+++.+++ Howbeit,
 the king`'s aforesaid declaration not having the sanction of an act of Parliament,
 for the confirmation and continuance thereof,
 we did not think our liberty secured to us thereby,
@@ -706,10 +783,13 @@ which lasted but a little while, and were soon made void by the Parliament and h
 and many persecutors let loose upon us again,
 because the liberty granted was not passed into a law.
 
+[.numbered]
 6+++.+++ Lastly; as to king James the second`'s abdication or removal from the throne,
 upon the revolution, it is not my business or concern,
 to treat of the particular causes or occasions thereof;
 they are matters of state and government.
+
+====
 
 Although the liberty of conscience declared and allowed by him to us,
 and other dissenters, whereby we all had relief, was envied by our persecutors, priests,
