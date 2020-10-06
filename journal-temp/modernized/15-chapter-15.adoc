@@ -1,5 +1,6 @@
 == Chapter XV
 
+[.section-summary-preface]
 George Whitehead introduces his account of his own and his friends`'
 proceedings in the early part of the reign of William and Mary,
 with the following review.
@@ -328,12 +329,16 @@ being a person of honour and credit.
 A copy of the aforesaid case, which was delivered to the king and the Lord Keeper,
 follows.
 
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
 To the King.
 
-The case and request of the peaceable people commonly called Quakers,
-in behalf of many of them who are present sufferers for conscience sake,
-humbly presented.
+[.blurb]
+=== The case and request of the peaceable people commonly called Quakers, in behalf of many of them who are present sufferers for conscience sake, humbly presented.
 
+[.salutation]
 Showing,
 
 That as the God of all our mercies has preserved
@@ -365,26 +370,35 @@ when it pleased God to move the heart of the kings and governments
 to show some compassion and favour to us;
 whereof these are some instances:
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ By king Charles the second`'s proclamation of grace in 1661,
 whereby many of our friends were released and freed out of prisons.
 
+[.numbered]
 2+++.+++ By his letters patent, or pardon, in 1672,
 pursuant to his declaration of indulgence to tender consciences in the same year.
 
+[.numbered]
 3+++.+++ By an act of Parliament, 25 Car.
 2, chap.
 5, entitled, An Act for the king`'s majesty`'s most gracious and general pardon,
 pardoning contempts, etc. against the king,
 whereby many also of the said people were discharged and released out of prisons.
 
+[.numbered]
 4+++.+++ Also by king James the second, many were released out of prisons,
 and relieved by various commissions, and two general proclamation pardons,
 the one in 1685, and the other in 1688.
 
+[.numbered]
 5+++.+++ And also by an act of gracious, general, and free pardon,
 in the second year of king William and queen Mary,
 several were discharged from contempts and imprisonments.
 
+[.numbered]
 6+++.+++ And by your late consort the queen, on application made to her in your absence,
 a poor innocent woman, who had been long prisoner at Lancaster, upon a tine,
 was released; which as an intimation of the queen`'s tender and merciful disposition,
@@ -392,6 +406,8 @@ we very thankfully acknowledged;
 as we do also very kindly acknowledge the king`'s late favourable inclination,
 to discharge two of our friends, prisoners on fines in Westmoreland,
 upon a petition presented by our friend Daniel Quare.
+
+====
 
 These noted precedents of favour and compassion to the oppressed,
 and the present confinements and hardships of many innocent persons tenderly considered;
@@ -401,6 +417,8 @@ to extend his favour and compassion towards the said sufferers,
 for their lawful ease and relief from their present confinements, prisons and hardships,
 either by proclamation or otherwise,
 as in his wisdom and clemency shall seem most fitting and convenient.
+
+--
 
 This case was presented to king William the third, the 2nd day of the second month, 1695,
 by George Whitehead, Gilbert Latey, Thomas Lower, John Taylor and Daniel Quare;
@@ -418,23 +436,34 @@ I saw it very fitting and requisite that I should give some account,
 having been greatly concerned to assist friends in that weighty case,
 wherein some of us innocently laboured early and late, in solicitation.
 
+[.numbered-group]
+====
+
+[.numbered]
 1+++.+++ To bring the members of Parliament to a right understanding of our case,
 as it is a case of conscience toward our Lord Jesus Christ,
 that we are under his express prohibition and command, not to swear at all,
 or in any case.
 
+[.numbered]
 2+++.+++ To show them the great necessity of affording some relief to us in this case,
 from the hardships, oppressions and disappointments that many suffered,
 because for conscience sake they could not swear or take an oath,
 either to relieve themselves or neighbours.
 
+[.numbered]
 3+++.+++ Our case and petition to the Parliament, and a copy of the bill,
 as it passed the House of Commons,
 and how the solemn affirmation was formed and passed the House of Lords,
 are fairly stated and related in the ensuing collection.
 
-The suffering case of the people commonly called Quakers, relating to oaths and swearing,
-humbly offered.
+====
+
+[.embedded-content-document.address]
+--
+
+[.blurb]
+==== The suffering case of the people commonly called Quakers, relating to oaths and swearing, humbly offered.
 
 It is not unknown to this nation, that ever since we were a people,
 it has been our principle not to swear, make or take oaths,
@@ -473,8 +502,13 @@ or guilty of falsehood in any unsworn testimony, evidence, or answers,
 that then such penalty be inflicted on the person so offending,
 as law and justice require in case of false swearing or perjury.
 
-To the respective members of the House of Commons,
-the humble application of the people commonly called Quakers.
+--
+
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== To the respective members of the House of Commons, the humble application of the people commonly called Quakers.
 
 We the said people, being a member of that body which you represent,
 and concerned in trade and industry,
@@ -497,9 +531,15 @@ which is, for leave to bring in a bill for our relief;
 and so to consider our suffering case, as if it were your own, and you in our stead;
 that we and our posterities may have cause to bless the Lord on your behalf.
 
-To the Commons of England, in Parliament assembled:
-the humble petition of the people called Quakers.
+--
 
+[.embedded-content-document.address]
+--
+
+[.blurb]
+==== To the Commons of England, in Parliament assembled: the humble petition of the people called Quakers.
+
+[.salutation]
 Shows,
 
 Our many, long and renewed sufferings for not swearing,
@@ -524,10 +564,13 @@ as in law and justice are due unto perjured persons.
 
 This petition was agreed to and signed by the friends following:
 
+[.signed-section-signature]
 John Staploe, John Harwood, William Bingley, Walter Benshall, Jo. Hall, George Whitehead,
 Thomas Lower, Gilbert Latey, William Mead, Richard Thomas, Thomas Hudson, Thomas Hart,
 Theodore Ecclestone, Jo. Butcher, Michael Russel, Samuel Jobson, John Hermon,
 Daniel Quare, John Bull, George Oldner.
+
+--
 
 Our petition, thus agreed unto,
 and some fair copies thereof prepared for members of parliament,
@@ -607,8 +650,11 @@ as it was drawn up by sir Francis Wynington,
 corrected and passed by the House of Commons, the clause relating to tithes excepted,
 which was ordered by the House of Commons, and is in the printed act.
 
-A Bill that the solemn affirmation or denial of the people called Quakers,
-may be accepted instead of an oath.
+[.embedded-content-document.legal]
+--
+
+[.blurb]
+=== A Bill that the solemn affirmation or denial of the people called Quakers, may be accepted instead of an oath.
 
 Whereas some dissenters, commonly called Quakers,
 refusing to take an oath in courts of justice, and other places,
@@ -640,6 +686,8 @@ every such Quaker so offending, shall incur the same penalties and forfeitures, 
 by the laws and statutes of this realm are enacted,
 against persons convicted of wilful and corrupt perjury.
 
+--
+
 The bill was read the 17th of the twelfth month, Feb., 1695, the first time,
 and the 3rd of the first mouth, 1696, a second time; and committed:
 the same day the committee met.
@@ -665,7 +713,10 @@ To incline the House of Peers to grant relief from our sufferings for not sweari
 our case was reprinted and presented with several reasons subjoined;
 and among others this following:
 
-"`We also propose to your serious consideration,
+[.embedded-content-document.address]
+--
+
+We also propose to your serious consideration,
 that this moderation to persons scrupling to swear,
 has had good effects in neighbouring countries,
 as above one hundred years experience has manifested, in the following instance;
@@ -674,11 +725,13 @@ and Statholder of Holland, Zealand, etc., with the consent of the government and
 sent his mandate to the magistrates, commanding on behalf the people called Menists,
 who refused to swear in any case,
 that their yes should be accepted and taken instead of an oath, they being subject,
-in case of falsifying the truth, to the pains of perjury.`"
+in case of falsifying the truth, to the pains of perjury.
 
-"`In the year 1593, Prince Maurice, son of the former prince,
+In the year 1593, Prince Maurice, son of the former prince,
 with the consent of the States, gave forth a mandate in behalf of the Menists,
-to the same effect.`"
+to the same effect.
+
+--
 
 Upon these passages of the Menists having this liberty
 to be exempted from taking an oath upon their yes,
@@ -807,7 +860,10 @@ and the rights and properties of the subject.
 In the first place it is fitting to recite some heads and clauses of the said bill,
 which follow:
 
-Preamble--Forasmuch as the fabrics of many parochial churches and chapels,
+[quote]
+____
+
+__Preamble--__Forasmuch as the fabrics of many parochial churches and chapels,
 and the value of poor vicarages, within this realm, are daily growing into great decay,
 because very many persons do refuse to pay their church rates, small tithes,
 and other ecclesiastical duties and charges.
@@ -897,10 +953,10 @@ and to the same effects and purposes in law,
 as the justices of the peace upon information,
 or request to them made by the ordinary might have done,
 or may do by virtue of this statute.
+____
 
-An account of the substance of what was pleaded before the committee of lords,
-against the said bill, the 14th day of the ninth month 1689.
-With some remarks thereupon added, by George Whitehead.
+[.blurb]
+=== An account of the substance of what was pleaded before the committee of lords, against the said bill, the 14th day of the ninth month 1689. With some remarks thereupon added, by George Whitehead.
 
 Present in the committee,--the Bishop of London, chairman, the Bishop of Winchester,
 the Earl of Mulgrove, Earl of Suffolk, Earl of Craven, Earl of Kingstone.
@@ -925,15 +981,20 @@ that the same reasons may be alledged against the present bill,
 giving such absolute power to the ecclesiastical courts, their judges and ordinaries,
 to give definitive sentence and judgment as therein described.
 
-Bishop: You except against the bill itself.
+[.discourse-part]
+_Bishop:_ You except against the bill itself.
 What particulars do you object against?
 
-George Whitehead: Observing several particular clauses therein,
+[.discourse-part]
+_George Whitehead:_ Observing several particular clauses therein,
 it appears contrary to the great charter of England, i. e. Magna Charta,
 as the arbitrary and oppressive proceedings of the Star-chamber
 and High-Commission court were judged to be,
 and therefore they and their power or jurisdiction which they exercised,
 were justly taken away from them.
+
+[.small-break]
+'''
 
 By the present bill, the ecclesiastical judge or ordinary,
 is made the sole judge and determiner by his definitive sentence,
@@ -968,7 +1029,8 @@ One of the committee queried, "`Which would you have then?
 Do you choose rather to have your goods seized or distrained,
 than imprisonment of your persons?`"
 
-George Whitehead answered: of two evils we had better suffer by the less,
+[.discourse-part]
+_George Whitehead answered:_ Of two evils we had better suffer by the less,
 yet choose neither.
 If we must suffer for non-payment of tithes,
 we would rather suffer the less penalty than the greater;
@@ -983,10 +1045,12 @@ whom we do not employ;
 and we do not require any of the church of England to pay toward the repair of our meetinghouses;
 they would not be so dealt by.
 
-The Bishop reflected: "`What, then, you compare your meetinghouses to ours,
+[.discourse-part]
+_The Bishop reflected:_ "`What, then, you compare your meetinghouses to ours,
 which are established by law.
 
-I replied: We are thankful to the government,
+[.discourse-part]
+_I replied:_ We are thankful to the government,
 ours are now legally allowed by the late Act of exemption, or toleration, etc.
 
 If any party or witnesses cited to appear in the ecclesiastical court, and absenting,
@@ -1008,6 +1072,9 @@ Both taken away '`and made void in the seventeenth year of king Charles I. cap.
 10 and 11. An appeal being also admitted upon condition by the Stat.
 32 H. 8. c. 7. quoted, yet none by this bill,
 but sureties required to satisfy the definitive sentence and judgment of the court.
+
+[.small-break]
+'''
 
 One of the lords temporal of the said committee, put this question to us:
 "`But what reason have you in point of conscience, for your refusing to pay tithes?`"
@@ -1040,11 +1107,20 @@ should not we reap of your temporal, or carnal things.
 And the Lord has ordained, that they who preach the gospel, should live of the gospel,
 etc.`"
 
-Answer: Reaping temporal things, or living of the gospel, is not limited to tithes.
+[.discourse-part]
+_Answer:_ Reaping temporal things, or living of the gospel, is not limited to tithes.
+
+[.small-break]
+'''
 
 Here I was interrupted and prevented from further discourse against tithes.
 
-The Bishop asked us: "`Have you any exceptions or reasons to offer in writing?`"
+[.discourse-part]
+_The Bishop asked us:_ "`Have you any exceptions or reasons to offer in writing?`"
+
+[.small-break]
+'''
+
 I answered, "`yes, we have,`" which we then delivered to the clerk, John Relph, Esq.
 to read; which he did very distinctly, and no reply was given;
 but the Bishop directed him to lay them by for further consideration, or to that effect.
@@ -1065,10 +1141,10 @@ Blessed be the Lord, they were disappointed,
 that that weapon was not formed ready to be put into their hands,
 or power to make use of.
 
-Exceptions against the Bill, entitled An Act for the better payment of Church-rates,
-Small Tithes, and other Church-duties; and for better passing Church Wardens accounts;
-humbly offered.
+[.blurb]
+=== Exceptions against the Bill, entitled An Act for the better payment of Church-rates, Small Tithes, and other Church-duties; and for better passing Church Wardens accounts; humbly offered.
 
+[.offset]
 It is observed.
 
 That in the said bill, no appeal to any other, or higher court is granted,
@@ -1199,6 +1275,8 @@ and for prevention of the like suffering for the future.
 
 The amendment I offered to be inserted in the bill and clause following was this:
 
+[quote]
+____
 And every teacher or preacher in any congregation whatsoever,
 (receiving ten pounds per annum, or upwards) not having taken orders,
 according to the discipline of the Church of England,
@@ -1206,6 +1284,7 @@ according to the discipline of the Church of England,
 at the several days before mentioned;
 and none of the said last mentioned persons so charged, to be further charged,
 or pay as a gentleman, or reputed gentleman.
+____
 
 The words I proposed to be inserted in the said clause, (namely,
 receiving ten pounds per annum,
@@ -1238,11 +1317,16 @@ when I was in any measure instrumental in obtaining some ease to our friends and
 or in preventing further oppressions and sufferings, which they might be liable to,
 by undue or mal-administration, if not timely prevented.
 
-* * *
+[.asterism]
+'''
 
-To the Czar of Muscovy, when in England.
-A salutation of Christian love, from certain persons commonly called Quakers.
+[.embedded-content-document.letter]
+--
 
+[.blurb]
+=== To the Czar of Muscovy, when in England. A salutation of Christian love, from certain persons commonly called Quakers.
+
+[.salutation]
 May it please you, O great Czar!
 
 We heartily wish you tranquillity,
@@ -1299,11 +1383,17 @@ as they may be persuaded by him who is the Sovereign Lord over the consciences o
 
 From your real well-wishers, and friends to your immortal soul,
 who desire your everlasting happiness.
+
+[.signed-section-closing]
 Signed,
 
+[.signed-section-signature]
 George Whitehead, Thomas Lower, John Vaughton, William Penn, Francis Camfield.
 
+[.signed-section-context-close]
 London, the 23rd of the Twelfth month, 1697-8.
+
+--
 
 When it was agreed among friends that some of us should visit the Czar,
 the contents of the foregoing paper were presented to my view,
@@ -1416,9 +1506,14 @@ to those charges that were against us in the petition.
 This was fairly granted by them; however, upon their deliberate consideration,
 the petition was prudently dropped, and not moved in Parliament.
 
+[.offset]
 A copy of the said petition follows:
 
-To the House of Commons: Norfolk petition of justices and grand jurors.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== To the House of Commons: Norfolk petition of justices and grand jurors.
 
 We cannot without resentment,
 take notice of the great growth and daily increase of the Quakers,
@@ -1445,6 +1540,8 @@ their said principles and practices may be strictly examined and censured, or su
 as they shall appear to deserve, and as in your great wisdom shall seem expedient;
 and that the true Christian religion may be preserved from popish superstition,
 and unpolluted with enthusiastical innovations.
+
+--
 
 I shall not need to make any large comment on this petition,
 to evince the nature and tendency thereof;
@@ -1473,11 +1570,11 @@ then at work to raise a new persecution against us,
 after our liberty was legally granted;
 I think fit to add a copy of the said petition from Bury, which is as follows:
 
-To the honourable the Commons of England, in Parliament assembled;
-the humble petition of the aldermen, assistant justice,
-and chief burgess and burgesses of the common council,
-in behalf of themselves and the other inhabitants of the borough of Bury St. Edmonds,
-in Suffolk.
+[.embedded-content-document.letter]
+--
+
+[.blurb]
+=== To the honourable the Commons of England, in Parliament assembled; the humble petition of the aldermen, assistant justice, and chief burgess and burgesses of the common council, in behalf of themselves and the other inhabitants of the borough of Bury St. Edmonds, in Suffolk.
 
 Humbly shows, That we considering all ancient heresies,
 which have vexed both church and state,
@@ -1496,6 +1593,8 @@ if not by totally suppressing,
 yet at least by preventing their after growth and increase among us:
 that our posterity may untroubled live, by this early care of our laws and liberties,
 and we enjoy the wished for happiness of a peaceful life.
+
+--
 
 I need not make any larger remark on this petition, than on that from Norfolk,
 it being a plain indication of the like envious and persecuting spirit.
@@ -1548,6 +1647,9 @@ The title on the inside: "`The three Norfolk clergymen`'s brief discovery, etc.;
 presented by them to the king and Parliament against the people called Quakers,
 modestly observed to our superiors.`"
 
+[.embedded-content-document.paper]
+--
+
 It does not surprise us to be evilly entreated,
 and especially by those that have an interest in doing it.
 But if conscience prevailed more than contention, and charity overruled prejudice,
@@ -1573,8 +1675,11 @@ and think it our duty, as well as wisdom,
 to use the liberty the government has favoured us with,
 in as peaceable and inoffensive manner as may be.
 
+[.signed-section-signature]
 George Whitehead, John Vaughton, John Fiddeman, Henry Gouldney, William Penn, John Field,
 John Bellers, Joseph Wyeth.
+
+--
 
 The priests in our days have made a great noise for tithes and offerings, etc.,
 and the envy and persecution of many of them, against us,
@@ -1610,7 +1715,7 @@ but also inconsistent with the true Christian profession,
 whereof Jesus Christ is our great High Priest and Apostle;
 to whom be glory and dominion forever.
 
-The Conclusion.
+=== The Conclusion.
 
 Manifold exercises, trials,
 and tribulations has the Lord my God supported me under and carried me through,
@@ -1636,6 +1741,8 @@ O my soul! enter into your rest, even your eternal rest, from your manifold labo
 travails and sufferings; for the Lord your God has dealt bountifully with you:
 glory to his excellent name forevermore.
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 Concluded, London, the 18th of the Sixth month, 1711.
