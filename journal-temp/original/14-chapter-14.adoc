@@ -558,6 +558,9 @@ to cause them to restore the goods to the respective owners.
 [.discourse-part]
 _King:_ I will do it; I will speak to my Lord Sunderland to write as you desire.
 
+[.small-break]
+'''
+
 +++[+++Which accordingly he did,
 and an order was the next day taken out for restitution of the said goods.]
 
