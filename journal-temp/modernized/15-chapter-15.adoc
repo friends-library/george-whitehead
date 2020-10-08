@@ -83,7 +83,7 @@ It commonly goes by the name or title of.
 The Act of Toleration, but the real title is.
 An Act for exempting their majesties`' Protestant subjects,
 dissenting from the church of England, from the penalties of certain laws.
-+++[+++Anno primo Gulielmi and Maria.]
++++[+++_Anno primo Gulielmi and Maria._]
 
 The preamble is: Forasmuch as some ease to scrupulous consciences,
 in the exercise of religion,
@@ -901,14 +901,14 @@ and being duly summoned,
 shall contumaciously absent himself for the space of one calendar month,
 after the return of such summons; that in such cases,
 it shall and may be lawful for the ecclesiastical judge,
-to declare the party so called or summoned, to be taken pro confesso;
+to declare the party so called or summoned, to be taken _pro confesso;_
 and if both parties shall appear, then the said judge shall,
 and may hear and examine the matter summarily,
 according to the course and process of the said ecclesiastical law,
-and to examine witnesses upon oath viva voce.
+and to examine witnesses upon oath _viva voce._
 And having heard and examined the whole matter,
 or in case of either of the parties contumaciously absenting as aforesaid,
-and being declared pro confesso,
+and being declared _pro confesso,_
 the said ecclesiastical judge shall by interlocutory decree, order,
 judge and determine the same, as well principal as costs, and monish the party condemned,
 to pay and satisfy the same accordingly.
@@ -1167,7 +1167,7 @@ tending to starve the poor wife and children at home.
 No legal excuse is admitted or provided for the party cited, summoned, or prosecuted,
 suppose he be gone a long journey,
 or otherwise unavoidably prevented by his emergent occasions from appearing,
-but he must be taken pro confesso, which is to condemn him without hearing.
+but he must be taken _pro confesso,_ which is to condemn him without hearing.
 
 The penalty is the same for not paying the clerks or sexton, or church-rates,
 as it is for not paying small tithes.

@@ -453,7 +453,7 @@ or to be convicted of a premunire, upon whose convictions I suppose judgment was
 are not legally to be discharged, but by his majesty`'s pardon under the great seal.
 
 [.numbered]
-2+++.+++ All such that are returned to be in prison upon writs of Excommunicato Capiendo,
+2+++.+++ All such that are returned to be in prison upon writs of _Excommunicato Capiendo,_
 not mentioning the cause, ought not to be discharged till the cause appears;
 for if it be for tithes, legacies, defamations, or other private interests,
 they ought not to be discharged till the parties be satisfied.
@@ -511,7 +511,7 @@ and frequenting, or being present at seditious conventicles; and of all premunir
 judgments, convictions, sentences of excommunication, and transportation thereupon;
 and of all fines, amercements, pains, penalties and forfeitures,
 whatsoever thereby incurred, with restitution of lands and goods, and such other clauses,
-and non obstantes, as may render this our pardon most effectual;
+and _non obstantes,_ as may render this our pardon most effectual;
 for which this shall be your warrant.
 
 [.signed-section-context-close]
@@ -1060,7 +1060,7 @@ the several modes of prosecution were renewed against us, the people called Quak
 for not swearing allegiance, the penalty was imprisonment and premunire;
 for not going to parish church, so called, twenty pounds a month,
 or two thirds of a person`'s estate forfeited and seized on exchequer process or excommunication,
-and writs De Excomunicato Capiendo,
+and writs__ De Excomunicato Capiendo,__
 issued out to take and imprison the persons excommunicated.
 And for our innocent religious meetings, great spoil was made upon our goods,
 which were taken and torn away by a company of loose idle informers,
@@ -1079,8 +1079,8 @@ according to the following brief account.
 To the King`'s Justices, appointed for the several circuits throughout England.
 
 Many of our friends, called Quakers, being continued prisoners,
-and many prosecuted to great spoil by informers, and on Qui-tam writs,
-and by presentments and indictments for twenty pounds, per mensem,
+and many prosecuted to great spoil by informers, and on _Qui-tam_ writs,
+and by presentments and indictments for twenty pounds, _per mensem,_
 in divers counties throughout England,
 only on the account of religion and tender conscience toward Almighty God,
 we esteem it our Christian duty to remind you of their suffering condition,

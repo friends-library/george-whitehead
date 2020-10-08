@@ -1031,7 +1031,7 @@ in omitting such material points.
 
 [.discourse-part]
 _Lord Chancellor:_ Those defects are exceptions pleadable, and they may be heard,
-if they remove themselves by Habeas Corpus.
+if they remove themselves by _Habeas Corpus._
 
 [.discourse-part]
 _Lord President:_ That exception of yours will not serve your turn.
@@ -1152,7 +1152,7 @@ _Mayor`'s Officer:_--Did not you take upon you to preach, or teach in the meetin
 
 [.discourse-part]
 _George Whitehead:_--I am not bound to be my own prosecutor;
-I am not under an oath ex officio.
+I am not under an oath _ex officio._
 Where are my accusers, those who informed against the meeting?
 If they could be so prophetical, as to tell so many days beforehand,
 that there would be such a conventicle as the warrant mentions,
@@ -1252,7 +1252,7 @@ to be distributed according to the said Act; and for your so doing,
 this shall be your warrant.
 
 Given under my hand and seal, this 10th day of September,
-Anno Regis Caroli Secundi, 34. Anno Domini 1682.
+_Anno Regis Caroli Secundi,_ 34. Anno Domini 1682.
 
 [.signed-section-signature]
 John Moor, Mayor.
@@ -1299,9 +1299,9 @@ by virtue of which Act I have imposed a fine of forty pounds upon him,
 the said George Whitehead,
 this being the second offence of which he stands convicted before me upon record.
 
-Given under my hand the 5th day of September, Anno.
+Given under my hand the 5th day of September, _Anno.
 Reg. Carol.
-Secundi nunc Ang.
+Secundi nunc_ Ang.
 35, etc.
 Anno Domini 1683.
 
