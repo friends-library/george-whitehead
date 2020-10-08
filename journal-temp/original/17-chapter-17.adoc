@@ -1,6 +1,7 @@
 == Chapter XVII
 
-=== Testimonies of George Whitehead
+[.chapter-subtitle--blurb]
+Testimonies of George Whitehead
 
 We shall conclude with the character given him after his decease, in two testimonies,
 the one written by Richard Claridge, his intimate friend and acquaintance,
