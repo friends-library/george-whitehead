@@ -1,5 +1,6 @@
 == Chapter XVI
 
+[.chapter-subtitle--blurb]
 A Supplement to the Preceding History.
 
 The author has closed the foregoing account of his Christian
@@ -17,6 +18,9 @@ the people called Quakers presented a congratulatory address to king George,
 upon his accession to the crown, which being read to and graciously accepted by the king,
 George Whitehead made a speech to this effect;
 
+[.embedded-content-document.address]
+--
+
 Thou art welcome to us, king George.
 We heartily wish thee health and happiness, and thy son the prince also.
 King William the third was a happy instrument in putting a stop to persecution,
@@ -30,6 +34,8 @@ and that to live a peaceable and quiet life, in all godliness and honesty,
 is according to our principle and practice.^
 footnote:[Sewel`'s History of the Quakers, p. 711.]
 
+--
+
 George Whitehead having thus spoken, his name was asked; whereupon he answered,
 George Whitehead.
 And having it upon his mind to see the prince also,
@@ -38,6 +44,9 @@ he made way for it: and thus George Whitehead, with some of his friends, got acc
 and were introduced by one of the prince`'s gentlemen, into a chamber,
 where the prince met them; and then George Whitehead spoke to him,
 the substance of which speech was as follows;
+
+[.embedded-content-document.address]
+--
 
 We take it as a favour that we are thus admitted to see the prince of Wales,
 and are truly very glad to see thee.
@@ -58,6 +67,9 @@ and he shall be as the light of the morning, when the sun riseth,
 even a morning without clouds, as the tender grass springing out of the earth,
 by clear shining after rain.
 
+--
+
+[.offset]
 This speech was favourably heard by the prince.
 
 In the year 1715, after the breaking out of that unnatural rebellion,
@@ -67,7 +79,11 @@ having obtained an admission to the king`'s presence, presented to him a paper,
 a copy of which, found among the author`'s manuscripts, since his decease,
 we here insert.
 
-A few words in true love to king George, humbly presented.
+[.embedded-content-document.address]
+--
+
+[.blurb]
+=== A few words in true love to king George, humbly presented.
 
 Seeing our most gracious God hath been pleased, by his overruling power and providence,
 to give thee a free and peaceable accession to the throne of these kingdoms;
@@ -97,9 +113,13 @@ and a crown of righteousness in that to come,
 is the hearty prayer of an ancient servant of Jesus Christ,
 and a truly loving and faithful subject,
 
+[.signed-section-signature]
 George Whitehead.
 
+[.signed-section-context-close]
 London, the 25th of the Eighth month, called October, 1715.
+
+--
 
 In the month called May, 1716, the people called Quakers,
 at their yearly meeting in London, drew up an address, and presented it to the king,
@@ -109,6 +129,9 @@ of God in confounding the late black conspiracy;
 at the presenting of which address, George Whitehead made a previous speech to the king,
 signifying:
 
+[.embedded-content-document.address]
+--
+
 That in their annual assembly, held for the religious concerns of their Society,
 endeavouring to promote and put in practice the duties of religion professed by them,
 the sense of the great deliverance had such a weight upon their minds,
@@ -117,6 +140,8 @@ whom God by his providence had brought hither, and preserved, so that he could w
 he was George, by the grace of God, king of Great Britain, etc.
 And that as men carried that saying stamped on the money in their pockets,
 so it was to be wished it might be imprinted in the hearts of the subjects.
+
+--
 
 Although now above eighty years of age, and feeble in body,
 he nevertheless continued to bear his testimony in the public assemblies,
@@ -153,7 +178,8 @@ fall of themselves; so violence bereaves young men of life, maturity the aged:
 which indeed to me is so delightful, that as I approach nearer to death,
 methinks I see the land, and after a tedious voyage am at last making to my port.`"
 
-* * *
+[.asterism]
+'''
 
 The following essay, occasioned by the apostacy of George Keith,
 was penned by George Whitehead, and submitted to,
@@ -161,18 +187,27 @@ and approved by the Morning meeting of London, and subsequently transmitted to,
 and approved by the yearly meeting of Philadelphia,
 which gave it an extensive circulation, viz:
 
-The Christian doctrine and Society of the people called Quakers,
-cleared from the reproach of the late division of a few in some part of America;
-as not being justly chargeable upon the body of the said people, there or elsewhere.
-Printed in the year 1693.
+[.embedded-content-document]
+--
 
-"`Now I beseech you, brethren, mark them diligently which cause divisions and offences,
-contrary to the doctrine which ye have learned, and avoid them.`" Rom. 16:17.
+[.blurb]
+=== The Christian doctrine and Society of the people called Quakers, cleared from the reproach of the late division of a few in some part of America; as not being justly chargeable upon the body of the said people, there or elsewhere. Printed in the year 1693.
 
-"`Let all bitterness, and wrath, and anger, and clamour,
+[quote.scripture, , Rom. 16:17]
+____
+
+Now I beseech you, brethren, mark them diligently which cause divisions and offences,
+contrary to the doctrine which ye have learned, and avoid them.
+____
+
+[quote.scripture, , Eph 4:31-32]
+____
+
+Let all bitterness, and wrath, and anger, and clamour,
 and evil-speaking be put away from you, with ail malice.
 And be ye kind one to another, tender-hearted, forgiving one another, even as God,
-for Christ`'s sake, hath forgiven you.`" Eph. 4:31-32.
+for Christ`'s sake, hath forgiven you.
+____
 
 Whereas divers accounts have been lately published in print,
 of some late division and disputes between some persons
@@ -538,7 +573,14 @@ we have great reason to credit and not to question,
 and have been always ready to embrace with respect
 to Christ and his apostles`' own testimony and prophecies.
 
-1+++.+++ For the Doctrine of the Resurrection.
+[.numbered-group]
+====
+
+[.numbered]
+1+++.+++ _For the Doctrine of the Resurrection._
+
+[.small-break]
+'''
 
 If in this life only we have hope in Christ, we are of all men most miserable; 1 Cor. 15:19.
 We sincerely believe,
@@ -573,11 +615,17 @@ Howbeit we esteem it very unnecessary to dispute or question how the dead are ra
 or with what body they come;
 but rather submit that to the wisdom and pleasure of Almighty God.
 
-2+++.+++ For the Doctrine of Eternal Judgment.
+[.numbered]
+2+++.+++ _For the Doctrine of Eternal Judgment._
+
+[.small-break]
+'''
 
 God hath committed all judgment unto his Son Jesus Christ;
 and he is Judge both of quick and dead, and of the states and ends of all mankind;
 John 5:22,27, Acts 10:2,42 Tim. 4:1-1 Pet. 4:5.
+
+====
 
 That there shall be hereafter a great harvest, which is the end of the world;
 a great day of judgment, and the judgment of that great day,
@@ -672,7 +720,11 @@ intervals of life they themselves have lived on earth,
 and what transactions or remarkable passages, or things good or bad,
 they have done or passed through in those their supposed past intervals of life.
 
-Conclusion.
+[.small-break]
+'''
+
+[.centered]
+_Conclusion._
 
 To conclude: as we are persuaded want of walking in the true light,
 and want of Christian charity is the great cause of divisions,
@@ -732,7 +784,8 @@ to the substance and life of Christianity, to true love, fervent charity,
 and tender-heartedness, and forgiveness towards one another,
 and to follow peace with all men, and holiness; without which no man shall see the Lord.
 
-A Postscript, relating to the doctrine of the Resurrection and Eternal Judgment.
+[.blurb]
+=== A Postscript, relating to the doctrine of the Resurrection and Eternal Judgment.
 
 At the last trump of God, and voice of the archangel,
 the dead shall be raised incorruptible; the dead in Christ shall rise first;
@@ -763,23 +816,38 @@ according to their works; Rev. 20:12-15.
 
 Signed in behalf of our Christian profession and people aforesaid;
 
+[.signed-section-signature]
 George Whitehead, Ambrose Rigge, William Fallowfield, James Parke, Charles Marshall,
 John Bowater, John Vaughton, William Bingley.
 
-* * *
+--
+
+[.asterism]
+'''
 
 The following epistle appears to have been written by him when very far advanced in life,
 viz:
 
-A Gospel salutation in true Christian love, recommended to Friends,
-who believe in the name of the Son of God, the true Light;
-and to all who truly desire to be grounded and settled in the faith of Christ.
+[.embedded-content-document.epistle]
+--
 
-"`I am the light of the world: he that followeth me shall not walk in darkness,
-but shall have the light of life.`" John 8:12.
+[.blurb]
+=== A Gospel salutation in true Christian love, recommended to Friends, who believe in the name of the Son of God, the true Light; and to all who truly desire to be grounded and settled in the faith of Christ.
 
-"`While ye have light, believe in the light, that ye may be the children of light.`" John 12:36.
+[quote.scripture, , John 8:12]
+____
 
+I am the light of the world: he that followeth me shall not walk in darkness,
+but shall have the light of life.
+____
+
+[quote.scripture, , John 12:36]
+____
+
+While ye have light, believe in the light, that ye may be the children of light.
+____
+
+[.salutation]
 Beloved Friends,
 
 Now, in my ancient years,
@@ -850,17 +918,24 @@ which taketh away the sin of the world:`" In what respect does Jesus Christ,
 as the Lamb of God, take away the sin of the world?
 I answer, in two respects:
 
-First, as an universal and most excellent offering and acceptable sacrifice for sin,
+[.numbered-group]
+====
+
+[.numbered]
+_First,_ as an universal and most excellent offering and acceptable sacrifice for sin,
 in order to obtain redemption and forgiveness by his precious blood,
 and even of a most sweet smelling savour to God,
 far excelling the legal and typical oblations of animals,
 as the offerings and blood of bulls, goats, heifers, sheep, rams, lambs, etc.,
 all which Jesus Christ by his own one offering put an end unto.
 
-Second; Jesus Christ, as the Lamb of God, takes away the sin of the world,
+[.numbered]
+_Second;_ Jesus Christ, as the Lamb of God, takes away the sin of the world,
 by purging the conscience and purifying the hearts of all
 them who truly receive him and believe in him,
 even in his holy name and divine power.
+
+====
 
 O! therefore, behold the Lamb of God, which taketh away and putteth an end to sin,
 finisheth transgression, and brings in everlasting righteousness.
@@ -1315,4 +1390,7 @@ than to suppose any deficiency on your parts relating thereunto.
 The Lord be with you all,
 and possess your hearts with his dear love and divine wisdom in Christ Jesus.
 
+[.signed-section-signature]
 George Whitehead.
+
+--

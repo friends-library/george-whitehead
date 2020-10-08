@@ -1,5 +1,6 @@
 == Chapter XVII
 
+[.chapter-subtitle--blurb]
 Testimonies of George Whitehead
 
 We shall conclude with the character given him after his decease, in two testimonies,
@@ -8,7 +9,11 @@ who survived him but a few weeks;
 the other by the friends of the monthly meeting at Devonshire house, London,
 in whose neighbourhood he had been an inhabitant many years.
 
-Richard Claridge`'s Testimony concerning George Whitehead.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Richard Claridge`'s Testimony concerning George Whitehead.
 
 George Whitehead was one whom the Lord had highly dignified in his day,
 calling him about the sixteenth year of his age,
@@ -58,10 +63,16 @@ but renounced the hidden things of dishonesty; not walking in craftiness,
 nor handling the word of God deceitfully, but by manifestation of the truth,
 commending himself to every man`'s conscience in the sight of God; 2 Cor. 4:1-2.
 
-* * *
+--
 
-The Testimony of Devonshire house monthly meeting,
-A short account and testimony concerning our dear and worthy friend, George Whitehead.
+[.asterism]
+'''
+
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== The Testimony of Devonshire house monthly meeting, A short account and testimony concerning our dear and worthy friend, George Whitehead.
 
 Our ancient worthy friends, who in the morning of this gospel day,
 were about the same time sent forth to declare the truth, with this our deceased friend,
@@ -211,6 +222,7 @@ being attended by a very large number of friends and others.
 Signed in, and on the behalf of the monthly meeting, at the Devonshire house,
 the 15th day of the third month, 1723, by,
 
+[.signed-section-signature]
 William Mackett, Theodore Eccleston, John Knight, Lascells Metcalf, Arnold Frowd,
 William Price, John Belch, Benjamin Sanchey, Robert Plumsted, John Baker,
 Jonathan Scarth, Thomas Eedes, John Lunn, Thomas Broadbank, Peter Ext on, Richard Price,
@@ -219,3 +231,5 @@ Joseph Rossell, John West, Samuel Mackerness, Caleb Hughes, Miles Walker,
 Jonathan Stevens, Samuel Bowley, Samuel Scott, John Hayton, George Fossick, Joseph North,
 William Dodd, Elizabeth Fossick, Richard How, Herman Hingsberg, Thomas Mayleigh,
 William Teaguij, Benjamin Bealing.
+
+--
