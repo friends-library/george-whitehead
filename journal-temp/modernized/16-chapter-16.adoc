@@ -1,6 +1,6 @@
 == Chapter XVI
 
-[.section-summary-preface]
+[.chapter-subtitle--blurb]
 A Supplement to the Preceding History.
 
 The author has closed the foregoing account of his Christian
