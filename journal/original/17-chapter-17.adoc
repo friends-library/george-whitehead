@@ -225,7 +225,7 @@ the 15th day of the third month, 1723, by,
 [.signed-section-signature]
 William Mackett, Theodore Eccleston, John Knight, Lascells Metcalf, Arnold Frowd,
 William Price, John Belch, Benjamin Sanchey, Robert Plumsted, John Baker,
-Jonathan Scarth, Thomas Eedes, John Lunn, Thomas Broadbank, Peter Ext on, Richard Price,
+Jonathan Scarth, Thomas Eedes, John Lunn, Thomas Broadbank, Peter Exton, Richard Price,
 Richard Lea, Thomas Crawley, James Lambert, Josiah Knight, William Hodgson, John Lee,
 Joseph Rossell, John West, Samuel Mackerness, Caleb Hughes, Miles Walker,
 Jonathan Stevens, Samuel Bowley, Samuel Scott, John Hayton, George Fossick, Joseph North,
