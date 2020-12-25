@@ -155,7 +155,7 @@ etc., told them of a statute yet in force, that was made in queen Elizabeth`'s d
 to hang such persons as they were.
 Being asked by the prisoners if he could prosecute them upon that law,
 or execute it upon them?
-He answered.
+He answered,
 Yes; if the king should give order to have it put in execution, he would do it;
 he would prosecute them, and have them hanged, if they would not abjure the realm,
 or to that effect.
@@ -1025,7 +1025,7 @@ The warrant or mittimus, saith he, containing a lawful cause,
 ought to have a lawful conclusion, viz;
 And him safely to keep until he be delivered by law, etc.
 And not until the party committing doth give further order.
-And this doth evidently appear by the writs of Habeas Corpus,
+And this doth evidently appear by the writs of _Habeas Corpus,_
 both in the king`'s bench and common pleas, exchequer and chancery.
 
 Again he saith.
@@ -1187,7 +1187,7 @@ For how many oaths would not traitors and felons take,
 if swearing would free them from the judgment or condign punishment of the law?
 What oaths would not such take to save themselves?
 Seeing the recorder seemed not to deny the tender of the oath to be a process in law,
-his answer.
+his answer,
 That your meetings are against the public peace, was beside the point.
 His requiring the oath is neither the process nor the penalty of the law,
 for the breach of the public peace: they are distinct cases and processes.
@@ -1461,7 +1461,7 @@ _Recorder:_ Your words tend to stir up the people here to sedition.
 [.discourse-part]
 _George Whitehead:_ We have no such design: we only plead our own rights as Englishmen:
 the losers must have leave to speak: our liberties and estates,
-and families are concerned our wives and families suffer by our restraint.
+and families are concerned: our wives and families suffer by our restraint.
 
 [.discourse-part]
 _Recorder:_ Clerk, tender him the oath: offer him the book.
