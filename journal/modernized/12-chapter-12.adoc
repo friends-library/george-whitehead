@@ -980,8 +980,9 @@ On the legal and true definition of riots, routs, etc.
 ====
 
 [.numbered]
-_First;_ What a rout and riot is, defined by the Lord Coke, Instit, part 3, cap, 79, fol.
-176: _Riotum_ comes from the French word _Rioter,_
+_First;_ What a rout and riot is, defined by the Lord Coke,
+Instit, part 3, cap, 79, fol. 176:
+_Riotum_ comes from the French word _Rioter,_
 and in the law signifies when three or more do any unlawful act, as to beat any man,
 or hunt in his park, chase or warren,
 or to enter or take possession of another man`'s land,
@@ -993,16 +994,14 @@ unlawful act for their own or the common quarrel, etc.
 As when commoners break down hedges or pales, or cast down ditches, or inhabitants,
 for a way claimed by them, or the like.
 
-Observe also William Lambard`'s [.book-title]#Eirenarchia,# lib.
-2, p. 175, under the title.
+Observe also William Lambard`'s [.book-title]#Eirenarchia,# lib. 2, p. 175, under the title.
 Riots: An unlawful assembly is of the company of three or more persons,
 disorderly coming together forcibly to commit an unlawful act, as to beat a man,
 or to enter upon his possession, or such like,
 +++[+++i.e. any injurious force or violence moved against the person of another, his goods,
 lands or possessions, whether it be by threatening words,
 or by furious gesture or force of body, or any other force used in _terrorem populi,_
-as Mic.
-Dalton says, of the breach of the peace, fol, 7, The like of riots, routs,
+as Mic. Dalton says, of the breach of the peace, fol, 7, The like of riots, routs,
 and unlawful assemblies, consisting of three or more persons.]
 
 A rout, says William Lambard, is a disordered assembly of three or more persons,
@@ -1038,8 +1037,9 @@ be not in the same manner and form,
 or of the same kind that these indictments are against us,
 for our religious meetings to pray to God, etc.
 What book case, or precedent in common law or equity,
+can parallel or warrant the last?^
 // lint-disable invalid-characters
-can parallel or warrant the last?footnote:[ΕΙΚΩΝ ΒΑΞΑΙΚΗ page 28.
+footnote:[ΕΙΚΩΝ ΒΑΞΑΙΚΗ page 28.
 King Charles the first, in his prayer to God, says:
 Make them at length seriously to consider, that nothing violent or injurious,
 can be religious.
@@ -1053,8 +1053,8 @@ therefore we conceive they are not such as in common law or reason, can be deeme
 riots, and unlawful assemblies.
 
 [.numbered]
-_Secondly;_ Not routous or riotous, by the conventicle act, 22 Car.
-2, because: Four persons besides the respective family, may meet and exercise religion,
+_Secondly;_ Not routous or riotous, by the conventicle act, 22 Car. 2, because:
+Four persons besides the respective family, may meet and exercise religion,
 whereas three persons make a rout or riot,
 if met with intention forcibly or violently to do an unlawful act,
 or do it to the injury of the person or property of another.
@@ -1065,8 +1065,7 @@ if they had judged them routous or riotous in fact, or such in their own nature:
 it is not only the circumstance of number, but the injurious fact which makes a rout,
 riot, etc.
 
-Besides,
-praying to and praising God are not assigned as matters
+Besides, praying to and praising God are not assigned as matters
 of fact incurring the penalty of twenty pounds,
 awarded for preaching and teaching in such conventicle as therein described.
 If praying to or praising God come under the pretence of exercise of religion,
@@ -1101,8 +1100,8 @@ and against the directions of the court in matter of law,
 they had acquitted William Penn and William Mead,^
 footnote:[Note,
 that the aforesaid William Penn and William Mead were taken at a religious meeting;
-for which they were indicted for being at an unlawful assembly, routously, riotously,
-etc.]
+for which they were indicted for being at an unlawful assembly,
+routously, riotously, etc.]
 to the great obstruction of justice, etc., which, upon solemn argument,
 was by the judges resolved to be an insufficient cause of fining and committing them:
 and they were discharged, and afterwards brought actions for their damage.
@@ -1142,14 +1141,10 @@ hired persons, poor men, vagabonds, unconstant people,
 or such whose condition and naughtiness is unknown; but such as are neighbours,
 able to live of their own, of good name and fame, of honest report, etc.
 It is by the evidence of such witnesses, that jurors ought to be informed.
-_Vid. Fortes, de Laud.
-Leg. Angl.
-Cap._ 26, p. 60, 61, cap.
-28, p. 63, 64.
+_Vid. Fortes, de Laud. Leg. Angl. Cap._ 26, p. 60, 61, cap. 28, p. 63, 64.
 
 Observe further what sir John Fortescue says in this case, in his said book,
-in commendation of the laws of England, chap.
-28.
+in commendation of the laws of England, chap. 28.
 
 Verily, no man can be safe in body or goods,
 when his adversary may convince in every case,
@@ -1182,8 +1177,7 @@ Let us consider one another, to provoke unto love, and to good works;
 not forsaking the assembling of ourselves together, as the manner of some is;
 but let us exhort one another, and that so much the more,
 because you see the day approaching.^
-footnote:[On Good Friday, Epist.
-Heb. 10:24-25, cited in the liturgy.]
+footnote:[On Good Friday, Epist. Heb. 10:24-25, cited in the liturgy.]
 
 [.alt.centered]
 ==== For freedom of ministering by the gift received.
@@ -1193,8 +1187,7 @@ as good stewards of the manifold grace of God: if any man speak,
 let him speak as the oracles of God: if any man minister,
 let him do it as of the ability which God gives, that God in all things may be glorified,
 through Jesus Christ.^
-footnote:[Sunday after Ascension day, Epist.
-1 Pet. 4:10, cited.]
+footnote:[Sunday after Ascension day, Epist. 1 Pet. 4:10, cited.]
 
 [.alt.centered]
 ==== The Spirit prayed for by the church of England.
@@ -1279,7 +1272,7 @@ And so for that time George Whitehead was dismissed
 until the sessions of the peace for the city of London.
 
 [.inline]
-==== Proceedings at the sessions at Guildhall, for the city of London, against George Whitehead, the 1st of September, 1684.
+=== Proceedings at the sessions at Guildhall, for the city of London, against George Whitehead, the 1st of September, 1684.
 
 Present on the bench, Henry Tulse, knight, lord mayor; Peter Daniel, knight,
 and Samuel Dashwood, sheriff`'s; James Smith, knight, alderman; Thomas Jenner,
