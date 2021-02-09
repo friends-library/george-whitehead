@@ -863,14 +863,13 @@ which follow:
 
 [quote]
 ____
-
 __Preamble--__Forasmuch as the fabrics of many parochial churches and chapels,
 and the value of poor vicarages, within this realm, are daily growing into great decay,
 because very many persons do refuse to pay their church rates, small tithes,
 and other ecclesiastical duties and charges.
 And whereas by a statute made in the two and thirtieth year of king Henry the eighth,
-chap.
-7, entitled, An Act how tithes ought to be paid, and how to be recovered being not paid,
+chap. 7, entitled,
+An Act how tithes ought to be paid, and how to be recovered being not paid,
 it is enacted, That if any person or persons,
 after definitive sentence given against them, in the court ecclesiastical,
 obstinately and willfully refuse to pay their tithes, or such sums of money adjudged,
