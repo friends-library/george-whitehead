@@ -961,7 +961,7 @@ footnote:[Isaiah 50:1]
 [.asterism]
 '''
 
-+++[+++_Note from the editor:_
++++[+++__Note from the editor:__
 George Whitehead was one of several young and unschooled messengers of
 the gospel whom the Lord sent forth at this time from the northern,
 rural parts of England into the more populated south,
